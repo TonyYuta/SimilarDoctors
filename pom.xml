@@ -58,7 +58,7 @@
 				<configuration>
  					<archive>
  						<manifest>
-							<mainClass>com.practicefusion.sqa.SimilarDoctors.Doctors2</mainClass>
+							<mainClass>com.practicefusion.sqa.SimilarDoctors.Doctors</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
