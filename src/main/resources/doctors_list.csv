@@ -1,0 +1,4000 @@
+1;Alexander;Sanderson;Allergist;Berkeley;1.5
+2;Joshua;White;Pediatrician;Burlingame;1.6
+3;Joanne;Sutter;Cardiologist;Colma;1.7
+4;Leah;Peters;Dermatologist;Colma;1.8
+5;Jan;Avery;Endocrinologist;Colma;1.9
+6;Justin;Hart;Gastroenterologist;Concord;2
+7;Leah;Davidson;Hematologist;Concord;2.1
+8;Edward;Avery;Nephrologist;Cupertino;2.2
+9;Jack;Lambert;Obstetrician;Daly City;2.3
+10;Benjamin;Lambert;Ophthalmologist;Daly City;2.4
+11;Liam;Lyman;Optometrist;Daly City;2.5
+12;Diana;Nash;Orthopedic Surgeon;Daly City;2.6
+13;Evan;Taylor;Otolaryngologist;East Palo Alto;2.7
+14;Leah;Taylor;Pediatrician;Foster City;2.8
+15;Julian;Martin;Physiatrist;Fremont;2.9
+16;Pippa;Hart;Plastic Surgeon;Fremont;3
+17;Keith;Hudson;Psychiatrist;Gilroy;3.1
+18;Lisa;Taylor;Psychiatrist;Half Moon Bay;3.2
+19;Kimberly;Oliver;Pulmonologist;Hayward;3.3
+20;Alan;Blake;Radiologist;Hayward;3.4
+21;Joan;Rampling;Rheumatologist;Hillsborough;3.5
+22;Bella;Murray;Urologist;Los Altos;3.6
+23;Gabrielle;Harris;Allergist;Los Altos;3.7
+24;Joe;Baker;Anesthesiologist;Los Gatos;3.8
+25;Ann;Clark;Cardiologist;Los Gatos;3.9
+26;Stewart;Abraham;Dermatologist;Palo Alto;4
+27;Warren;White;Endocrinologist;Los Gatos;4.1
+28;Brandon;Davies;Gastroenterologist;Menlo Park;4.2
+29;Alison;Bower;Hematologist;Millbrae;4.3
+30;Andrea;Ross;Nephrologist;Milpitas;4.4
+31;Gordon;White;Obstetrician;Palo Alto;4.5
+32;Leah;Wilson;Ophthalmologist;Milpitas;4.6
+33;Rose;Willian;Optometrist;Milpitas;3.3
+34;Charles;Walker;Orthopedic Surgeon;San Francisco;3.4
+35;Olivia;Young;Otolaryngologist;Palo Alto;3.5
+36;Steven;Hemmings;Pediatrician;Mountain View;3.6
+37;Lucas;Dowd;Physiatrist;Mountain View;3.7
+38;Elizabeth;Ferguson;Plastic Surgeon;Oakland;3.8
+39;Paul;Mathis;Psychiatrist;Oakland;3.9
+40;Amy;Walsh;Psychiatrist;Pacifica;4
+41;Abigail;Nolan;Pulmonologist;Palo Alto;4.1
+42;Jack;Coleman;Radiologist;Millbray;4.2
+43;Donna;Quinn;Rheumatologist;Redwood City;4.3
+44;Heather;Paige;Urologist;Richmond;4.4
+45;Vanessa;Payne;Orthopedic Surgeon;Richmond;4.5
+46;Colin;Young;Otolaryngologist;San Bruno;4.6
+47;Benjamin;Howard;Pediatrician;San Bruno;4.7
+48;Jane;Gray;Physiatrist;San Bruno;3.3
+49;Grace;Vance;Gastroenterologist;Millbrae;3.4
+50;Virginia;Burgess;Psychiatrist;San Carlos;3.5
+51;Caroline;Cornish;Psychiatrist;San Carlos;3.6
+52;Tracey;Mitchy;Gastroenterologist;San Francisco;3.7
+53;Boris;Wilson;Physiatrist;San Francisco;3.8
+54;Joan;Payne;Gastroenterologist;San Francisco;3.9
+55;Tracey;King;Gastroenterologist;San Francisco;4
+56;Anna;Hunter;Allergist;San Francisco;4.1
+57;Matt;Gibson;Anesthesiologist;San Francisco;4.2
+58;Vanessa;Marshall;Cardiologist;San Jose;4.3
+59;Nicola;Powell;Physiatrist;San Jose;4.4
+60;Harry;Forsyth;Endocrinologist;San Jose;4.5
+61;Irene;Smith;Physiatrist;San Jose;4.6
+62;Carol;Cameron;Hematologist;San Jose;4.7
+63;Alan;Wilkins;Gastroenterologist;San Jose;1.9
+64;Wendy;Blake;Obstetrician;San Jose;2
+65;Evan;Parr;Physiatrist;San Mateo;2.1
+66;Sonia;Bower;Optometrist;San Mateo;2.2
+67;David;Rees;Orthopedic Surgeon;San Mateo;2.3
+68;Adrian;Campbell;Otolaryngologist;San Mateo;2.4
+69;Jonathan;Tucker;Cardiologist;Santa Clara;2.5
+70;Jonathan;Pullman;Physiatrist;Santa Clara;2.6
+71;Diane;Suther;Plastic Surgeon;Santa Clara;2.7
+72;Sue;Gibson;Cardiologist;Palo Alto;2.8
+73;Claire;Payne;Cardiologist;Santa Rosa;2.9
+74;Adrian;Taylor;Physiatrist;Saratoga;3
+75;Sarah;Brown;Cardiologist;South San Francisco;3.1
+76;Nathan;Jones;Cardiologist;Sunnyvale;3.2
+77;Brandon;Baker;Physiatrist;Sunnyvale;3.3
+78;Dorothy;Bell;Psychiatrist;Menlo Park;3.4
+79;Nicholas;Fraser;Allergist;Berkeley;3.5
+80;Boris;Hemmings;Anesthesiologist;Burlingame;3.6
+81;Sean;Young;Cardiologist;Colma;3.7
+82;Austin;Short;Dermatologist;Colma;3.8
+83;Leonard;Manning;Endocrinologist;Colma;3.9
+84;Joe;Mills;Gastroenterologist;Concord;4
+85;Kylie;Bailey;Hematologist;Concord;4.1
+86;Gabrielle;Hart;Nephrologist;Cupertino;4.2
+87;Joan;Watson;Obstetrician;Daly City;4.3
+88;Victoria;Quinn;Ophthalmologist;Daly City;4.4
+89;Andrew;Henders;Optometrist;Daly City;4.5
+90;Joseph;Gill;Orthopedic Surgeon;Daly City;4.6
+91;Gavin;Gibson;Otolaryngologist;East Palo Alto;4.7
+92;Carl;Taylor;Pediatrician;Foster City;4.8
+93;Adam;Welch;Physiatrist;Fremont;4.9
+94;Christian;Palmer;Plastic Surgeon;Fremont;3.3
+95;Warren;Welch;Psychiatrist;Gilroy;3.4
+96;Alexander;Hudson;Psychiatrist;Half Moon Bay;3.5
+97;Isaac;Johnston;Pulmonologist;Hayward;3.6
+98;Boris;Lawrence;Radiologist;Hayward;3.7
+99;Andrew;Manning;Rheumatologist;Hillsborough;3.8
+100;Paul;Henders;Urologist;Los Altos;3.9
+101;Dylan;Poole;Allergist;Los Altos;4
+102;Eric;Roberts;Anesthesiologist;Los Gatos;4.1
+103;Joshua;Arnold;Cardiologist;Los Gatos;4.2
+104;Andrea;Dickens;Dermatologist;Palo Alto;4.3
+105;Paul;Powell;Endocrinologist;Los Gatos;4.4
+106;Julia;Avery;Gastroenterologist;Menlo Park;4.5
+107;Dominic;Palmer;Hematologist;Millbrae;4.6
+108;Victoria;Morgan;Nephrologist;Milpitas;4.7
+109;Carl;May;Obstetrician;Palo Alto;3.3
+110;Samantha;Baker;Ophthalmologist;Milpitas;3.4
+111;Simon;Bell;Optometrist;Milpitas;3.5
+112;San;Payne;Orthopedic Surgeon;San Francisco;3.6
+113;Natalie;Payne;Otolaryngologist;Palo Alto;3.7
+114;Matt;Lewis;Pediatrician;Mountain View;3.8
+115;Peter;Bailey;Physiatrist;Mountain View;3.9
+116;Leonard;Skinner;Plastic Surgeon;Oakland;4
+117;Yvonne;Malkin;Psychiatrist;Oakland;4.1
+118;Sue;MacLeod;Psychiatrist;Pacifica;4.2
+119;Leonard;Peake;Pulmonologist;Palo Alto;4.3
+120;Frank;Hamilton;Radiologist;Millbray;4.4
+121;Bella;Springer;Rheumatologist;Redwood City;4.5
+122;Edward;Piper;Urologist;Richmond;4.6
+123;Sophie;Walsh;Orthopedic Surgeon;Richmond;4.7
+124;Evan;Henders;Otolaryngologist;San Bruno;2.4
+125;Alexander;Allan;Pediatrician;San Bruno;2.5
+126;Donna;Bower;Physiatrist;San Bruno;2.6
+127;Neil;Robertson;Gastroenterologist;Millbrae;2.7
+128;Brandon;Blake;Psychiatrist;San Carlos;2.8
+129;Oliver;Simpson;Psychiatrist;San Carlos;2.9
+130;Lily;Marshall;Gastroenterologist;San Francisco;3
+131;Angela;Nash;Physiatrist;San Francisco;3.1
+132;Trevor;Ball;Gastroenterologist;San Francisco;3.2
+133;Carl;Fisher;Gastroenterologist;San Francisco;3.3
+134;Robert;Hart;Allergist;San Francisco;3.4
+135;Austin;Skinner;Anesthesiologist;San Francisco;3.5
+136;Adam;Wilson;Cardiologist;San Jose;3.6
+137;Faith;Short;Physiatrist;San Jose;3.7
+138;Joan;Butler;Endocrinologist;San Jose;3.8
+139;Leah;Marshall;Physiatrist;San Jose;3.9
+140;Yvonne;Walker;Hematologist;San Jose;4
+141;Diane;Ross;Gastroenterologist;San Jose;4.1
+142;Thomas;Vaughan;Obstetrician;San Jose;4.2
+143;Alison;Morrison;Physiatrist;San Mateo;4.3
+144;Simon;McDonald;Optometrist;San Mateo;4.4
+145;Megan;Buckland;Orthopedic Surgeon;San Mateo;4.5
+146;Chloe;McDonald;Otolaryngologist;San Mateo;4.6
+147;Matt;Berry;Cardiologist;Santa Clara;4.7
+148;Anna;Bailey;Physiatrist;Santa Clara;4.8
+149;Mary;Young;Plastic Surgeon;Santa Clara;4.9
+150;Ava;Dowd;Cardiologist;Palo Alto;5
+151;Neil;Martin;Cardiologist;Santa Rosa;2.8
+152;Luke;Kelin;Physiatrist;Saratoga;2.9
+153;Mary;Manning;Cardiologist;South San Francisco;3
+154;Sean;Greene;Cardiologist;Sunnyvale;3.1
+155;Carolyn;Bond;Physiatrist;Sunnyvale;3.2
+156;Olivia;Powell;Psychiatrist;Menlo Park;3.3
+157;Oliver;Miller;Allergist;Berkeley;3.4
+158;Jason;Ogden;Anesthesiologist;Burlingame;3.5
+159;Melanie;Gibson;Cardiologist;Colma;3.6
+160;Kevin;James;Dermatologist;Colma;3.7
+161;Zoe;Alsop;Endocrinologist;Colma;3.8
+162;Simon;Quinn;Gastroenterologist;Concord;3.9
+163;Eric;James;Hematologist;Concord;4
+164;Jessica;Nash;Nephrologist;Cupertino;4.1
+165;Isaac;Blake;Obstetrician;Daly City;1.5
+166;Austin;Hughes;Ophthalmologist;Daly City;1.6
+167;Gordon;Bell;Optometrist;Daly City;1.7
+168;Abigail;Sharp;Orthopedic Surgeon;Daly City;1.8
+169;Michael;Bond;Otolaryngologist;East Palo Alto;1.9
+170;Joseph;Mitchell;Pediatrician;Foster City;2
+171;Neil;Graham;Physiatrist;Fremont;2.1
+172;Michael;Campbell;Plastic Surgeon;Fremont;2.2
+173;Lily;Kelin;Psychiatrist;Gilroy;2.3
+174;Owen;Oliver;Psychiatrist;Half Moon Bay;2.4
+175;Max;Randall;Pulmonologist;Hayward;2.5
+176;Mary;Clark;Radiologist;Hayward;2.6
+177;Jane;Harris;Rheumatologist;Hillsborough;2.7
+178;Felicity;MacLeod;Urologist;Los Altos;2.8
+179;Claire;Walsh;Allergist;Los Altos;2.9
+180;Sarah;Palmer;Anesthesiologist;Los Gatos;3
+181;Penelope;Blake;Cardiologist;Los Gatos;3.1
+182;Christian;Howard;Dermatologist;Palo Alto;3.2
+183;Dorothy;Gray;Endocrinologist;Los Gatos;3.3
+184;Caroline;Baker;Gastroenterologist;Menlo Park;3.4
+185;Dorothy;Tucker;Hematologist;Millbrae;3.5
+186;Phil;Marshall;Nephrologist;Milpitas;3.6
+187;Frank;Baker;Obstetrician;Palo Alto;3.7
+188;Charles;Hughes;Ophthalmologist;Milpitas;3.8
+189;Dorothy;Glover;Optometrist;Milpitas;3.9
+190;Sue;McDonald;Orthopedic Surgeon;San Francisco;4
+191;Evan;Gill;Otolaryngologist;Palo Alto;4.1
+192;Owen;Mills;Pediatrician;Mountain View;4.2
+193;Keith;Hill;Physiatrist;Mountain View;4.3
+194;Deirdre;Walker;Plastic Surgeon;Oakland;1.8
+195;Diana;Clarkson;Psychiatrist;Oakland;1.9
+196;Robert;Randall;Psychiatrist;Pacifica;2
+197;Steven;Vance;Pulmonologist;Palo Alto;2.1
+198;Ryan;Mitchell;Radiologist;Millbray;2.2
+199;Victoria;Nolan;Rheumatologist;Redwood City;2.3
+200;Liam;Willian;Urologist;Richmond;2.4
+201;Victoria;Martin;Orthopedic Surgeon;Richmond;2.5
+202;Julian;Cameron;Otolaryngologist;San Bruno;2.6
+203;Vanessa;Lambert;Pediatrician;San Bruno;2.7
+204;Sonia;Reid;Physiatrist;San Bruno;2.8
+205;Colin;Randall;Gastroenterologist;Millbrae;2.9
+206;Evan;Simpson;Allergist;Berkeley;3
+207;Oliver;Kelin;Anesthesiologist;Burlingame;3.1
+208;Jennifer;Pullman;Cardiologist;Colma;3.2
+209;Sarah;Wallace;Dermatologist;Colma;2.5
+210;Alison;Reid;Endocrinologist;Colma;2.6
+211;Carl;Mills;Gastroenterologist;Concord;2.7
+212;Gabrielle;Ferguson;Hematologist;Concord;2.8
+213;Warren;Bower;Nephrologist;Cupertino;2.9
+214;Sam;Bell;Obstetrician;Daly City;3
+215;Maria;Welch;Ophthalmologist;Daly City;3.1
+216;Austin;Vaughan;Optometrist;Daly City;3.2
+217;Sophie;Suthy;Orthopedic Surgeon;Daly City;3.3
+218;Carol;Davidson;Otolaryngologist;East Palo Alto;3.4
+219;Joe;Tucker;Pediatrician;Foster City;3.5
+220;Nicola;Mitchy;Physiatrist;Fremont;3.6
+221;Rebecca;Turner;Plastic Surgeon;Fremont;3.7
+222;Mary;White;Psychiatrist;Gilroy;3.8
+223;Sam;Vance;Psychiatrist;Half Moon Bay;3.9
+224;Amanda;Powell;Pulmonologist;Hayward;4
+225;Joe;Hart;Radiologist;Hayward;4.1
+226;Isaac;Randall;Rheumatologist;Hillsborough;4.2
+227;Kevin;Gray;Urologist;Los Altos;4.3
+228;Amanda;Mathis;Allergist;Los Altos;4.4
+229;Sonia;Morrison;Anesthesiologist;Los Gatos;4.5
+230;Neil;Knox;Cardiologist;Los Gatos;4.6
+231;Kylie;Wright;Dermatologist;Palo Alto;4.7
+232;Jessica;Palmer;Endocrinologist;Los Gatos;4.8
+233;Lily;Martin;Gastroenterologist;Menlo Park;1.8
+234;Lucas;Hart;Hematologist;Millbrae;1.9
+235;Adrian;Ross;Nephrologist;Milpitas;2
+236;Sean;Scott;Obstetrician;Palo Alto;2.1
+237;Leah;Mitchy;Ophthalmologist;Milpitas;2.2
+238;Carolyn;Bailey;Optometrist;Milpitas;2.3
+239;Jason;Rees;Orthopedic Surgeon;San Francisco;2.4
+240;Lillian;Vance;Otolaryngologist;Palo Alto;2.5
+241;Victor;Ince;Pediatrician;Mountain View;2.6
+242;Mary;Scott;Physiatrist;Mountain View;2.7
+243;Justin;Vaughan;Plastic Surgeon;Oakland;2.8
+244;Jacob;Lambert;Psychiatrist;Oakland;2.9
+245;William;Nolan;Psychiatrist;Pacifica;3
+246;William;Watson;Pulmonologist;Palo Alto;3.1
+247;Faith;Clark;Radiologist;Millbray;2.5
+248;Cameron;Hardacre;Rheumatologist;Redwood City;2.6
+249;Penelope;Alsop;Urologist;Richmond;2.7
+250;Richard;Mills;Orthopedic Surgeon;Richmond;2.8
+251;Pippa;Hudson;Otolaryngologist;San Bruno;2.9
+252;Jasmine;Jones;Pediatrician;San Bruno;3
+253;Donna;McLean;Physiatrist;San Bruno;3.1
+254;Chloe;Ogden;Gastroenterologist;Millbrae;3.2
+255;Grace;Wallace;Psychiatrist;San Carlos;3.3
+256;Andrea;Hamilton;Psychiatrist;San Carlos;3.4
+257;Wanda;Duncan;Gastroenterologist;San Francisco;2.8
+258;Edward;Bond;Physiatrist;San Francisco;2.9
+259;Irene;Hodges;Gastroenterologist;San Francisco;3
+260;Gavin;Ball;Gastroenterologist;San Francisco;3.1
+261;Harry;Manning;Allergist;San Francisco;3.2
+262;Caroline;Fraser;Anesthesiologist;San Francisco;3.3
+263;Dorothy;Thomson;Cardiologist;San Jose;2.5
+264;Alison;Willian;Physiatrist;San Jose;2.6
+265;Connor;Abraham;Endocrinologist;San Jose;2.7
+266;Carolyn;Ogden;Physiatrist;San Jose;2.8
+267;Kevin;Blake;Hematologist;San Jose;2.9
+268;Tracey;Howard;Gastroenterologist;San Jose;3
+269;Maria;Butler;Obstetrician;San Jose;3.1
+270;Piers;Ball;Physiatrist;San Mateo;3.2
+271;Carol;McGrath;Optometrist;San Mateo;3.3
+272;Carol;Stewart;Orthopedic Surgeon;San Mateo;3.4
+273;Warren;Gray;Otolaryngologist;San Mateo;2.6
+274;Owen;Piper;Cardiologist;Santa Clara;2.7
+275;Maria;Terry;Physiatrist;Santa Clara;2.8
+276;Emma;Hunter;Plastic Surgeon;Santa Clara;2.9
+277;Jasmine;Morrison;Cardiologist;Palo Alto;3
+278;Nicholas;Hemmings;Cardiologist;Santa Rosa;3.1
+279;Austin;Dyer;Physiatrist;Saratoga;2.5
+280;Natalie;Ogden;Cardiologist;South San Francisco;2.6
+281;Donna;Fraser;Cardiologist;Sunnyvale;2.7
+282;Jan;Terry;Physiatrist;Sunnyvale;2.8
+283;Fiona;Bond;Psychiatrist;Menlo Park;2.9
+284;Jan;Young;Allergist;Berkeley;3
+285;Connor;Scott;Anesthesiologist;Burlingame;3.1
+286;Theresa;James;Cardiologist;Colma;3.2
+287;Angela;Ferguson;Dermatologist;Colma;2.5
+288;Sophie;Lambert;Endocrinologist;Colma;2.6
+289;Liam;Forsyth;Gastroenterologist;Concord;2.7
+290;Joshua;Johnston;Hematologist;Concord;2.8
+291;Zoe;Kelin;Nephrologist;Cupertino;2.9
+292;Sean;Taylor;Obstetrician;Daly City;3
+293;Brian;Hughes;Ophthalmologist;Daly City;3.1
+294;Madeleine;Campbell;Optometrist;Daly City;3.2
+295;Anna;Nash;Orthopedic Surgeon;Daly City;3.3
+296;Donna;Henders;Otolaryngologist;East Palo Alto;3.4
+297;Owen;Nolan;Pediatrician;Foster City;3.1
+298;Sally;Wright;Physiatrist;Fremont;3.2
+299;Virginia;Robertson;Plastic Surgeon;Fremont;3.3
+300;Keith;Mathis;Psychiatrist;Gilroy;3.4
+301;David;Butler;Psychiatrist;Half Moon Bay;1.5
+302;Christian;Jones;Pulmonologist;Hayward;1.6
+303;Kevin;Brown;Radiologist;Hayward;1.7
+304;Theresa;Lyman;Rheumatologist;Hillsborough;1.8
+305;Julia;Burgess;Urologist;Los Altos;1.9
+306;Evan;Dyer;Allergist;Los Altos;2
+307;Bella;Wallace;Anesthesiologist;Los Gatos;2.1
+308;Katherine;Ball;Cardiologist;Los Gatos;2.2
+309;Tracey;Blake;Dermatologist;Palo Alto;2.3
+310;Grace;Harris;Endocrinologist;Los Gatos;2.4
+311;Anthony;Hill;Gastroenterologist;Menlo Park;2.5
+312;Thomas;Alsop;Hematologist;Millbrae;2.6
+313;Luke;Russell;Nephrologist;Milpitas;2.7
+314;Diana;Vaughan;Obstetrician;Palo Alto;2.8
+315;Wanda;Dyer;Ophthalmologist;Milpitas;2.9
+316;Emma;Walker;Optometrist;Milpitas;3
+317;Carl;Harris;Orthopedic Surgeon;San Francisco;3.1
+318;Matt;Miller;Otolaryngologist;Palo Alto;3.2
+319;Jasmine;Baker;Pediatrician;Mountain View;3.3
+320;Liam;Clark;Physiatrist;Mountain View;3.4
+321;Frank;Nolan;Plastic Surgeon;Oakland;3.5
+322;Lucas;Buckland;Psychiatrist;Oakland;3.6
+323;Stewart;Roberts;Psychiatrist;Pacifica;3.7
+324;Steven;Gray;Pulmonologist;Palo Alto;3.8
+325;Julian;Lewis;Radiologist;Millbray;3.9
+326;Benjamin;Oliver;Rheumatologist;Redwood City;4
+327;Dominic;Short;Urologist;Richmond;4.1
+328;Dorothy;Wilson;Orthopedic Surgeon;Richmond;4.2
+329;Edward;Mills;Otolaryngologist;San Bruno;4.3
+330;Steven;Butler;Pediatrician;San Bruno;4.4
+331;Anna;James;Physiatrist;San Bruno;4.5
+332;Stephen;Russell;Gastroenterologist;Millbrae;4.6
+333;Thomas;Blake;Psychiatrist;San Carlos;3.3
+334;Sue;Parsons;Psychiatrist;San Carlos;3.4
+335;Zoe;Bailey;Gastroenterologist;San Francisco;3.5
+336;San;Ferguson;Physiatrist;San Francisco;3.6
+337;Nicola;McLean;Gastroenterologist;San Francisco;3.7
+338;Harry;Willian;Gastroenterologist;San Francisco;3.8
+339;Richard;Ellison;Allergist;San Francisco;3.9
+340;Yvonne;Lawrence;Anesthesiologist;San Francisco;4
+341;Stephen;Mitchell;Cardiologist;San Jose;4.1
+342;Diane;Jones;Physiatrist;San Jose;4.2
+343;Joe;Peake;Endocrinologist;San Jose;4.3
+344;Stewart;Wright;Physiatrist;San Jose;4.4
+345;Katherine;Bell;Hematologist;San Jose;4.5
+346;Stewart;Reid;Gastroenterologist;San Jose;4.6
+347;Warren;Nash;Obstetrician;San Jose;4.7
+348;Sue;Newman;Physiatrist;San Mateo;3.3
+349;Chloe;Chapman;Optometrist;San Mateo;3.4
+350;Nathan;Black;Orthopedic Surgeon;San Mateo;3.5
+351;Frank;McDonald;Otolaryngologist;San Mateo;3.6
+352;Amanda;Clark;Cardiologist;Santa Clara;3.7
+353;Lily;Howard;Physiatrist;Santa Clara;3.8
+354;Melanie;White;Plastic Surgeon;Santa Clara;3.9
+355;Paul;Hart;Cardiologist;Palo Alto;4
+356;Rebecca;Mills;Cardiologist;Santa Rosa;4.1
+357;Luke;Scott;Physiatrist;Saratoga;4.2
+358;Ryan;Bond;Cardiologist;South San Francisco;4.3
+359;Dorothy;Mackay;Cardiologist;Sunnyvale;4.4
+360;Piers;Slater;Physiatrist;Sunnyvale;4.5
+361;Sarah;Payne;Psychiatrist;Menlo Park;4.6
+362;Elizabeth;Hughes;Allergist;Berkeley;4.7
+363;Robert;Wilson;Anesthesiologist;Burlingame;1.9
+364;Joshua;McLean;Cardiologist;Colma;2
+365;Theresa;Cornish;Dermatologist;Colma;2.1
+366;Sarah;McLean;Endocrinologist;Colma;2.2
+367;Isaac;Young;Gastroenterologist;Concord;2.3
+368;Trevor;Gibson;Hematologist;Concord;2.4
+369;Lauren;Jones;Nephrologist;Cupertino;2.5
+370;Robert;Skinner;Obstetrician;Daly City;2.6
+371;Maria;Ellison;Ophthalmologist;Daly City;2.7
+372;Emma;Oliver;Optometrist;Daly City;2.8
+373;Rebecca;Simpson;Orthopedic Surgeon;Daly City;2.9
+374;Anthony;Thomson;Otolaryngologist;East Palo Alto;3
+375;Ian;Gray;Pediatrician;Foster City;3.1
+376;Jake;Graham;Physiatrist;Fremont;3.2
+377;Yvonne;Ogden;Plastic Surgeon;Fremont;3.3
+378;Edward;Carr;Psychiatrist;Gilroy;3.4
+379;Steven;Hill;Psychiatrist;Half Moon Bay;3.5
+380;Boris;Hudson;Pulmonologist;Hayward;3.6
+381;Pippa;Reid;Radiologist;Hayward;3.7
+382;Lily;Dowd;Rheumatologist;Hillsborough;3.8
+383;Tracey;Baker;Urologist;Los Altos;3.9
+384;Pippa;Vaughan;Allergist;Los Altos;4
+385;Michelle;Payne;Anesthesiologist;Los Gatos;4.1
+386;Colin;Nolan;Cardiologist;Los Gatos;4.2
+387;Bella;Payne;Dermatologist;Palo Alto;4.3
+388;Dylan;Brown;Endocrinologist;Los Gatos;4.4
+389;Jan;Watson;Gastroenterologist;Menlo Park;4.5
+390;Nathan;Vance;Hematologist;Millbrae;4.6
+391;Boris;Parr;Nephrologist;Milpitas;4.7
+392;Jan;Sharp;Obstetrician;Palo Alto;4.8
+393;Brandon;May;Ophthalmologist;Milpitas;4.9
+394;Adrian;Paterson;Optometrist;Milpitas;3.3
+395;Austin;Carr;Orthopedic Surgeon;San Francisco;3.4
+396;Warren;Murray;Otolaryngologist;Palo Alto;3.5
+397;Alan;Scott;Pediatrician;Mountain View;3.6
+398;Evan;Dowd;Physiatrist;Mountain View;3.7
+399;Dan;Walker;Plastic Surgeon;Oakland;3.8
+400;Lillian;Rees;Psychiatrist;Oakland;3.9
+401;Connor;Jones;Psychiatrist;Pacifica;4
+402;Keith;Chapman;Pulmonologist;Palo Alto;4.1
+403;David;Piper;Radiologist;Millbray;4.2
+404;Megan;Mitchell;Rheumatologist;Redwood City;4.3
+405;Trevor;Piper;Urologist;Richmond;4.4
+406;Michael;MacLeod;Orthopedic Surgeon;Richmond;4.5
+407;William;Kelly;Otolaryngologist;San Bruno;4.6
+408;Jason;Coleman;Pediatrician;San Bruno;4.7
+409;Pippa;Edmunds;Physiatrist;San Bruno;3.3
+410;Olivia;Vance;Gastroenterologist;Millbrae;3.4
+411;Jasmine;Wilkins;Allergist;Berkeley;3.5
+412;Megan;Brown;Anesthesiologist;Burlingame;3.6
+413;Claire;Lyman;Cardiologist;Colma;3.7
+414;Lucas;Baker;Dermatologist;Colma;3.8
+415;Austin;Bond;Endocrinologist;Colma;3.9
+416;Sophie;Nolan;Gastroenterologist;Concord;4
+417;Samantha;Blake;Hematologist;Concord;4.1
+418;Phil;Ince;Nephrologist;Cupertino;4.2
+419;Chloe;McGrath;Obstetrician;Daly City;4.3
+420;Lucas;Blake;Ophthalmologist;Daly City;4.4
+421;Zoe;Palmer;Optometrist;Daly City;4.5
+422;Dan;Gibson;Orthopedic Surgeon;Daly City;4.6
+423;Rachel;Oliver;Otolaryngologist;East Palo Alto;4.7
+424;Lisa;Hodges;Pediatrician;Foster City;2.4
+425;John;Henders;Physiatrist;Fremont;2.5
+426;Wendy;Young;Plastic Surgeon;Fremont;2.6
+427;Faith;Pullman;Psychiatrist;Gilroy;2.7
+428;Adam;Terry;Psychiatrist;Half Moon Bay;2.8
+429;Amy;Dyer;Pulmonologist;Hayward;2.9
+430;Felicity;Jones;Radiologist;Hayward;3
+431;Edward;Duncan;Rheumatologist;Hillsborough;3.1
+432;Carl;Paterson;Urologist;Los Altos;3.2
+433;Colin;Jackson;Allergist;Los Altos;3.3
+434;Alex;Oliver;Anesthesiologist;Los Gatos;3.4
+435;Jack;Reid;Cardiologist;Los Gatos;3.5
+436;Lucas;Rampling;Dermatologist;Palo Alto;3.6
+437;Heather;Mitchell;Endocrinologist;Los Gatos;3.7
+438;Tracey;Anderson;Gastroenterologist;Menlo Park;3.8
+439;Joe;Parsons;Hematologist;Millbrae;3.9
+440;Austin;Murray;Nephrologist;Milpitas;4
+441;Eric;Murray;Obstetrician;Palo Alto;4.1
+442;Kylie;Hamilton;Ophthalmologist;Milpitas;4.2
+443;Eric;McDonald;Optometrist;Milpitas;4.3
+444;Austin;Glover;Orthopedic Surgeon;San Francisco;4.4
+445;Lauren;Parr;Otolaryngologist;Palo Alto;4.5
+446;Liam;Hamilton;Pediatrician;Mountain View;4.6
+447;Andrea;Gibson;Physiatrist;Mountain View;4.7
+448;Jasmine;Gill;Plastic Surgeon;Oakland;4.8
+449;John;Howard;Psychiatrist;Oakland;4.9
+450;Nathan;Lambert;Psychiatrist;Pacifica;5
+451;Maria;Berry;Pulmonologist;Palo Alto;2.8
+452;Gavin;Alsop;Radiologist;Millbray;2.9
+453;Edward;Baker;Rheumatologist;Redwood City;3
+454;Gavin;Smith;Urologist;Richmond;3.1
+455;Heather;Bell;Orthopedic Surgeon;Richmond;3.2
+456;Jacob;Kerr;Otolaryngologist;San Bruno;3.3
+457;Grace;Grant;Pediatrician;San Bruno;3.4
+458;John;Martin;Physiatrist;San Bruno;3.5
+459;Donna;Skinner;Gastroenterologist;Millbrae;3.6
+460;Claire;Slater;Psychiatrist;San Carlos;3.7
+461;Wendy;Rees;Psychiatrist;San Carlos;3.8
+462;Paul;Walker;Gastroenterologist;San Francisco;3.9
+463;Piers;King;Physiatrist;San Francisco;4
+464;Richard;Anderson;Gastroenterologist;San Francisco;4.1
+465;Wendy;Duncan;Gastroenterologist;San Francisco;1.5
+466;Jessica;McGrath;Allergist;San Francisco;1.6
+467;Robert;Lyman;Anesthesiologist;San Francisco;1.7
+468;Phil;Mitchy;Cardiologist;San Jose;1.8
+469;Andrea;Scott;Physiatrist;San Jose;1.9
+470;Lily;Burgess;Endocrinologist;San Jose;2
+471;Austin;Newman;Physiatrist;San Jose;2.1
+472;Ian;Mitchy;Hematologist;San Jose;2.2
+473;Ava;Parr;Gastroenterologist;San Jose;2.3
+474;Benjamin;McDonald;Obstetrician;San Jose;2.4
+475;Diana;Duncan;Physiatrist;San Mateo;2.5
+476;Yvonne;Hunter;Optometrist;San Mateo;2.6
+477;Peter;Oliver;Orthopedic Surgeon;San Mateo;2.7
+478;Isaac;Pullman;Otolaryngologist;San Mateo;2.8
+479;Blake;Cornish;Cardiologist;Santa Clara;2.9
+480;Lucas;Henders;Physiatrist;Santa Clara;3
+481;Caroline;James;Plastic Surgeon;Santa Clara;3.1
+482;Elizabeth;Avery;Cardiologist;Palo Alto;3.2
+483;Charles;Graham;Cardiologist;Santa Rosa;3.3
+484;Angela;Hodges;Physiatrist;Saratoga;3.4
+485;Faith;Payne;Cardiologist;South San Francisco;3.5
+486;Sean;Hunter;Cardiologist;Sunnyvale;3.6
+487;Dominic;Lawrence;Physiatrist;Sunnyvale;3.7
+488;Warren;Arnold;Psychiatrist;Menlo Park;3.8
+489;Donna;Suthy;Allergist;Berkeley;3.9
+490;Tracey;Marshall;Anesthesiologist;Burlingame;4
+491;Leonard;McLean;Cardiologist;Colma;4.1
+492;Christian;White;Dermatologist;Colma;4.2
+493;Natalie;Roberts;Endocrinologist;Colma;4.3
+494;Hannah;King;Gastroenterologist;Concord;1.8
+495;Victoria;Davies;Hematologist;Concord;1.9
+496;Julian;Pullman;Nephrologist;Cupertino;2
+497;Virginia;Peake;Obstetrician;Daly City;2.1
+498;Elizabeth;Burgess;Ophthalmologist;Daly City;2.2
+499;Charles;Wilkins;Optometrist;Daly City;2.3
+500;Penelope;McDonald;Orthopedic Surgeon;Daly City;2.4
+501;Virginia;Poole;Otolaryngologist;East Palo Alto;2.5
+502;Liam;Manning;Pediatrician;Foster City;2.6
+503;Adrian;Tucker;Physiatrist;Fremont;2.7
+504;Jason;Arnold;Plastic Surgeon;Fremont;2.8
+505;Nathan;Ellison;Psychiatrist;Gilroy;2.9
+506;Nicola;Springer;Psychiatrist;Half Moon Bay;3
+507;Vanessa;Arnold;Pulmonologist;Hayward;3.1
+508;Tim;Terry;Radiologist;Hayward;3.2
+509;Piers;Ross;Rheumatologist;Hillsborough;2.5
+510;Sam;Anderson;Urologist;Los Altos;2.6
+511;Jack;Kelly;Allergist;Los Altos;2.7
+512;Jason;Cornish;Anesthesiologist;Los Gatos;2.8
+513;Evan;Baker;Cardiologist;Los Gatos;2.9
+514;Steven;Kelin;Dermatologist;Palo Alto;3
+515;Julian;Hamilton;Endocrinologist;Los Gatos;3.1
+516;Jack;Mitchell;Gastroenterologist;Menlo Park;3.2
+517;Alexander;Davidson;Hematologist;Millbrae;3.3
+518;Kevin;Mitchell;Nephrologist;Milpitas;3.4
+519;Leah;Lewis;Obstetrician;Palo Alto;3.5
+520;Gordon;Bond;Ophthalmologist;Milpitas;3.6
+521;Liam;Hudson;Optometrist;Milpitas;3.7
+522;Justin;Davidson;Orthopedic Surgeon;San Francisco;3.8
+523;Andrew;Young;Otolaryngologist;Palo Alto;3.9
+524;Kylie;Piper;Pediatrician;Mountain View;4
+525;Dan;Mitchell;Physiatrist;Mountain View;4.1
+526;Benjamin;Parsons;Plastic Surgeon;Oakland;4.2
+527;Virginia;Blake;Psychiatrist;Oakland;4.3
+528;Joshua;Robertson;Psychiatrist;Pacifica;4.4
+529;Luke;Payne;Pulmonologist;Palo Alto;4.5
+530;Sally;Mackay;Radiologist;Millbray;4.6
+531;Deirdre;Hamilton;Rheumatologist;Redwood City;4.7
+532;Austin;Clark;Urologist;Richmond;4.8
+533;William;North;Orthopedic Surgeon;Richmond;1.8
+534;Rebecca;Welch;Otolaryngologist;San Bruno;1.9
+535;John;Bell;Pediatrician;San Bruno;2
+536;Jan;Wallace;Physiatrist;San Bruno;2.1
+537;Jake;Chapman;Gastroenterologist;Millbrae;2.2
+538;Paul;Kelly;Psychiatrist;San Carlos;2.3
+539;Austin;Brown;Psychiatrist;San Carlos;2.4
+540;Lillian;Fisher;Gastroenterologist;San Francisco;2.5
+541;Kevin;Ince;Physiatrist;San Francisco;2.6
+542;Rachel;Thomson;Gastroenterologist;San Francisco;2.7
+543;Chloe;Mitchell;Gastroenterologist;San Francisco;2.8
+544;Benjamin;Hunter;Allergist;San Francisco;2.9
+545;Jan;Burgess;Anesthesiologist;San Francisco;3
+546;Stewart;Murray;Cardiologist;San Jose;3.1
+547;Jasmine;Ferguson;Physiatrist;San Jose;2.5
+548;Victoria;Cornish;Endocrinologist;San Jose;2.6
+549;Jack;Terry;Physiatrist;San Jose;2.7
+550;Heather;Davies;Hematologist;San Jose;2.8
+551;Kylie;Peake;Gastroenterologist;San Jose;2.9
+552;Melanie;Mills;Obstetrician;San Jose;3
+553;Sue;Oliver;Physiatrist;San Mateo;3.1
+554;Sally;Quinn;Optometrist;San Mateo;3.2
+555;Fiona;Edmunds;Orthopedic Surgeon;San Mateo;3.3
+556;Lean;McDonald;Otolaryngologist;San Mateo;3.4
+557;Kylie;Mills;Cardiologist;Santa Clara;2.8
+558;Nicholas;Hodges;Physiatrist;Santa Clara;2.9
+559;Amelia;Paterson;Plastic Surgeon;Santa Clara;3
+560;Robert;Carr;Cardiologist;Palo Alto;3.1
+561;John;Baker;Cardiologist;Santa Rosa;3.2
+562;Ian;White;Physiatrist;Saratoga;3.3
+563;Melanie;Morrison;Cardiologist;South San Francisco;2.5
+564;Jack;Smith;Cardiologist;Sunnyvale;2.6
+565;Charles;Walsh;Physiatrist;Sunnyvale;2.7
+566;Victoria;Chapman;Psychiatrist;Menlo Park;2.8
+567;Pippa;Poole;Allergist;Berkeley;2.9
+568;Frank;Gill;Anesthesiologist;Burlingame;3
+569;Sophie;Forsyth;Cardiologist;Colma;3.1
+570;Kimberly;Mackay;Dermatologist;Colma;3.2
+571;Jennifer;MacLeod;Endocrinologist;Colma;3.3
+572;Jessica;Wallace;Gastroenterologist;Concord;3.4
+573;Bella;Skinner;Hematologist;Concord;2.6
+574;Alan;Berry;Nephrologist;Cupertino;2.7
+575;Nathan;Glover;Obstetrician;Daly City;2.8
+576;Jason;May;Ophthalmologist;Daly City;2.9
+577;Andrea;Palmer;Optometrist;Daly City;3
+578;Caroline;Willian;Orthopedic Surgeon;Daly City;3.1
+579;Lily;Ellison;Otolaryngologist;East Palo Alto;2.5
+580;Ryan;James;Pediatrician;Foster City;2.6
+581;Sally;Butler;Physiatrist;Fremont;2.7
+582;Megan;Hunter;Plastic Surgeon;Fremont;2.8
+583;Natalie;Wilkins;Psychiatrist;Gilroy;2.9
+584;Sarah;May;Psychiatrist;Half Moon Bay;3
+585;Alan;Wright;Pulmonologist;Hayward;3.1
+586;Jason;Dyer;Radiologist;Hayward;3.2
+587;Rebecca;Pullman;Rheumatologist;Hillsborough;2.5
+588;Keith;Morgan;Urologist;Los Altos;2.6
+589;Robert;Black;Allergist;Los Altos;2.7
+590;Lillian;Lawrence;Anesthesiologist;Los Gatos;2.8
+591;Jennifer;Manning;Cardiologist;Los Gatos;2.9
+592;Carolyn;Abraham;Dermatologist;Palo Alto;3
+593;Jessica;Kelin;Endocrinologist;Los Gatos;3.1
+594;Molly;Duncan;Gastroenterologist;Menlo Park;3.2
+595;Jason;Harris;Hematologist;Millbrae;3.3
+596;Una;Lee;Nephrologist;Milpitas;3.4
+597;Rose;Wallace;Obstetrician;Palo Alto;3.1
+598;Carl;Young;Ophthalmologist;Milpitas;3.2
+599;Alexander;Hamilton;Optometrist;Milpitas;3.3
+600;Anthony;Jackson;Orthopedic Surgeon;San Francisco;3.4
+601;Carl;King;Otolaryngologist;Palo Alto;1.5
+602;Benjamin;Rampling;Pediatrician;Mountain View;1.6
+603;Matt;Dyer;Physiatrist;Mountain View;1.7
+604;Cameron;Kelly;Plastic Surgeon;Oakland;1.8
+605;Warren;Lawrence;Psychiatrist;Oakland;1.9
+606;Liam;Black;Psychiatrist;Pacifica;2
+607;Edward;Wallace;Pulmonologist;Palo Alto;2.1
+608;Jake;Palmer;Radiologist;Millbray;2.2
+609;Owen;Davies;Rheumatologist;Redwood City;2.3
+610;Stewart;Grant;Urologist;Richmond;2.4
+611;Adam;Fisher;Orthopedic Surgeon;Richmond;2.5
+612;Lucas;King;Otolaryngologist;San Bruno;2.6
+613;Frank;Blake;Pediatrician;San Bruno;2.7
+614;Hannah;Sanderson;Physiatrist;San Bruno;2.8
+615;Anna;Palmer;Gastroenterologist;Millbrae;2.9
+616;James;Hodges;Allergist;Berkeley;3
+617;Harry;Lee;Anesthesiologist;Burlingame;3.1
+618;Peter;Jackson;Cardiologist;Colma;3.2
+619;Gabrielle;Johnston;Dermatologist;Colma;3.3
+620;Amelia;Walsh;Endocrinologist;Colma;3.4
+621;Jack;Jones;Gastroenterologist;Concord;3.5
+622;Penelope;Paige;Hematologist;Concord;3.6
+623;William;Ball;Nephrologist;Cupertino;3.7
+624;Andrew;Morrison;Obstetrician;Daly City;3.8
+625;John;Jones;Ophthalmologist;Daly City;3.9
+626;Andrew;Slater;Optometrist;Daly City;4
+627;Alex;Newman;Orthopedic Surgeon;Daly City;4.1
+628;Mary;King;Otolaryngologist;East Palo Alto;4.2
+629;Frank;Knox;Pediatrician;Foster City;4.3
+630;Simon;McLean;Physiatrist;Fremont;4.4
+631;Kevin;Russell;Plastic Surgeon;Fremont;4.5
+632;Tracey;Parsons;Psychiatrist;Gilroy;4.6
+633;Max;James;Psychiatrist;Half Moon Bay;3.3
+634;Amanda;James;Pulmonologist;Hayward;3.4
+635;Neil;Walker;Radiologist;Hayward;3.5
+636;Sue;Morrison;Rheumatologist;Hillsborough;3.6
+637;Joanne;Manning;Urologist;Los Altos;3.7
+638;Alexander;Anderson;Allergist;Los Altos;3.8
+639;Richard;Nolan;Anesthesiologist;Los Gatos;3.9
+640;Keith;McLean;Cardiologist;Los Gatos;4
+641;Carolyn;McDonald;Dermatologist;Palo Alto;4.1
+642;Audrey;Chapman;Endocrinologist;Los Gatos;4.2
+643;Madeleine;Poole;Gastroenterologist;Menlo Park;4.3
+644;Nathan;Mitchell;Hematologist;Millbrae;4.4
+645;Warren;Allan;Nephrologist;Milpitas;4.5
+646;Anne;Wilson;Obstetrician;Palo Alto;4.6
+647;Faith;Manning;Ophthalmologist;Milpitas;4.7
+648;Rose;MacLeod;Optometrist;Milpitas;3.3
+649;Liam;MacLeod;Orthopedic Surgeon;San Francisco;3.4
+650;Lily;Sanderson;Otolaryngologist;Palo Alto;3.5
+651;Sebastian;Lawrence;Pediatrician;Mountain View;3.6
+652;Jessica;Bower;Physiatrist;Mountain View;3.7
+653;Irene;Mathis;Plastic Surgeon;Oakland;3.8
+654;Jane;Scott;Psychiatrist;Oakland;3.9
+655;Katherine;Slater;Psychiatrist;Pacifica;4
+656;Adam;McDonald;Pulmonologist;Palo Alto;4.1
+657;Jason;Gill;Radiologist;Millbray;4.2
+658;Emily;Fraser;Rheumatologist;Redwood City;4.3
+659;Stephen;Springer;Urologist;Richmond;4.4
+660;Angela;Hardacre;Orthopedic Surgeon;Richmond;4.5
+661;Bella;Simpson;Otolaryngologist;San Bruno;4.6
+662;Oliver;Russell;Pediatrician;San Bruno;4.7
+663;Lean;Walker;Physiatrist;San Bruno;1.9
+664;Sue;Wilkins;Gastroenterologist;Millbrae;2
+665;Sally;North;Psychiatrist;San Carlos;2.1
+666;Dorothy;Murray;Psychiatrist;San Carlos;2.2
+667;Jonathan;Hudson;Gastroenterologist;San Francisco;2.3
+668;Carl;Springer;Physiatrist;San Francisco;2.4
+669;Lauren;Nolan;Gastroenterologist;San Francisco;2.5
+670;Lily;Oliver;Gastroenterologist;San Francisco;2.6
+671;Robert;Taylor;Allergist;San Francisco;2.7
+672;Rebecca;King;Anesthesiologist;San Francisco;2.8
+673;Samantha;Marshall;Cardiologist;San Jose;2.9
+674;Elizabeth;Taylor;Physiatrist;San Jose;3
+675;Isaac;Hudson;Endocrinologist;San Jose;3.1
+676;Vanessa;Johnston;Physiatrist;San Jose;3.2
+677;Melanie;Hughes;Hematologist;San Jose;3.3
+678;Leah;Clarkson;Gastroenterologist;San Jose;3.4
+679;Hannah;Bell;Obstetrician;San Jose;3.5
+680;Lucas;Fraser;Physiatrist;San Mateo;3.6
+681;Theresa;Allan;Optometrist;San Mateo;3.7
+682;Caroline;Walker;Orthopedic Surgeon;San Mateo;3.8
+683;Pippa;Clarkson;Otolaryngologist;San Mateo;3.9
+684;Amanda;Bell;Cardiologist;Santa Clara;4
+685;Amy;Walker;Physiatrist;Santa Clara;4.1
+686;Amy;Skinner;Plastic Surgeon;Santa Clara;4.2
+687;Piers;Clark;Cardiologist;Palo Alto;4.3
+688;John;Stewart;Cardiologist;Santa Rosa;4.4
+689;Molly;Poole;Physiatrist;Saratoga;4.5
+690;Jennifer;Ross;Cardiologist;South San Francisco;4.6
+691;Sonia;Chapman;Cardiologist;Sunnyvale;4.7
+692;Kylie;Graham;Physiatrist;Sunnyvale;4.8
+693;Justin;Malkin;Psychiatrist;Menlo Park;4.9
+694;Ann;Campbell;Allergist;Berkeley;3.3
+695;Felicity;McLean;Anesthesiologist;Burlingame;3.4
+696;Karen;Hughes;Cardiologist;Colma;3.5
+697;Evan;Scott;Dermatologist;Colma;3.6
+698;Emily;Dickens;Endocrinologist;Colma;3.7
+699;Yvonne;Berry;Gastroenterologist;Concord;3.8
+700;Andrew;Pullman;Hematologist;Concord;3.9
+701;Grace;May;Nephrologist;Cupertino;4
+702;Matt;Abraham;Obstetrician;Daly City;4.1
+703;Charles;Pullman;Ophthalmologist;Daly City;4.2
+704;Grace;Arnold;Optometrist;Daly City;4.3
+705;Claire;Berry;Orthopedic Surgeon;Daly City;4.4
+706;Joe;Abraham;Otolaryngologist;East Palo Alto;4.5
+707;Melanie;Grant;Pediatrician;Foster City;4.6
+708;Charles;Poole;Physiatrist;Fremont;4.7
+709;Jane;Peake;Plastic Surgeon;Fremont;3.3
+710;Nicola;Berry;Psychiatrist;Gilroy;3.4
+711;Lisa;Lee;Psychiatrist;Half Moon Bay;3.5
+712;Virginia;James;Pulmonologist;Hayward;3.6
+713;Maria;Springer;Radiologist;Hayward;3.7
+714;Dominic;Lambert;Rheumatologist;Hillsborough;3.8
+715;Julia;Robertson;Urologist;Los Altos;3.9
+716;Owen;Ball;Allergist;Los Altos;4
+717;Una;Blake;Anesthesiologist;Los Gatos;4.1
+718;Alexander;Young;Cardiologist;Los Gatos;4.2
+719;Brandon;Oliver;Dermatologist;Palo Alto;4.3
+720;Joseph;Buckland;Endocrinologist;Los Gatos;4.4
+721;Julia;Gill;Gastroenterologist;Menlo Park;4.5
+722;David;Edmunds;Hematologist;Millbrae;4.6
+723;Cameron;Peters;Nephrologist;Milpitas;4.7
+724;Stephen;Hart;Obstetrician;Palo Alto;2.4
+725;Vanessa;Wilkins;Ophthalmologist;Milpitas;2.5
+726;Oliver;Malkin;Optometrist;Milpitas;2.6
+727;Grace;Morrison;Orthopedic Surgeon;San Francisco;2.7
+728;Lisa;Davidson;Otolaryngologist;Palo Alto;2.8
+729;Maria;Turner;Pediatrician;Mountain View;2.9
+730;Charles;Ellison;Physiatrist;Mountain View;3
+731;Phil;Gibson;Plastic Surgeon;Oakland;3.1
+732;Dorothy;Watson;Psychiatrist;Oakland;3.2
+733;Lily;Carr;Psychiatrist;Pacifica;3.3
+734;Jonathan;Johnston;Pulmonologist;Palo Alto;3.4
+735;Evan;Forsyth;Radiologist;Millbray;3.5
+736;David;Nolan;Rheumatologist;Redwood City;3.6
+737;Nicholas;Butler;Urologist;Richmond;3.7
+738;Jacob;Lawrence;Orthopedic Surgeon;Richmond;3.8
+739;Jake;Allan;Otolaryngologist;San Bruno;3.9
+740;Olivia;Hemmings;Pediatrician;San Bruno;4
+741;Tracey;Vance;Physiatrist;San Bruno;4.1
+742;Leah;Bell;Gastroenterologist;Millbrae;4.2
+743;Nicola;Dowd;Psychiatrist;San Carlos;4.3
+744;Neil;Suthy;Psychiatrist;San Carlos;4.4
+745;Jonathan;Simpson;Gastroenterologist;San Francisco;4.5
+746;Sarah;Short;Physiatrist;San Francisco;4.6
+747;Thomas;Willian;Gastroenterologist;San Francisco;4.7
+748;Kylie;Mitchy;Gastroenterologist;San Francisco;4.8
+749;Sean;Campbell;Allergist;San Francisco;4.9
+750;Sally;Vance;Anesthesiologist;San Francisco;5
+751;David;Hudson;Cardiologist;San Jose;2.8
+752;Michelle;Lawrence;Physiatrist;San Jose;2.9
+753;Carl;Chapman;Endocrinologist;San Jose;3
+754;Neil;Peake;Physiatrist;San Jose;3.1
+755;Ruth;Hunter;Hematologist;San Jose;3.2
+756;Ian;Mitchell;Gastroenterologist;San Jose;3.3
+757;Maria;McDonald;Obstetrician;San Jose;3.4
+758;Dorothy;Davies;Physiatrist;San Mateo;3.5
+759;Colin;Manning;Optometrist;San Mateo;3.6
+760;Blake;Newman;Orthopedic Surgeon;San Mateo;3.7
+761;Rachel;Tucker;Otolaryngologist;San Mateo;3.8
+762;Donna;Mackay;Cardiologist;Santa Clara;3.9
+763;Sean;Palmer;Physiatrist;Santa Clara;4
+764;Penelope;Rampling;Plastic Surgeon;Santa Clara;4.1
+765;Alison;Jones;Cardiologist;Palo Alto;1.5
+766;Rose;Dyer;Cardiologist;Santa Rosa;1.6
+767;Sonia;Powell;Physiatrist;Saratoga;1.7
+768;Isaac;Poole;Cardiologist;South San Francisco;1.8
+769;Nicola;Bower;Cardiologist;Sunnyvale;1.9
+770;Deirdre;Davidson;Physiatrist;Sunnyvale;2
+771;Molly;Hodges;Psychiatrist;Menlo Park;2.1
+772;Gordon;Gibson;Allergist;Berkeley;2.2
+773;Zoe;Vance;Anesthesiologist;Burlingame;2.3
+774;Edward;Lyman;Cardiologist;Colma;2.4
+775;Una;Taylor;Dermatologist;Colma;2.5
+776;Anne;Piper;Endocrinologist;Colma;2.6
+777;Frank;Langdon;Gastroenterologist;Concord;2.7
+778;Donna;Paterson;Hematologist;Concord;2.8
+779;Ava;Nolan;Nephrologist;Cupertino;2.9
+780;Steven;Robertson;Obstetrician;Daly City;3
+781;Blake;Parsons;Ophthalmologist;Daly City;3.1
+782;Joshua;Gill;Optometrist;Daly City;3.2
+783;Deirdre;Ferguson;Orthopedic Surgeon;Daly City;3.3
+784;Evan;Randall;Otolaryngologist;East Palo Alto;3.4
+785;Grace;Walker;Pediatrician;Foster City;3.5
+786;Jason;Langdon;Physiatrist;Fremont;3.6
+787;Ryan;Peake;Plastic Surgeon;Fremont;3.7
+788;Eric;Henders;Psychiatrist;Gilroy;3.8
+789;Benjamin;Gray;Psychiatrist;Half Moon Bay;3.9
+790;Harry;Burgess;Pulmonologist;Hayward;4
+791;Austin;Springer;Radiologist;Hayward;4.1
+792;Connor;Morrison;Rheumatologist;Hillsborough;4.2
+793;Jack;Campbell;Urologist;Los Altos;4.3
+794;Stephen;Allan;Allergist;Los Altos;1.8
+795;Lucas;Black;Anesthesiologist;Los Gatos;1.9
+796;Grace;Ellison;Cardiologist;Los Gatos;2
+797;Emily;Lawrence;Dermatologist;Palo Alto;2.1
+798;Brandon;Stewart;Endocrinologist;Los Gatos;2.2
+799;Chloe;Slater;Gastroenterologist;Menlo Park;2.3
+800;Tracey;Hamilton;Hematologist;Millbrae;2.4
+801;Eric;Peters;Nephrologist;Milpitas;2.5
+802;Ian;Skinner;Obstetrician;Palo Alto;2.6
+803;Simon;White;Ophthalmologist;Milpitas;2.7
+804;David;Graham;Optometrist;Milpitas;2.8
+805;Jacob;Dyer;Orthopedic Surgeon;San Francisco;2.9
+806;Dominic;Abraham;Otolaryngologist;Palo Alto;3
+807;Anthony;Lawrence;Pediatrician;Mountain View;3.1
+808;Peter;Campbell;Physiatrist;Mountain View;3.2
+809;Ian;Parr;Plastic Surgeon;Oakland;2.5
+810;Sean;Lambert;Psychiatrist;Oakland;2.6
+811;Stewart;Baker;Psychiatrist;Pacifica;2.7
+812;Alison;Glover;Pulmonologist;Palo Alto;2.8
+813;Piers;Johnston;Radiologist;Millbray;2.9
+814;Sam;Russell;Rheumatologist;Redwood City;3
+815;Thomas;Vance;Urologist;Richmond;3.1
+816;Jessica;Vaughan;Orthopedic Surgeon;Richmond;3.2
+817;Rachel;Wilson;Otolaryngologist;San Bruno;3.3
+818;Nicola;North;Pediatrician;San Bruno;3.4
+819;Jan;Hudson;Physiatrist;San Bruno;3.5
+820;Keith;Dickens;Gastroenterologist;Millbrae;3.6
+821;William;Payne;Allergist;Berkeley;3.7
+822;Chloe;Morrison;Anesthesiologist;Burlingame;3.8
+823;Benjamin;Miller;Cardiologist;Colma;3.9
+824;James;Piper;Dermatologist;Colma;4
+825;Victor;Murray;Endocrinologist;Colma;4.1
+826;Sean;Grant;Gastroenterologist;Concord;4.2
+827;Sue;Nash;Hematologist;Concord;4.3
+828;Nicola;Fisher;Nephrologist;Cupertino;4.4
+829;Jack;Randall;Obstetrician;Daly City;4.5
+830;Anthony;Powell;Ophthalmologist;Daly City;4.6
+831;Phil;Terry;Optometrist;Daly City;4.7
+832;Isaac;Lewis;Orthopedic Surgeon;Daly City;4.8
+833;Thomas;Ellison;Otolaryngologist;East Palo Alto;1.8
+834;Carl;Murray;Pediatrician;Foster City;1.9
+835;Melanie;Simpson;Physiatrist;Fremont;2
+836;Stephen;Skinner;Plastic Surgeon;Fremont;2.1
+837;Ruth;Wright;Psychiatrist;Gilroy;2.2
+838;Gabrielle;Suthy;Psychiatrist;Half Moon Bay;2.3
+839;Caroline;Brown;Pulmonologist;Hayward;2.4
+840;Jessica;Fraser;Radiologist;Hayward;2.5
+841;Ann;Oliver;Rheumatologist;Hillsborough;2.6
+842;Liam;James;Urologist;Los Altos;2.7
+843;Charles;Nash;Allergist;Los Altos;2.8
+844;Joan;Burgess;Anesthesiologist;Los Gatos;2.9
+845;Gordon;Ferguson;Cardiologist;Los Gatos;3
+846;Alison;Lewis;Dermatologist;Palo Alto;3.1
+847;Claire;Langdon;Endocrinologist;Los Gatos;2.5
+848;Ruth;Forsyth;Gastroenterologist;Menlo Park;2.6
+849;Jane;Johnston;Hematologist;Millbrae;2.7
+850;Chloe;Thomson;Nephrologist;Milpitas;2.8
+851;Lillian;Pullman;Obstetrician;Palo Alto;2.9
+852;Jessica;Campbell;Ophthalmologist;Milpitas;3
+853;Gabrielle;Mills;Optometrist;Milpitas;3.1
+854;Warren;Parr;Orthopedic Surgeon;San Francisco;3.2
+855;Warren;Roberts;Otolaryngologist;Palo Alto;3.3
+856;Michelle;Davidson;Pediatrician;Mountain View;3.4
+857;Amelia;Davies;Physiatrist;Mountain View;2.8
+858;Jason;Blake;Plastic Surgeon;Oakland;2.9
+859;Brandon;McLean;Psychiatrist;Oakland;3
+860;Simon;Jackson;Psychiatrist;Pacifica;3.1
+861;Luke;Fisher;Pulmonologist;Palo Alto;3.2
+862;Ian;Taylor;Radiologist;Millbray;3.3
+863;Robert;Johnston;Rheumatologist;Redwood City;2.5
+864;Connor;Davies;Urologist;Richmond;2.6
+865;San;Cameron;Orthopedic Surgeon;Richmond;2.7
+866;Lillian;Rampling;Otolaryngologist;San Bruno;2.8
+867;Blake;Stewart;Pediatrician;San Bruno;2.9
+868;Edward;Martin;Physiatrist;San Bruno;3
+869;Hannah;North;Gastroenterologist;Millbrae;3.1
+870;Sophie;Berry;Psychiatrist;San Carlos;3.2
+871;Sam;Springer;Psychiatrist;San Carlos;3.3
+872;Victoria;Glover;Gastroenterologist;San Francisco;3.4
+873;Trevor;Hamilton;Physiatrist;San Francisco;2.6
+874;Virginia;Palmer;Gastroenterologist;San Francisco;2.7
+875;Felicity;Davidson;Gastroenterologist;San Francisco;2.8
+876;Jane;Sharp;Allergist;San Francisco;2.9
+877;Oliver;Palmer;Anesthesiologist;San Francisco;3
+878;Victoria;Edmunds;Cardiologist;San Jose;3.1
+879;Jane;Carr;Physiatrist;San Jose;2.5
+880;Alexander;Stewart;Endocrinologist;San Jose;2.6
+881;Faith;Graham;Physiatrist;San Jose;2.7
+882;Michael;Hughes;Hematologist;San Jose;2.8
+883;Megan;Kelly;Gastroenterologist;San Jose;2.9
+884;Hannah;Lawrence;Obstetrician;San Jose;3
+885;Sean;Glover;Physiatrist;San Mateo;3.1
+886;Grace;Lambert;Optometrist;San Mateo;3.2
+887;Diana;Powell;Orthopedic Surgeon;San Mateo;2.5
+888;Justin;Bond;Otolaryngologist;San Mateo;2.6
+889;Colin;Nash;Cardiologist;Santa Clara;2.7
+890;Eric;Malkin;Physiatrist;Santa Clara;2.8
+891;Blake;Forsyth;Plastic Surgeon;Santa Clara;2.9
+892;Anne;Mackay;Cardiologist;Palo Alto;3
+893;Jake;Turner;Cardiologist;Santa Rosa;3.1
+894;Dorothy;Rees;Physiatrist;Saratoga;3.2
+895;Austin;Peters;Cardiologist;South San Francisco;3.3
+896;Andrea;Hemmings;Cardiologist;Sunnyvale;3.4
+897;Dominic;Kelly;Physiatrist;Sunnyvale;3.1
+898;Simon;Langdon;Psychiatrist;Menlo Park;3.2
+899;Grace;Quinn;Allergist;Berkeley;3.3
+900;Emily;White;Anesthesiologist;Burlingame;3.4
+901;Alexander;North;Cardiologist;Colma;1.5
+902;Kevin;White;Dermatologist;Colma;1.6
+903;Yvonne;Black;Endocrinologist;Colma;1.7
+904;Olivia;Piper;Gastroenterologist;Concord;1.8
+905;Madeleine;Sharp;Hematologist;Concord;1.9
+906;Alex;Marshall;Nephrologist;Cupertino;2
+907;Dorothy;Hardacre;Obstetrician;Daly City;2.1
+908;Thomas;Hudson;Ophthalmologist;Daly City;2.2
+909;Michael;Wilkins;Optometrist;Daly City;2.3
+910;Michelle;Langdon;Orthopedic Surgeon;Daly City;2.4
+911;Stephen;Abraham;Otolaryngologist;East Palo Alto;2.5
+912;Stephen;Vaughan;Pediatrician;Foster City;2.6
+913;Brandon;Anderson;Physiatrist;Fremont;2.7
+914;Una;Lawrence;Plastic Surgeon;Fremont;2.8
+915;Ruth;Slater;Psychiatrist;Gilroy;2.9
+916;Anne;MacLeod;Psychiatrist;Half Moon Bay;3
+917;Steven;Duncan;Pulmonologist;Hayward;3.1
+918;Zoe;Gibson;Radiologist;Hayward;3.2
+919;Natalie;Rampling;Rheumatologist;Hillsborough;3.3
+920;Samantha;Wilkins;Urologist;Los Altos;3.4
+921;Jasmine;Bell;Allergist;Los Altos;3.5
+922;Madeleine;Davidson;Anesthesiologist;Los Gatos;3.6
+923;Victoria;Anderson;Cardiologist;Los Gatos;3.7
+924;Abigail;King;Dermatologist;Palo Alto;3.8
+925;Julian;Slater;Endocrinologist;Los Gatos;3.9
+926;Michelle;Morrison;Gastroenterologist;Menlo Park;4
+927;Sebastian;Jackson;Hematologist;Millbrae;4.1
+928;Jack;Palmer;Nephrologist;Milpitas;4.2
+929;Blake;Lee;Obstetrician;Palo Alto;4.3
+930;Olivia;Hamilton;Ophthalmologist;Milpitas;4.4
+931;Phil;Henders;Optometrist;Milpitas;4.5
+932;Zoe;Young;Orthopedic Surgeon;San Francisco;4.6
+933;Victor;Howard;Otolaryngologist;Palo Alto;3.3
+934;Christian;Henders;Pediatrician;Mountain View;3.4
+935;Faith;Fisher;Physiatrist;Mountain View;3.5
+936;Jack;Ferguson;Plastic Surgeon;Oakland;3.6
+937;Edward;Paterson;Psychiatrist;Oakland;3.7
+938;Ian;Lambert;Psychiatrist;Pacifica;3.8
+939;Madeleine;Buckland;Pulmonologist;Palo Alto;3.9
+940;Julian;Avery;Radiologist;Millbray;4
+941;Leah;Cornish;Rheumatologist;Redwood City;4.1
+942;Chloe;Russell;Urologist;Richmond;4.2
+943;Gavin;May;Orthopedic Surgeon;Richmond;4.3
+944;Sophie;Slater;Otolaryngologist;San Bruno;4.4
+945;Nicholas;Reid;Pediatrician;San Bruno;4.5
+946;Lily;Hunter;Physiatrist;San Bruno;4.6
+947;Amy;Manning;Gastroenterologist;Millbrae;4.7
+948;Oliver;Langdon;Psychiatrist;San Carlos;3.3
+949;Abigail;Langdon;Psychiatrist;San Carlos;3.4
+950;Jane;Nolan;Gastroenterologist;San Francisco;3.5
+951;Isaac;Paterson;Physiatrist;San Francisco;3.6
+952;Ryan;Scott;Gastroenterologist;San Francisco;3.7
+953;Donna;Edmunds;Gastroenterologist;San Francisco;3.8
+954;Abigail;Graham;Allergist;San Francisco;3.9
+955;Lillian;Jackson;Anesthesiologist;San Francisco;4
+956;Sean;Mills;Cardiologist;San Jose;4.1
+957;Peter;Lee;Physiatrist;San Jose;4.2
+958;Sean;Graham;Endocrinologist;San Jose;4.3
+959;Joshua;Manning;Physiatrist;San Jose;4.4
+960;Andrew;Bond;Hematologist;San Jose;4.5
+961;Brian;Turner;Gastroenterologist;San Jose;4.6
+962;Melanie;MacLeod;Obstetrician;San Jose;4.7
+963;Liam;Harris;Physiatrist;San Mateo;1.9
+964;Owen;Slater;Optometrist;San Mateo;2
+965;Brian;Davidson;Orthopedic Surgeon;San Mateo;2.1
+966;Christian;Taylor;Otolaryngologist;San Mateo;2.2
+967;Sarah;Dowd;Cardiologist;Santa Clara;2.3
+968;Samantha;Manning;Physiatrist;Santa Clara;2.4
+969;Neil;McLean;Plastic Surgeon;Santa Clara;2.5
+970;Luke;Burgess;Cardiologist;Palo Alto;2.6
+971;Alison;Wallace;Cardiologist;Santa Rosa;2.7
+972;Emily;Bailey;Physiatrist;Saratoga;2.8
+973;Irene;Murray;Cardiologist;South San Francisco;2.9
+974;Dorothy;Fraser;Cardiologist;Sunnyvale;3
+975;Brian;Mitchell;Physiatrist;Sunnyvale;3.1
+976;Hannah;Short;Psychiatrist;Menlo Park;3.2
+977;Dorothy;Payne;Allergist;Berkeley;3.3
+978;Molly;Martin;Anesthesiologist;Burlingame;3.4
+979;Brian;Nolan;Cardiologist;Colma;3.5
+980;Grace;Oliver;Dermatologist;Colma;3.6
+981;Kevin;Newman;Endocrinologist;Colma;3.7
+982;Jason;Thomson;Gastroenterologist;Concord;3.8
+983;Jennifer;Forsyth;Hematologist;Concord;3.9
+984;Max;McDonald;Nephrologist;Cupertino;4
+985;Alexander;Mitchell;Obstetrician;Daly City;4.1
+986;Wendy;Stewart;Ophthalmologist;Daly City;4.2
+987;Ava;Ogden;Optometrist;Daly City;4.3
+988;Piers;Lawrence;Orthopedic Surgeon;Daly City;4.4
+989;Olivia;Newman;Otolaryngologist;East Palo Alto;4.5
+990;Claire;Kelly;Pediatrician;Foster City;4.6
+991;Adrian;Robertson;Physiatrist;Fremont;4.7
+992;Claire;Ince;Plastic Surgeon;Fremont;4.8
+993;Vanessa;Peake;Psychiatrist;Gilroy;4.9
+994;Mary;Quinn;Psychiatrist;Half Moon Bay;3.3
+995;Connor;Lyman;Pulmonologist;Hayward;3.4
+996;Claire;Pullman;Radiologist;Hayward;3.5
+997;Eric;Wilkins;Rheumatologist;Hillsborough;3.6
+998;Caroline;Carr;Urologist;Los Altos;3.7
+999;Stephen;Wilkins;Allergist;Los Altos;3.8
+1000;Adam;Suthy;Anesthesiologist;Los Gatos;3.9
+1001;David;Hunter;Cardiologist;Los Gatos;4
+1002;Joseph;Hughes;Dermatologist;Palo Alto;4.1
+1003;Angela;Kelly;Endocrinologist;Los Gatos;4.2
+1004;Claire;Brown;Gastroenterologist;Menlo Park;4.3
+1005;Jennifer;King;Hematologist;Millbrae;4.4
+1006;Neil;Bower;Nephrologist;Milpitas;4.5
+1007;Brandon;Wright;Obstetrician;Palo Alto;4.6
+1008;Joshua;Ogden;Ophthalmologist;Milpitas;4.7
+1009;Richard;Ferguson;Optometrist;Milpitas;3.3
+1010;Lean;Mathis;Orthopedic Surgeon;San Francisco;3.4
+1011;Amy;Springer;Otolaryngologist;Palo Alto;3.5
+1012;Matt;Butler;Pediatrician;Mountain View;3.6
+1013;Jake;Russell;Physiatrist;Mountain View;3.7
+1014;Felicity;Mitchell;Plastic Surgeon;Oakland;3.8
+1015;Frank;Ross;Psychiatrist;Oakland;3.9
+1016;Ian;Bailey;Psychiatrist;Pacifica;4
+1017;Charles;Mathis;Pulmonologist;Palo Alto;4.1
+1018;Stephen;Wilson;Radiologist;Millbray;4.2
+1019;Sean;Piper;Rheumatologist;Redwood City;4.3
+1020;Carolyn;Quinn;Urologist;Richmond;4.4
+1021;Brandon;Duncan;Orthopedic Surgeon;Richmond;4.5
+1022;Frank;Pullman;Otolaryngologist;San Bruno;4.6
+1023;Audrey;Parr;Pediatrician;San Bruno;4.7
+1024;Olivia;Lee;Physiatrist;San Bruno;2.4
+1025;Jennifer;Russell;Gastroenterologist;Millbrae;2.5
+1026;Dorothy;Wilkins;Cardiologist;San Bruno;2.6
+1027;Sophie;Alsop;Physiatrist;Millbrae;2.7
+1028;Sebastian;Roberts;Plastic Surgeon;San Carlos;2.8
+1029;Kevin;Stewart;Cardiologist;San Carlos;2.9
+1030;Cameron;Smith;Cardiologist;San Francisco;3
+1031;Leonard;Roberts;Physiatrist;San Francisco;3.1
+1032;Sally;Baker;Cardiologist;San Francisco;3.2
+1033;Karen;Coleman;Cardiologist;San Francisco;3.3
+1034;Harry;Ince;Physiatrist;San Francisco;3.4
+1035;Jasmine;Ball;Psychiatrist;San Francisco;3.5
+1036;Gabrielle;Peake;Allergist;San Jose;3.6
+1037;Richard;Wilson;Anesthesiologist;San Jose;3.7
+1038;Lauren;Tucker;Cardiologist;San Jose;3.8
+1039;Carol;Kerr;Dermatologist;San Jose;3.9
+1040;Nicholas;Peake;Endocrinologist;San Jose;4
+1041;Alan;Arnold;Gastroenterologist;San Jose;4.1
+1042;Victor;Berry;Hematologist;San Jose;4.2
+1043;Lillian;Harris;Nephrologist;San Mateo;4.3
+1044;Harry;Murray;Obstetrician;San Mateo;4.4
+1045;Carolyn;Carr;Ophthalmologist;San Mateo;4.5
+1046;Trevor;Parsons;Optometrist;San Mateo;4.6
+1047;Neil;Manning;Orthopedic Surgeon;Santa Clara;4.7
+1048;Heather;Cornish;Otolaryngologist;Santa Clara;4.8
+1049;Simon;MacLeod;Pediatrician;Santa Clara;4.9
+1050;Fiona;Knox;Physiatrist;Palo Alto;5
+1051;Felicity;Grant;Plastic Surgeon;Santa Rosa;2.8
+1052;Wanda;Lewis;Psychiatrist;Saratoga;2.9
+1053;Joshua;Jackson;Psychiatrist;South San Francisco;3
+1054;Anna;Mackay;Pediatrician;Sunnyvale;3.1
+1055;Andrea;Forsyth;Physiatrist;Sunnyvale;3.2
+1056;Wendy;Wilson;Plastic Surgeon;San Francisco;3.3
+1057;Ryan;Gill;Psychiatrist;San Francisco;3.4
+1058;Diane;Lewis;Psychiatrist;San Francisco;3.5
+1059;Fiona;Dowd;Pulmonologist;San Francisco;3.6
+1060;Richard;Langdon;Radiologist;San Jose;3.7
+1061;Samantha;Terry;Rheumatologist;San Jose;3.8
+1062;Joseph;Johnston;Urologist;San Jose;3.9
+1063;Alan;Harris;Orthopedic Surgeon;San Jose;4
+1064;Mary;McDonald;Otolaryngologist;San Jose;4.1
+1065;Kimberly;Watson;Pediatrician;San Jose;1.5
+1066;Olivia;Anderson;Physiatrist;San Jose;1.6
+1067;Simon;Vaughan;Gastroenterologist;San Mateo;1.7
+1068;Sonia;Newman;Cardiologist;San Mateo;1.8
+1069;Rebecca;Graham;Physiatrist;San Mateo;1.9
+1070;Anthony;Mathis;Plastic Surgeon;San Mateo;2
+1071;Alexander;Willian;Cardiologist;Santa Clara;2.1
+1072;Kylie;Kerr;Cardiologist;Santa Clara;2.2
+1073;Felicity;Hart;Physiatrist;Santa Clara;2.3
+1074;Harry;Alsop;Cardiologist;Palo Alto;2.4
+1075;Alexander;Knox;Cardiologist;Santa Rosa;2.5
+1076;Diana;White;Physiatrist;Saratoga;2.6
+1077;Samantha;Wilson;Psychiatrist;South San Francisco;2.7
+1078;Nathan;Pullman;Allergist;Sunnyvale;2.8
+1079;Yvonne;White;Anesthesiologist;Sunnyvale;2.9
+1080;Dominic;Miller;Cardiologist;Menlo Park;3
+1081;Ella;McGrath;Dermatologist;Berkeley;3.1
+1082;Alison;Allan;Endocrinologist;Burlingame;3.2
+1083;Amelia;Dyer;Gastroenterologist;Colma;3.3
+1084;Thomas;Hemmings;Hematologist;Colma;3.4
+1085;Kylie;Fraser;Nephrologist;Colma;3.5
+1086;Jessica;Butler;Obstetrician;Concord;3.6
+1087;Diane;Roberts;Ophthalmologist;Concord;3.7
+1088;Jennifer;Newman;Optometrist;Cupertino;3.8
+1089;Fiona;Malkin;Orthopedic Surgeon;Daly City;3.9
+1090;Jake;Miller;Otolaryngologist;Daly City;4
+1091;Grace;Fisher;Pediatrician;San Jose;4.1
+1092;Mary;Allan;Physiatrist;San Mateo;4.2
+1093;San;Tucker;Plastic Surgeon;San Mateo;4.3
+1094;Diane;Morgan;Pediatrician;Foster City;1.8
+1095;David;Fraser;Physiatrist;Fremont;1.9
+1096;Felicity;Hardacre;Plastic Surgeon;Fremont;2
+1097;Lean;Davies;Psychiatrist;Gilroy;2.1
+1098;Sue;Simpson;Psychiatrist;Half Moon Bay;2.2
+1099;David;Morrison;Pulmonologist;Hayward;2.3
+1100;Joe;Bond;Radiologist;Hayward;2.4
+1101;Zoe;Murray;Rheumatologist;Hillsborough;2.5
+1102;Amanda;Hart;Urologist;Los Altos;2.6
+1103;Victor;Nolan;Allergist;Los Altos;2.7
+1104;Heather;Dickens;Anesthesiologist;Los Gatos;2.8
+1105;Sean;Kelin;Cardiologist;Los Gatos;2.9
+1106;Warren;Simpson;Dermatologist;Palo Alto;3
+1107;Brandon;Walsh;Endocrinologist;Los Gatos;3.1
+1108;Ian;Bell;Gastroenterologist;Menlo Park;3.2
+1109;Lucas;McDonald;Hematologist;Millbrae;2.5
+1110;Connor;Gray;Nephrologist;Milpitas;2.6
+1111;Ann;Wilkins;Obstetrician;Palo Alto;2.7
+1112;Victor;Marshall;Ophthalmologist;Milpitas;2.8
+1113;Stephen;Wallace;Optometrist;Milpitas;2.9
+1114;Nicholas;Lyman;Orthopedic Surgeon;San Francisco;3
+1115;Madeleine;Lambert;Otolaryngologist;Palo Alto;3.1
+1116;Jennifer;Lee;Pediatrician;Mountain View;3.2
+1117;Julia;Rampling;Physiatrist;Mountain View;3.3
+1118;Joanne;Powell;Plastic Surgeon;Oakland;3.4
+1119;David;McGrath;Psychiatrist;Oakland;3.5
+1120;Karen;Simpson;Psychiatrist;Pacifica;3.6
+1121;Ava;Scott;Pulmonologist;Palo Alto;3.7
+1122;Matt;Newman;Radiologist;Millbray;3.8
+1123;William;Turner;Rheumatologist;Redwood City;3.9
+1124;Dylan;Arnold;Urologist;Richmond;4
+1125;Nicholas;Edmunds;Orthopedic Surgeon;Richmond;4.1
+1126;Kimberly;Pullman;Otolaryngologist;San Bruno;4.2
+1127;Deirdre;McDonald;Pediatrician;San Bruno;4.3
+1128;Rose;Stewart;Physiatrist;San Bruno;4.4
+1129;Tim;Chapman;Gastroenterologist;Millbrae;4.5
+1130;Fiona;Wallace;Cardiologist;San Bruno;4.6
+1131;Amelia;Bell;Physiatrist;Millbrae;4.7
+1132;Madeleine;Nash;Plastic Surgeon;San Carlos;4.8
+1133;Connor;Simpson;Cardiologist;San Carlos;1.8
+1134;Theresa;Gray;Cardiologist;San Francisco;1.9
+1135;Rebecca;Mathis;Physiatrist;San Francisco;2
+1136;Sue;Johnston;Cardiologist;San Francisco;2.1
+1137;Robert;Walsh;Cardiologist;San Francisco;2.2
+1138;Luke;Wilson;Physiatrist;San Francisco;2.3
+1139;Luke;Bell;Psychiatrist;San Francisco;2.4
+1140;Edward;Sharp;Allergist;San Jose;2.5
+1141;Zoe;Brown;Anesthesiologist;San Jose;2.6
+1142;Adam;Langdon;Cardiologist;San Jose;2.7
+1143;Richard;Pullman;Dermatologist;San Jose;2.8
+1144;Olivia;Parsons;Endocrinologist;San Jose;2.9
+1145;Stephen;Oliver;Gastroenterologist;San Jose;3
+1146;Yvonne;Blake;Hematologist;San Jose;3.1
+1147;Emily;Ogden;Nephrologist;San Mateo;2.5
+1148;Rebecca;Kelly;Obstetrician;San Mateo;2.6
+1149;Oliver;Hemmings;Ophthalmologist;San Mateo;2.7
+1150;Heather;Manning;Optometrist;San Mateo;2.8
+1151;Penelope;Cameron;Orthopedic Surgeon;Santa Clara;2.9
+1152;Molly;Bower;Otolaryngologist;Santa Clara;3
+1153;Sam;Kelly;Pediatrician;Santa Clara;3.1
+1154;Carl;Hunter;Physiatrist;Palo Alto;3.2
+1155;Jack;Abraham;Plastic Surgeon;Santa Rosa;3.3
+1156;Dylan;Peters;Psychiatrist;Saratoga;3.4
+1157;Matt;Rampling;Psychiatrist;South San Francisco;2.8
+1158;Ian;McDonald;Pediatrician;Sunnyvale;2.9
+1159;Alan;Bower;Physiatrist;Sunnyvale;3
+1160;Theresa;Russell;Plastic Surgeon;San Francisco;3.1
+1161;Lucas;Avery;Psychiatrist;San Francisco;3.2
+1162;Charles;Russell;Psychiatrist;San Francisco;3.3
+1163;Luke;Langdon;Pulmonologist;San Francisco;2.5
+1164;Edward;Black;Radiologist;San Jose;2.6
+1165;Dominic;Hill;Rheumatologist;San Jose;2.7
+1166;Matt;Taylor;Urologist;San Jose;2.8
+1167;Trevor;Vance;Orthopedic Surgeon;San Jose;2.9
+1168;Austin;Paige;Otolaryngologist;San Jose;3
+1169;Amy;Ross;Pediatrician;San Jose;3.1
+1170;Elizabeth;Langdon;Physiatrist;San Jose;3.2
+1171;Amy;Simpson;Gastroenterologist;San Mateo;3.3
+1172;Bella;Miller;Cardiologist;San Mateo;3.4
+1173;Nathan;Hamilton;Physiatrist;San Mateo;2.6
+1174;Melanie;Clark;Plastic Surgeon;San Mateo;2.7
+1175;Colin;Davies;Cardiologist;Santa Clara;2.8
+1176;Karen;Langdon;Cardiologist;Santa Clara;2.9
+1177;Kimberly;Bailey;Physiatrist;Santa Clara;3
+1178;Felicity;Wallace;Cardiologist;Palo Alto;3.1
+1179;Yvonne;Stewart;Cardiologist;Santa Rosa;2.5
+1180;Hannah;May;Physiatrist;Saratoga;2.6
+1181;Jason;Mills;Psychiatrist;South San Francisco;2.7
+1182;Alan;Peters;Allergist;Sunnyvale;2.8
+1183;Karen;Dickens;Anesthesiologist;Sunnyvale;2.9
+1184;Jack;Wallace;Cardiologist;Menlo Park;3
+1185;Oliver;Rees;Dermatologist;Berkeley;3.1
+1186;Amelia;Clarkson;Endocrinologist;Burlingame;3.2
+1187;Dominic;Rees;Gastroenterologist;Colma;2.5
+1188;Dylan;Ball;Hematologist;Colma;2.6
+1189;Colin;Lewis;Nephrologist;Colma;2.7
+1190;Thomas;Welch;Obstetrician;Concord;2.8
+1191;Ryan;Kelly;Ophthalmologist;Concord;2.9
+1192;Jennifer;Hughes;Optometrist;Cupertino;3
+1193;Amanda;Welch;Orthopedic Surgeon;Daly City;3.1
+1194;Jan;Wilkins;Otolaryngologist;Daly City;3.2
+1195;Warren;Paige;Pediatrician;San Jose;3.3
+1196;Elizabeth;Knox;Physiatrist;San Mateo;3.4
+1197;Austin;Butler;Plastic Surgeon;San Mateo;3.1
+1198;Lily;Abraham;Pediatrician;Foster City;3.2
+1199;Anna;Black;Physiatrist;Fremont;3.3
+1200;Diane;Black;Plastic Surgeon;Fremont;3.4
+1201;Keith;Roberts;Psychiatrist;Gilroy;1.5
+1202;Christian;Thomson;Psychiatrist;Half Moon Bay;1.6
+1203;Sonia;May;Pulmonologist;Hayward;1.7
+1204;Wanda;Hughes;Radiologist;Hayward;1.8
+1205;Anthony;Campbell;Rheumatologist;Hillsborough;1.9
+1206;Katherine;Wright;Urologist;Los Altos;2
+1207;Sarah;Baker;Allergist;Los Altos;2.1
+1208;Emily;Grant;Anesthesiologist;Los Gatos;2.2
+1209;Karen;Stewart;Cardiologist;Los Gatos;2.3
+1210;Jane;Lewis;Dermatologist;Palo Alto;2.4
+1211;Lauren;King;Endocrinologist;Los Gatos;2.5
+1212;Thomas;Clark;Gastroenterologist;Menlo Park;2.6
+1213;Keith;Mitchy;Hematologist;Millbrae;2.7
+1214;Caroline;North;Nephrologist;Milpitas;2.8
+1215;Brian;Kelin;Obstetrician;Palo Alto;2.9
+1216;Luke;Young;Ophthalmologist;Milpitas;3
+1217;Heather;Burgess;Optometrist;Milpitas;3.1
+1218;Felicity;McGrath;Orthopedic Surgeon;San Francisco;3.2
+1219;Sonia;Baker;Otolaryngologist;Palo Alto;3.3
+1220;Lauren;Payne;Pediatrician;Mountain View;3.4
+1221;Felicity;Gill;Physiatrist;Mountain View;3.5
+1222;Adrian;Piper;Plastic Surgeon;Oakland;3.6
+1223;Stewart;Coleman;Psychiatrist;Oakland;3.7
+1224;Hannah;Paige;Psychiatrist;Pacifica;3.8
+1225;Luke;Smith;Pulmonologist;Palo Alto;3.9
+1226;Madeleine;Butler;Radiologist;Millbray;4
+1227;Wendy;Morrison;Rheumatologist;Redwood City;4.1
+1228;John;Dyer;Urologist;Richmond;4.2
+1229;Frank;Glover;Orthopedic Surgeon;Richmond;4.3
+1230;Rose;Robertson;Otolaryngologist;San Bruno;4.4
+1231;Alison;Mathis;Pediatrician;San Bruno;4.5
+1232;Samantha;Vaughan;Physiatrist;San Bruno;4.6
+1233;Una;Lewis;Gastroenterologist;Millbrae;3.3
+1234;Brandon;Knox;Cardiologist;San Bruno;3.4
+1235;Carl;Skinner;Physiatrist;Millbrae;3.5
+1236;Harry;Vaughan;Plastic Surgeon;San Carlos;3.6
+1237;Harry;Malkin;Cardiologist;San Carlos;3.7
+1238;Amelia;Parr;Cardiologist;San Francisco;3.8
+1239;Victoria;Mathis;Physiatrist;San Francisco;3.9
+1240;Stewart;Kerr;Cardiologist;San Francisco;4
+1241;Rose;Black;Cardiologist;San Francisco;4.1
+1242;Piers;Hardacre;Physiatrist;San Francisco;4.2
+1243;Alan;White;Psychiatrist;San Francisco;4.3
+1244;Boris;Hunter;Allergist;San Jose;4.4
+1245;Lily;Blake;Anesthesiologist;San Jose;4.5
+1246;Samantha;Tucker;Cardiologist;San Jose;4.6
+1247;Harry;Hughes;Dermatologist;San Jose;4.7
+1248;Warren;Forsyth;Endocrinologist;San Jose;3.3
+1249;Elizabeth;Kerr;Gastroenterologist;San Jose;3.4
+1250;Jacob;Watson;Hematologist;San Jose;3.5
+1251;Dominic;Turner;Nephrologist;San Mateo;3.6
+1252;Karen;Cornish;Obstetrician;San Mateo;3.7
+1253;Carol;Brown;Ophthalmologist;San Mateo;3.8
+1254;Heather;Stewart;Optometrist;San Mateo;3.9
+1255;Una;Poole;Orthopedic Surgeon;Santa Clara;4
+1256;Megan;Harris;Otolaryngologist;Santa Clara;4.1
+1257;Robert;Robertson;Pediatrician;Santa Clara;4.2
+1258;Jack;Langdon;Physiatrist;Palo Alto;4.3
+1259;Jonathan;Piper;Plastic Surgeon;Santa Rosa;4.4
+1260;Ian;Springer;Psychiatrist;Saratoga;4.5
+1261;William;Stewart;Psychiatrist;South San Francisco;4.6
+1262;Stewart;Hodges;Pediatrician;Sunnyvale;4.7
+1263;Jake;Berry;Physiatrist;Sunnyvale;1.9
+1264;Rebecca;Cameron;Plastic Surgeon;San Francisco;2
+1265;Simon;Mitchy;Psychiatrist;San Francisco;2.1
+1266;Frank;Powell;Psychiatrist;San Francisco;2.2
+1267;Una;Wilkins;Pulmonologist;San Francisco;2.3
+1268;Isaac;Dickens;Radiologist;San Jose;2.4
+1269;Emily;Springer;Rheumatologist;San Jose;2.5
+1270;Andrea;Manning;Urologist;San Jose;2.6
+1271;Sean;Rampling;Orthopedic Surgeon;San Jose;2.7
+1272;Diana;Johnston;Otolaryngologist;San Jose;2.8
+1273;Ella;Graham;Pediatrician;San Jose;2.9
+1274;Pippa;Short;Physiatrist;San Jose;3
+1275;Sean;Mitchy;Gastroenterologist;San Mateo;3.1
+1276;Caroline;Knox;Cardiologist;San Mateo;3.2
+1277;Kevin;Smith;Physiatrist;San Mateo;3.3
+1278;Deirdre;Willian;Plastic Surgeon;San Mateo;3.4
+1279;Harry;Bailey;Cardiologist;Santa Clara;3.5
+1280;Dominic;Wallace;Cardiologist;Santa Clara;3.6
+1281;Carl;Russell;Physiatrist;Santa Clara;3.7
+1282;Pippa;Walker;Cardiologist;Palo Alto;3.8
+1283;Megan;Butler;Cardiologist;Santa Rosa;3.9
+1284;Jessica;Dickens;Physiatrist;Saratoga;4
+1285;Robert;Powell;Psychiatrist;South San Francisco;4.1
+1286;Sam;King;Allergist;Sunnyvale;4.2
+1287;Paul;Marshall;Anesthesiologist;Sunnyvale;4.3
+1288;Paul;Ellison;Cardiologist;Menlo Park;4.4
+1289;Richard;Chapman;Dermatologist;Berkeley;4.5
+1290;Joshua;Simpson;Endocrinologist;Burlingame;4.6
+1291;Tim;Ferguson;Gastroenterologist;Colma;4.7
+1292;Frank;Walker;Hematologist;Colma;4.8
+1293;Simon;Anderson;Nephrologist;Colma;4.9
+1294;Natalie;Gill;Obstetrician;Concord;3.3
+1295;Leonard;Jackson;Ophthalmologist;Concord;3.4
+1296;Paul;Chapman;Optometrist;Cupertino;3.5
+1297;Jane;Terry;Orthopedic Surgeon;Daly City;3.6
+1298;Rebecca;Mitchell;Otolaryngologist;Daly City;3.7
+1299;Mary;Lambert;Pediatrician;San Jose;3.8
+1300;Frank;Malkin;Physiatrist;San Mateo;3.9
+1301;Piers;Walsh;Plastic Surgeon;San Mateo;4
+1302;Donna;Peake;Pediatrician;Foster City;4.1
+1303;Lily;Davies;Physiatrist;Fremont;4.2
+1304;Samantha;Gray;Plastic Surgeon;Fremont;4.3
+1305;Dylan;Smith;Psychiatrist;Gilroy;4.4
+1306;Theresa;Smith;Psychiatrist;Half Moon Bay;4.5
+1307;Peter;Roberts;Pulmonologist;Hayward;4.6
+1308;Una;Hemmings;Radiologist;Hayward;4.7
+1309;Oliver;King;Rheumatologist;Hillsborough;3.3
+1310;Karen;Sharp;Urologist;Los Altos;3.4
+1311;Lillian;James;Allergist;Los Altos;3.5
+1312;Yvonne;Morrison;Anesthesiologist;Los Gatos;3.6
+1313;Joshua;Ball;Cardiologist;Los Gatos;3.7
+1314;Dan;North;Dermatologist;Palo Alto;3.8
+1315;Lauren;Pullman;Endocrinologist;Los Gatos;3.9
+1316;Wendy;Hardacre;Gastroenterologist;Menlo Park;4
+1317;Stephen;Manning;Hematologist;Millbrae;4.1
+1318;Alex;Bell;Nephrologist;Milpitas;4.2
+1319;Harry;Edmunds;Obstetrician;Palo Alto;4.3
+1320;Michael;Davies;Ophthalmologist;Milpitas;4.4
+1321;Julian;Skinner;Optometrist;Milpitas;4.5
+1322;Katherine;Forsyth;Orthopedic Surgeon;San Francisco;4.6
+1323;Rose;Bailey;Otolaryngologist;Palo Alto;4.7
+1324;Richard;Gray;Pediatrician;Mountain View;2.4
+1325;Jack;Fraser;Physiatrist;Mountain View;2.5
+1326;Isaac;McGrath;Plastic Surgeon;Oakland;2.6
+1327;Vanessa;MacLeod;Psychiatrist;Oakland;2.7
+1328;Donna;Hardacre;Psychiatrist;Pacifica;2.8
+1329;Keith;Wright;Pulmonologist;Palo Alto;2.9
+1330;Kylie;Forsyth;Radiologist;Millbray;3
+1331;Trevor;Alsop;Rheumatologist;Redwood City;3.1
+1332;Peter;Young;Urologist;Richmond;3.2
+1333;Karen;Blake;Orthopedic Surgeon;Richmond;3.3
+1334;Virginia;Carr;Otolaryngologist;San Bruno;3.4
+1335;Theresa;Turner;Pediatrician;San Bruno;3.5
+1336;Julian;Terry;Physiatrist;San Bruno;3.6
+1337;Maria;North;Gastroenterologist;Millbrae;3.7
+1338;Jennifer;Bond;Cardiologist;San Bruno;3.8
+1339;Penelope;Walker;Physiatrist;Millbrae;3.9
+1340;Jennifer;Hodges;Plastic Surgeon;San Carlos;4
+1341;Virginia;Ellison;Cardiologist;San Carlos;4.1
+1342;Alexander;Miller;Cardiologist;San Francisco;4.2
+1343;Sarah;Peters;Physiatrist;San Francisco;4.3
+1344;Donna;Scott;Cardiologist;San Francisco;4.4
+1345;Amy;Mathis;Cardiologist;San Francisco;4.5
+1346;Chloe;Morgan;Physiatrist;San Francisco;4.6
+1347;Jake;Marshall;Psychiatrist;San Francisco;4.7
+1348;Edward;Thomson;Allergist;San Jose;4.8
+1349;Paul;Forsyth;Anesthesiologist;San Jose;4.9
+1350;Jane;Bell;Cardiologist;San Jose;5
+1351;Katherine;Poole;Dermatologist;San Jose;2.8
+1352;Joan;Lawrence;Endocrinologist;San Jose;2.9
+1353;Kimberly;Martin;Gastroenterologist;San Jose;3
+1354;John;Thomson;Hematologist;San Jose;3.1
+1355;Fiona;Walsh;Nephrologist;San Mateo;3.2
+1356;Neil;Fraser;Obstetrician;San Mateo;3.3
+1357;Blake;Walsh;Ophthalmologist;San Mateo;3.4
+1358;Faith;Robertson;Optometrist;San Mateo;3.5
+1359;John;Ross;Orthopedic Surgeon;Santa Clara;3.6
+1360;Sophie;Kelly;Otolaryngologist;Santa Clara;3.7
+1361;Abigail;Peters;Pediatrician;Santa Clara;3.8
+1362;Trevor;Campbell;Physiatrist;Palo Alto;3.9
+1363;Paul;Davies;Plastic Surgeon;Santa Rosa;4
+1364;Brandon;Quinn;Psychiatrist;Saratoga;4.1
+1365;Emma;Coleman;Psychiatrist;South San Francisco;1.5
+1366;Sally;Cameron;Pediatrician;Sunnyvale;1.6
+1367;Megan;Thomson;Physiatrist;Sunnyvale;1.7
+1368;Blake;Campbell;Plastic Surgeon;San Francisco;1.8
+1369;Alan;Jones;Psychiatrist;San Francisco;1.9
+1370;Adrian;Anderson;Psychiatrist;San Francisco;2
+1371;Harry;Ball;Pulmonologist;San Francisco;2.1
+1372;Christian;Nolan;Radiologist;San Jose;2.2
+1373;Maria;Alsop;Rheumatologist;San Jose;2.3
+1374;Zoe;Oliver;Urologist;San Jose;2.4
+1375;William;Duncan;Orthopedic Surgeon;San Jose;2.5
+1376;Emily;Johnston;Otolaryngologist;San Jose;2.6
+1377;Adam;Ball;Pediatrician;San Jose;2.7
+1378;Ann;Dickens;Physiatrist;San Jose;2.8
+1379;Alex;Kerr;Gastroenterologist;San Mateo;2.9
+1380;Phil;Clark;Cardiologist;San Mateo;3
+1381;Joe;Willian;Physiatrist;San Mateo;3.1
+1382;Colin;Bower;Plastic Surgeon;San Mateo;3.2
+1383;Alan;Randall;Cardiologist;Santa Clara;3.3
+1384;Julian;Poole;Cardiologist;Santa Clara;3.4
+1385;Dan;Parr;Physiatrist;Santa Clara;3.5
+1386;Samantha;Duncan;Cardiologist;Palo Alto;3.6
+1387;Una;Coleman;Cardiologist;Santa Rosa;3.7
+1388;Anne;Clark;Physiatrist;Saratoga;3.8
+1389;Victoria;Lyman;Psychiatrist;South San Francisco;3.9
+1390;Sonia;McLean;Allergist;Sunnyvale;4
+1391;Max;Reid;Anesthesiologist;Sunnyvale;4.1
+1392;Kimberly;Knox;Cardiologist;Menlo Park;4.2
+1393;Lucas;Ellison;Dermatologist;Berkeley;4.3
+1394;Paul;Paterson;Endocrinologist;Burlingame;1.8
+1395;Gordon;Howard;Gastroenterologist;Colma;1.9
+1396;Dorothy;Blake;Hematologist;Colma;2
+1397;Steven;Fraser;Nephrologist;Colma;2.1
+1398;Lucas;Hudson;Obstetrician;Concord;2.2
+1399;Jessica;McDonald;Ophthalmologist;Concord;2.3
+1400;Luke;Miller;Optometrist;Cupertino;2.4
+1401;Dan;Oliver;Orthopedic Surgeon;Daly City;2.5
+1402;Gordon;Chapman;Otolaryngologist;Daly City;2.6
+1403;Ian;Gibson;Pediatrician;San Jose;2.7
+1404;Sue;Springer;Physiatrist;San Mateo;2.8
+1405;Kylie;Hemmings;Plastic Surgeon;San Mateo;2.9
+1406;Liam;Mitchell;Pediatrician;Foster City;3
+1407;Julian;Blake;Physiatrist;Fremont;3.1
+1408;Brian;Coleman;Plastic Surgeon;Fremont;3.2
+1409;Thomas;Malkin;Psychiatrist;Gilroy;2.5
+1410;Piers;Nolan;Psychiatrist;Half Moon Bay;2.6
+1411;Hannah;Manning;Pulmonologist;Hayward;2.7
+1412;Emily;Kelin;Radiologist;Hayward;2.8
+1413;Dorothy;Kerr;Rheumatologist;Hillsborough;2.9
+1414;Carl;Tucker;Urologist;Los Altos;3
+1415;Sophie;Vaughan;Allergist;Los Altos;3.1
+1416;Abigail;Ince;Anesthesiologist;Los Gatos;3.2
+1417;Chloe;Blake;Cardiologist;Los Gatos;3.3
+1418;Joshua;Nash;Dermatologist;Palo Alto;3.4
+1419;Victor;Fraser;Endocrinologist;Los Gatos;3.5
+1420;Alison;Rampling;Gastroenterologist;Menlo Park;3.6
+1421;Robert;Peters;Hematologist;Millbrae;3.7
+1422;Angela;Sanderson;Nephrologist;Milpitas;3.8
+1423;Tracey;Allan;Obstetrician;Palo Alto;3.9
+1424;Sophie;Parsons;Ophthalmologist;Milpitas;4
+1425;Dominic;Glover;Optometrist;Milpitas;4.1
+1426;Alex;Martin;Orthopedic Surgeon;San Francisco;4.2
+1427;Chloe;Wallace;Otolaryngologist;Palo Alto;4.3
+1428;Kimberly;Peters;Pediatrician;Mountain View;4.4
+1429;Lean;Hunter;Physiatrist;Mountain View;4.5
+1430;Lucas;Manning;Plastic Surgeon;Oakland;4.6
+1431;Jake;Edmunds;Psychiatrist;Oakland;4.7
+1432;Jan;Abraham;Psychiatrist;Pacifica;4.8
+1433;Victor;Hamilton;Pulmonologist;Palo Alto;1.8
+1434;Lily;Berry;Radiologist;Millbray;1.9
+1435;Thomas;Hamilton;Rheumatologist;Redwood City;2
+1436;Sean;Cornish;Urologist;Richmond;2.1
+1437;Julian;Baker;Orthopedic Surgeon;Richmond;2.2
+1438;Una;Ogden;Otolaryngologist;San Bruno;2.3
+1439;Bella;Turner;Pediatrician;San Bruno;2.4
+1440;Jake;Clark;Physiatrist;San Bruno;2.5
+1441;Joshua;May;Gastroenterologist;Millbrae;2.6
+1442;Ella;Manning;Cardiologist;San Bruno;2.7
+1443;Thomas;Knox;Physiatrist;Millbrae;2.8
+1444;Brandon;Watson;Plastic Surgeon;San Carlos;2.9
+1445;Dorothy;Walker;Cardiologist;San Carlos;3
+1446;Sonia;Lambert;Cardiologist;San Francisco;3.1
+1447;Simon;Sanderson;Physiatrist;San Francisco;2.5
+1448;Peter;Ellison;Cardiologist;San Francisco;2.6
+1449;Tim;Peake;Cardiologist;San Francisco;2.7
+1450;Yvonne;Butler;Physiatrist;San Francisco;2.8
+1451;Jacob;McLean;Psychiatrist;San Francisco;2.9
+1452;Carol;Ince;Allergist;San Jose;3
+1453;Carl;Dickens;Anesthesiologist;San Jose;3.1
+1454;Kevin;Peake;Cardiologist;San Jose;3.2
+1455;Dan;McLean;Dermatologist;San Jose;3.3
+1456;Ella;Marshall;Endocrinologist;San Jose;3.4
+1457;Paul;Smith;Gastroenterologist;San Jose;2.8
+1458;Nicholas;Kelly;Hematologist;San Jose;2.9
+1459;Samantha;Parsons;Nephrologist;San Mateo;3
+1460;Diane;Peake;Obstetrician;San Mateo;3.1
+1461;Emily;Davidson;Ophthalmologist;San Mateo;3.2
+1462;Alex;Lewis;Optometrist;San Mateo;3.3
+1463;Julian;Abraham;Orthopedic Surgeon;Santa Clara;2.5
+1464;Virginia;Davies;Otolaryngologist;Santa Clara;2.6
+1465;Claire;Edmunds;Pediatrician;Santa Clara;2.7
+1466;Theresa;Nash;Physiatrist;Palo Alto;2.8
+1467;Rose;Carr;Plastic Surgeon;Santa Rosa;2.9
+1468;Edward;Marshall;Psychiatrist;Saratoga;3
+1469;Robert;Walker;Psychiatrist;South San Francisco;3.1
+1470;Molly;Avery;Pediatrician;Sunnyvale;3.2
+1471;Rose;Fisher;Physiatrist;Sunnyvale;3.3
+1472;Sue;Hardacre;Plastic Surgeon;San Francisco;3.4
+1473;Nicholas;Willian;Psychiatrist;San Francisco;2.6
+1474;Caroline;Sharp;Psychiatrist;San Francisco;2.7
+1475;Mary;Bell;Pulmonologist;San Francisco;2.8
+1476;Maria;Davies;Radiologist;San Jose;2.9
+1477;Ava;Hardacre;Rheumatologist;San Jose;3
+1478;Wanda;Walsh;Urologist;San Jose;3.1
+1479;Diana;Harris;Orthopedic Surgeon;San Jose;2.5
+1480;Dan;Graham;Otolaryngologist;San Jose;2.6
+1481;Steven;Bell;Pediatrician;San Jose;2.7
+1482;Luke;Wallace;Physiatrist;San Jose;2.8
+1483;Michael;Jackson;Gastroenterologist;San Mateo;2.9
+1484;Amelia;Wilson;Cardiologist;San Mateo;3
+1485;Jasmine;Howard;Physiatrist;San Mateo;3.1
+1486;Ann;Mitchy;Plastic Surgeon;San Mateo;3.2
+1487;Tim;Cornish;Cardiologist;Santa Clara;2.5
+1488;Nicola;Kerr;Cardiologist;Santa Clara;2.6
+1489;Penelope;Harris;Physiatrist;Santa Clara;2.7
+1490;Theresa;Bond;Cardiologist;Palo Alto;2.8
+1491;Austin;Mathis;Cardiologist;Santa Rosa;2.9
+1492;Eric;Knox;Physiatrist;Saratoga;3
+1493;Olivia;McDonald;Psychiatrist;South San Francisco;3.1
+1494;Fiona;Blake;Allergist;Sunnyvale;3.2
+1495;Joseph;Palmer;Anesthesiologist;Sunnyvale;3.3
+1496;Bella;Vance;Cardiologist;Menlo Park;3.4
+1497;Neil;Vaughan;Dermatologist;Berkeley;3.1
+1498;Sophie;Hudson;Endocrinologist;Burlingame;3.2
+1499;James;McDonald;Gastroenterologist;Colma;3.3
+1500;Warren;Ferguson;Hematologist;Colma;3.4
+1501;Jason;Jackson;Nephrologist;Colma;1.5
+1502;Gavin;Howard;Obstetrician;Concord;1.6
+1503;Dominic;Avery;Ophthalmologist;Concord;1.7
+1504;Rachel;Wright;Optometrist;Cupertino;1.8
+1505;Carol;Smith;Orthopedic Surgeon;Daly City;1.9
+1506;Carol;Roberts;Otolaryngologist;Daly City;2
+1507;Dan;White;Pediatrician;San Jose;2.1
+1508;Jake;Carr;Physiatrist;San Mateo;2.2
+1509;Heather;Newman;Plastic Surgeon;San Mateo;2.3
+1510;Phil;Ellison;Pediatrician;Foster City;2.4
+1511;Frank;King;Physiatrist;Fremont;2.5
+1512;Jack;May;Plastic Surgeon;Fremont;2.6
+1513;Cameron;Gray;Psychiatrist;Gilroy;2.7
+1514;Ann;Dyer;Psychiatrist;Half Moon Bay;2.8
+1515;Penelope;Russell;Pulmonologist;Hayward;2.9
+1516;Blake;Hughes;Radiologist;Hayward;3
+1517;Boris;Martin;Rheumatologist;Hillsborough;3.1
+1518;Phil;Burgess;Urologist;Los Altos;3.2
+1519;Rachel;Nolan;Allergist;Los Altos;3.3
+1520;Peter;Terry;Anesthesiologist;Los Gatos;3.4
+1521;Austin;Gray;Cardiologist;Los Gatos;3.5
+1522;Victor;McLean;Dermatologist;Palo Alto;3.6
+1523;Trevor;Davies;Endocrinologist;Los Gatos;3.7
+1524;Jasmine;Harris;Gastroenterologist;Menlo Park;3.8
+1525;Paul;Fisher;Hematologist;Millbrae;3.9
+1526;Lisa;Brown;Nephrologist;Milpitas;4
+1527;Jasmine;Scott;Obstetrician;Palo Alto;4.1
+1528;Jack;Graham;Ophthalmologist;Milpitas;4.2
+1529;Matt;King;Optometrist;Milpitas;4.3
+1530;Edward;Allan;Orthopedic Surgeon;San Francisco;4.4
+1531;Lauren;Robertson;Otolaryngologist;Palo Alto;4.5
+1532;Lucas;Bond;Pediatrician;Mountain View;4.6
+1533;Jan;Dyer;Physiatrist;Mountain View;3.3
+1534;Austin;Johnston;Plastic Surgeon;Oakland;3.4
+1535;Keith;Bell;Psychiatrist;Oakland;3.5
+1536;Jack;Avery;Psychiatrist;Pacifica;3.6
+1537;Isaac;Buckland;Pulmonologist;Palo Alto;3.7
+1538;Yvonne;Avery;Radiologist;Millbray;3.8
+1539;Victoria;Henders;Rheumatologist;Redwood City;3.9
+1540;Ian;Alsop;Urologist;Richmond;4
+1541;Kimberly;Coleman;Orthopedic Surgeon;Richmond;4.1
+1542;Joan;Terry;Otolaryngologist;San Bruno;4.2
+1543;Amelia;Cameron;Pediatrician;San Bruno;4.3
+1544;Christian;Dowd;Physiatrist;San Bruno;4.4
+1545;Emma;McDonald;Gastroenterologist;Millbrae;4.5
+1546;Irene;Peters;Cardiologist;San Bruno;4.6
+1547;Megan;Scott;Physiatrist;Millbrae;4.7
+1548;Charles;Piper;Plastic Surgeon;San Carlos;3.3
+1549;Julian;Welch;Cardiologist;San Carlos;3.4
+1550;Victor;Wilkins;Cardiologist;San Francisco;3.5
+1551;Katherine;Ogden;Physiatrist;San Francisco;3.6
+1552;William;White;Cardiologist;San Francisco;3.7
+1553;Felicity;Palmer;Cardiologist;San Francisco;3.8
+1554;Melanie;Young;Physiatrist;San Francisco;3.9
+1555;Deirdre;Davies;Psychiatrist;San Francisco;4
+1556;Rebecca;Ferguson;Allergist;San Jose;4.1
+1557;Trevor;McDonald;Anesthesiologist;San Jose;4.2
+1558;Richard;Willian;Cardiologist;San Jose;4.3
+1559;Stephen;Ross;Dermatologist;San Jose;4.4
+1560;Tim;Hill;Endocrinologist;San Jose;4.5
+1561;Dylan;Sharp;Gastroenterologist;San Jose;4.6
+1562;Edward;White;Hematologist;San Jose;4.7
+1563;Jane;Smith;Nephrologist;San Mateo;1.9
+1564;Frank;Payne;Obstetrician;San Mateo;2
+1565;Lucas;Skinner;Ophthalmologist;San Mateo;2.1
+1566;Victor;Graham;Optometrist;San Mateo;2.2
+1567;Samantha;Langdon;Orthopedic Surgeon;Santa Clara;2.3
+1568;Isaac;James;Otolaryngologist;Santa Clara;2.4
+1569;Kevin;Scott;Pediatrician;Santa Clara;2.5
+1570;Ava;Hughes;Physiatrist;Palo Alto;2.6
+1571;Victoria;Lambert;Plastic Surgeon;Santa Rosa;2.7
+1572;Alex;Wilson;Psychiatrist;Saratoga;2.8
+1573;Joe;Avery;Psychiatrist;South San Francisco;2.9
+1574;Zoe;Hill;Pediatrician;Sunnyvale;3
+1575;Kylie;Dickens;Physiatrist;Sunnyvale;3.1
+1576;Penelope;Lambert;Plastic Surgeon;San Francisco;3.2
+1577;Maria;Kelin;Psychiatrist;San Francisco;3.3
+1578;Boris;Chapman;Psychiatrist;San Francisco;3.4
+1579;Deirdre;Kerr;Pulmonologist;San Francisco;3.5
+1580;Rachel;Campbell;Radiologist;San Jose;3.6
+1581;Peter;McLean;Rheumatologist;San Jose;3.7
+1582;Dylan;Skinner;Urologist;San Jose;3.8
+1583;Keith;Greene;Orthopedic Surgeon;San Jose;3.9
+1584;Dominic;Duncan;Otolaryngologist;San Jose;4
+1585;Andrew;Bell;Pediatrician;San Jose;4.1
+1586;Karen;Alsop;Physiatrist;San Jose;4.2
+1587;Owen;Kerr;Gastroenterologist;San Mateo;4.3
+1588;Dominic;Malkin;Cardiologist;San Mateo;4.4
+1589;Owen;Gill;Physiatrist;San Mateo;4.5
+1590;Ann;Arnold;Plastic Surgeon;San Mateo;4.6
+1591;Amelia;Dowd;Cardiologist;Santa Clara;4.7
+1592;Natalie;Hudson;Cardiologist;Santa Clara;4.8
+1593;Alison;Russell;Physiatrist;Santa Clara;4.9
+1594;Paul;Hill;Cardiologist;Palo Alto;3.3
+1595;Christian;Mitchy;Cardiologist;Santa Rosa;3.4
+1596;Tim;Parr;Physiatrist;Saratoga;3.5
+1597;Andrea;Davies;Psychiatrist;South San Francisco;3.6
+1598;Peter;Malkin;Allergist;Sunnyvale;3.7
+1599;Gabrielle;Murray;Anesthesiologist;Sunnyvale;3.8
+1600;Theresa;Mathis;Cardiologist;Menlo Park;3.9
+1601;Julia;Mathis;Dermatologist;Berkeley;4
+1602;Alan;King;Endocrinologist;Burlingame;4.1
+1603;Alan;Bell;Gastroenterologist;Colma;4.2
+1604;Carl;Gibson;Hematologist;Colma;4.3
+1605;Katherine;Burgess;Nephrologist;Colma;4.4
+1606;Stephen;McLean;Obstetrician;Concord;4.5
+1607;Amanda;Bell;Ophthalmologist;Concord;4.6
+1608;Sally;Rampling;Optometrist;Cupertino;4.7
+1609;Carl;Hudson;Orthopedic Surgeon;Daly City;3.3
+1610;James;Nash;Otolaryngologist;Daly City;3.4
+1611;Angela;Vaughan;Pediatrician;San Jose;3.5
+1612;San;Clarkson;Physiatrist;San Mateo;3.6
+1613;David;Thomson;Plastic Surgeon;San Mateo;3.7
+1614;James;Newman;Pediatrician;Foster City;3.8
+1615;Lisa;Dowd;Physiatrist;Fremont;3.9
+1616;Sophie;Arnold;Plastic Surgeon;Fremont;4
+1617;Sebastian;Hudson;Psychiatrist;Gilroy;4.1
+1618;William;Graham;Psychiatrist;Half Moon Bay;4.2
+1619;Evan;Langdon;Pulmonologist;Hayward;4.3
+1620;Andrea;Morgan;Radiologist;Hayward;4.4
+1621;Cameron;McDonald;Rheumatologist;Hillsborough;4.5
+1622;Rachel;Ellison;Urologist;Los Altos;4.6
+1623;Sophie;Mitchy;Allergist;Los Altos;4.7
+1624;William;Alsop;Anesthesiologist;Los Gatos;2.4
+1625;Heather;Howard;Cardiologist;Los Gatos;2.5
+1626;Joan;Peters;Dermatologist;Palo Alto;2.6
+1627;Joseph;Short;Endocrinologist;Los Gatos;2.7
+1628;Michelle;Marshall;Gastroenterologist;Menlo Park;2.8
+1629;Wanda;Mitchy;Hematologist;Millbrae;2.9
+1630;Jonathan;Jackson;Nephrologist;Milpitas;3
+1631;Piers;Knox;Obstetrician;Palo Alto;3.1
+1632;Connor;Russell;Ophthalmologist;Milpitas;3.2
+1633;Audrey;Oliver;Optometrist;Milpitas;3.3
+1634;Evan;Greene;Orthopedic Surgeon;San Francisco;3.4
+1635;Stephen;Kerr;Otolaryngologist;Palo Alto;3.5
+1636;Claire;Ferguson;Pediatrician;Mountain View;3.6
+1637;Felicity;Parsons;Physiatrist;Mountain View;3.7
+1638;Audrey;Simpson;Plastic Surgeon;Oakland;3.8
+1639;Michael;McGrath;Psychiatrist;Oakland;3.9
+1640;Jonathan;Turner;Psychiatrist;Pacifica;4
+1641;Nicola;Malkin;Pulmonologist;Palo Alto;4.1
+1642;Ruth;Clark;Radiologist;Millbray;4.2
+1643;Oliver;Poole;Rheumatologist;Redwood City;4.3
+1644;Diana;Manning;Urologist;Richmond;4.4
+1645;Lean;Welch;Orthopedic Surgeon;Richmond;4.5
+1646;Ian;Palmer;Otolaryngologist;San Bruno;4.6
+1647;Theresa;Marshall;Pediatrician;San Bruno;4.7
+1648;Ruth;James;Physiatrist;San Bruno;4.8
+1649;Owen;Carr;Gastroenterologist;Millbrae;4.9
+1650;Karen;Hardacre;Cardiologist;San Bruno;5
+1651;Carol;May;Physiatrist;Millbrae;2.8
+1652;Virginia;Hodges;Plastic Surgeon;San Carlos;2.9
+1653;Victor;Henders;Cardiologist;San Carlos;3
+1654;Joshua;Ellison;Cardiologist;San Francisco;3.1
+1655;Richard;Hughes;Physiatrist;San Francisco;3.2
+1656;Jacob;Gill;Cardiologist;San Francisco;3.3
+1657;Isaac;Hughes;Cardiologist;San Francisco;3.4
+1658;Luke;Terry;Physiatrist;San Francisco;3.5
+1659;Gabrielle;Piper;Psychiatrist;San Francisco;3.6
+1660;Gavin;Walker;Allergist;San Jose;3.7
+1661;Dan;Terry;Anesthesiologist;San Jose;3.8
+1662;Gordon;Johnston;Cardiologist;San Jose;3.9
+1663;Nicholas;Clarkson;Dermatologist;San Jose;4
+1664;Stewart;Berry;Endocrinologist;San Jose;4.1
+1665;Stephen;Vance;Gastroenterologist;San Jose;1.5
+1666;Gavin;Mills;Hematologist;San Jose;1.6
+1667;Faith;Lee;Nephrologist;San Mateo;1.7
+1668;Edward;Robertson;Obstetrician;San Mateo;1.8
+1669;Yvonne;Wilson;Ophthalmologist;San Mateo;1.9
+1670;Jane;Robertson;Optometrist;San Mateo;2
+1671;Ann;Suthy;Orthopedic Surgeon;Santa Clara;2.1
+1672;Sebastian;Bond;Otolaryngologist;Santa Clara;2.2
+1673;Sean;Avery;Pediatrician;Santa Clara;2.3
+1674;Sue;Davies;Physiatrist;Palo Alto;2.4
+1675;Sam;McLean;Plastic Surgeon;Santa Rosa;2.5
+1676;Elizabeth;Fisher;Psychiatrist;Saratoga;2.6
+1677;Ian;Anderson;Psychiatrist;South San Francisco;2.7
+1678;Rose;Rampling;Pediatrician;Sunnyvale;2.8
+1679;Alex;Johnston;Physiatrist;Sunnyvale;2.9
+1680;Sam;Hamilton;Plastic Surgeon;San Francisco;3
+1681;Theresa;Suthy;Psychiatrist;San Francisco;3.1
+1682;Lisa;Watson;Psychiatrist;San Francisco;3.2
+1683;Amanda;Watson;Pulmonologist;San Francisco;3.3
+1684;Sue;Marshall;Radiologist;San Jose;3.4
+1685;Carolyn;Willian;Rheumatologist;San Jose;3.5
+1686;Isaac;Vaughan;Urologist;San Jose;3.6
+1687;Steven;Simpson;Orthopedic Surgeon;San Jose;3.7
+1688;Amanda;Dowd;Otolaryngologist;San Jose;3.8
+1689;Joe;Wilkins;Pediatrician;San Jose;3.9
+1690;Sally;Pullman;Physiatrist;San Jose;4
+1691;Sean;MacLeod;Gastroenterologist;San Mateo;4.1
+1692;Michelle;Ball;Cardiologist;San Mateo;4.2
+1693;Joanne;Butler;Physiatrist;San Mateo;4.3
+1694;Nicholas;Ince;Plastic Surgeon;San Mateo;1.8
+1695;Sarah;Rampling;Cardiologist;Santa Clara;1.9
+1696;Molly;Lyman;Cardiologist;Santa Clara;2
+1697;Amy;Gibson;Physiatrist;Santa Clara;2.1
+1698;Nathan;Oliver;Cardiologist;Palo Alto;2.2
+1699;Leonard;Lawrence;Cardiologist;Santa Rosa;2.3
+1700;Christian;Blake;Physiatrist;Saratoga;2.4
+1701;Zoe;Peters;Psychiatrist;South San Francisco;2.5
+1702;Lily;Mitchy;Allergist;Sunnyvale;2.6
+1703;Jack;Ince;Anesthesiologist;Sunnyvale;2.7
+1704;Pippa;Kelin;Cardiologist;Menlo Park;2.8
+1705;Michelle;Kelin;Dermatologist;Berkeley;2.9
+1706;Gordon;Watson;Endocrinologist;Burlingame;3
+1707;Sebastian;Hughes;Gastroenterologist;Colma;3.1
+1708;Zoe;Edmunds;Hematologist;Colma;3.2
+1709;Dan;Hemmings;Nephrologist;Colma;2.5
+1710;San;Lyman;Obstetrician;Concord;2.6
+1711;Anna;Tucker;Ophthalmologist;Concord;2.7
+1712;Anthony;Payne;Optometrist;Cupertino;2.8
+1713;Donna;Davidson;Orthopedic Surgeon;Daly City;2.9
+1714;Anne;Turner;Otolaryngologist;Daly City;3
+1715;Maria;Hardacre;Pediatrician;San Jose;3.1
+1716;Donna;Murray;Physiatrist;San Mateo;3.2
+1717;Mary;Payne;Plastic Surgeon;San Mateo;3.3
+1718;David;Morgan;Pediatrician;Foster City;3.4
+1719;Gavin;Carr;Physiatrist;Fremont;3.5
+1720;Mary;Mills;Plastic Surgeon;Fremont;3.6
+1721;Kimberly;James;Psychiatrist;Gilroy;3.7
+1722;Penelope;Suthy;Psychiatrist;Half Moon Bay;3.8
+1723;Phil;Oliver;Pulmonologist;Hayward;3.9
+1724;Nicola;Stewart;Radiologist;Hayward;4
+1725;Victoria;Mitchy;Rheumatologist;Hillsborough;4.1
+1726;Ian;Peake;Urologist;Los Altos;4.2
+1727;Benjamin;Cameron;Allergist;Los Altos;4.3
+1728;Alexander;Abraham;Anesthesiologist;Los Gatos;4.4
+1729;Justin;Ogden;Cardiologist;Los Gatos;4.5
+1730;Amanda;Turner;Dermatologist;Palo Alto;4.6
+1731;Jason;Lawrence;Endocrinologist;Los Gatos;4.7
+1732;Bella;Russell;Gastroenterologist;Menlo Park;4.8
+1733;Alexander;Hardacre;Hematologist;Millbrae;1.8
+1734;Leah;Hodges;Nephrologist;Milpitas;1.9
+1735;Julia;May;Obstetrician;Palo Alto;2
+1736;Donna;Gill;Ophthalmologist;Milpitas;2.1
+1737;Liam;Springer;Optometrist;Milpitas;2.2
+1738;Abigail;Hart;Orthopedic Surgeon;San Francisco;2.3
+1739;Joshua;Oliver;Otolaryngologist;Palo Alto;2.4
+1740;Katherine;Pullman;Pediatrician;Mountain View;2.5
+1741;Julian;Vance;Physiatrist;Mountain View;2.6
+1742;Richard;Bond;Plastic Surgeon;Oakland;2.7
+1743;Elizabeth;Ellison;Psychiatrist;Oakland;2.8
+1744;Diane;Berry;Psychiatrist;Pacifica;2.9
+1745;Colin;Smith;Pulmonologist;Palo Alto;3
+1746;Alex;Brown;Radiologist;Millbray;3.1
+1747;Abigail;Bower;Rheumatologist;Redwood City;2.5
+1748;Kylie;Ball;Urologist;Richmond;2.6
+1749;Abigail;Morgan;Orthopedic Surgeon;Richmond;2.7
+1750;Vanessa;Walker;Otolaryngologist;San Bruno;2.8
+1751;Sarah;Jones;Pediatrician;San Bruno;2.9
+1752;Natalie;Johnston;Physiatrist;San Bruno;3
+1753;Simon;McGrath;Gastroenterologist;Millbrae;3.1
+1754;Deirdre;Wilson;Cardiologist;San Bruno;3.2
+1755;Frank;Mills;Physiatrist;Millbrae;3.3
+1756;Lillian;Parsons;Plastic Surgeon;San Carlos;3.4
+1757;Brandon;Hunter;Cardiologist;San Carlos;2.8
+1758;Melanie;Wilson;Cardiologist;San Francisco;2.9
+1759;Peter;Bond;Physiatrist;San Francisco;3
+1760;Dylan;Gibson;Cardiologist;San Francisco;3.1
+1761;Boris;Young;Cardiologist;San Francisco;3.2
+1762;Richard;Quinn;Physiatrist;San Francisco;3.3
+1763;Joan;Paterson;Psychiatrist;San Francisco;2.5
+1764;Ava;Vance;Allergist;San Jose;2.6
+1765;Jason;Palmer;Anesthesiologist;San Jose;2.7
+1766;Adrian;Bower;Cardiologist;San Jose;2.8
+1767;Olivia;Springer;Dermatologist;San Jose;2.9
+1768;Paul;Duncan;Endocrinologist;San Jose;3
+1769;Gabrielle;Scott;Gastroenterologist;San Jose;3.1
+1770;Sue;Coleman;Hematologist;San Jose;3.2
+1771;Lisa;Lawrence;Nephrologist;San Mateo;3.3
+1772;Justin;Mackay;Obstetrician;San Mateo;3.4
+1773;Christian;Grant;Ophthalmologist;San Mateo;2.6
+1774;Lucas;Suthy;Optometrist;San Mateo;2.7
+1775;Felicity;Paterson;Orthopedic Surgeon;Santa Clara;2.8
+1776;Heather;Wilkins;Otolaryngologist;Santa Clara;2.9
+1777;Jack;Walker;Pediatrician;Santa Clara;3
+1778;Abigail;Mills;Physiatrist;Palo Alto;3.1
+1779;Molly;Campbell;Plastic Surgeon;Santa Rosa;2.5
+1780;Joseph;Avery;Psychiatrist;Saratoga;2.6
+1781;Chloe;Gill;Psychiatrist;South San Francisco;2.7
+1782;Gavin;Terry;Pediatrician;Sunnyvale;2.8
+1783;Una;Marshall;Physiatrist;Sunnyvale;2.9
+1784;Virginia;Walsh;Plastic Surgeon;San Francisco;3
+1785;Emma;Paterson;Psychiatrist;San Francisco;3.1
+1786;Jane;Edmunds;Psychiatrist;San Francisco;3.2
+1787;Karen;Knox;Pulmonologist;San Francisco;2.5
+1788;Emma;Bailey;Radiologist;San Jose;2.6
+1789;Olivia;Morgan;Rheumatologist;San Jose;2.7
+1790;Wendy;Fraser;Urologist;San Jose;2.8
+1791;Julian;Black;Orthopedic Surgeon;San Jose;2.9
+1792;Max;Slater;Otolaryngologist;San Jose;3
+1793;Charles;Parsons;Pediatrician;San Jose;3.1
+1794;Ann;Ball;Physiatrist;San Jose;3.2
+1795;Sam;Manning;Gastroenterologist;San Mateo;3.3
+1796;Thomas;Hodges;Cardiologist;San Mateo;3.4
+1797;Fiona;Forsyth;Physiatrist;San Mateo;3.1
+1798;Joan;Wilkins;Plastic Surgeon;San Mateo;3.2
+1799;Adam;Oliver;Cardiologist;Santa Clara;3.3
+1800;Leah;Jones;Cardiologist;Santa Clara;3.4
+1801;Amy;Graham;Physiatrist;Santa Clara;1.5
+1802;Lean;Henders;Cardiologist;Palo Alto;1.6
+1803;Dominic;Cameron;Cardiologist;Santa Rosa;1.7
+1804;Fiona;Jones;Physiatrist;Saratoga;1.8
+1805;Benjamin;Hughes;Psychiatrist;South San Francisco;1.9
+1806;Nathan;Nolan;Allergist;Sunnyvale;2
+1807;Ella;Ogden;Anesthesiologist;Sunnyvale;2.1
+1808;Simon;Peake;Cardiologist;Menlo Park;2.2
+1809;Richard;Mitchy;Dermatologist;Berkeley;2.3
+1810;Natalie;King;Endocrinologist;Burlingame;2.4
+1811;Peter;Randall;Gastroenterologist;Colma;2.5
+1812;Colin;Sharp;Hematologist;Colma;2.6
+1813;Anna;Robertson;Nephrologist;Colma;2.7
+1814;Adrian;Newman;Obstetrician;Concord;2.8
+1815;Robert;Kelin;Ophthalmologist;Concord;2.9
+1816;San;Parsons;Optometrist;Cupertino;3
+1817;Joshua;Martin;Orthopedic Surgeon;Daly City;3.1
+1818;Steven;Johnston;Otolaryngologist;Daly City;3.2
+1819;Jan;Alsop;Pediatrician;San Jose;3.3
+1820;Emily;Martin;Physiatrist;San Mateo;3.4
+1821;Frank;Clark;Plastic Surgeon;San Mateo;3.5
+1822;Jasmine;Johnston;Pediatrician;Foster City;3.6
+1823;Leonard;Hamilton;Physiatrist;Fremont;3.7
+1824;Melanie;Mathis;Plastic Surgeon;Fremont;3.8
+1825;Anna;Marshall;Psychiatrist;Gilroy;3.9
+1826;Amy;Bell;Psychiatrist;Half Moon Bay;4
+1827;Jonathan;Rampling;Pulmonologist;Hayward;4.1
+1828;Dylan;Short;Radiologist;Hayward;4.2
+1829;Keith;Butler;Rheumatologist;Hillsborough;4.3
+1830;Warren;Ball;Urologist;Los Altos;4.4
+1831;Chloe;Fisher;Allergist;Los Altos;4.5
+1832;Tim;Robertson;Anesthesiologist;Los Gatos;4.6
+1833;Lillian;Vaughan;Cardiologist;Los Gatos;3.3
+1834;Peter;Allan;Dermatologist;Palo Alto;3.4
+1835;Jacob;Walker;Endocrinologist;Los Gatos;3.5
+1836;Matt;Jackson;Gastroenterologist;Menlo Park;3.6
+1837;Katherine;Brown;Hematologist;Millbrae;3.7
+1838;Andrea;Knox;Nephrologist;Milpitas;3.8
+1839;Victor;Mackay;Obstetrician;Palo Alto;3.9
+1840;Sean;King;Ophthalmologist;Milpitas;4
+1841;Nathan;Stewart;Optometrist;Milpitas;4.1
+1842;Brandon;Wallace;Orthopedic Surgeon;San Francisco;4.2
+1843;Grace;Greene;Otolaryngologist;Palo Alto;4.3
+1844;Deirdre;Hunter;Pediatrician;Mountain View;4.4
+1845;Cameron;Rees;Physiatrist;Mountain View;4.5
+1846;Lily;Clarkson;Plastic Surgeon;Oakland;4.6
+1847;Harry;Stewart;Psychiatrist;Oakland;4.7
+1848;Lily;Paige;Psychiatrist;Pacifica;3.3
+1849;Robert;Stewart;Pulmonologist;Palo Alto;3.4
+1850;Nicola;Avery;Radiologist;Millbray;3.5
+1851;Megan;Slater;Rheumatologist;Redwood City;3.6
+1852;Rebecca;Hudson;Urologist;Richmond;3.7
+1853;Ella;Mathis;Orthopedic Surgeon;Richmond;3.8
+1854;Michelle;Morgan;Otolaryngologist;San Bruno;3.9
+1855;Faith;Wallace;Pediatrician;San Bruno;4
+1856;Karen;Vaughan;Physiatrist;San Bruno;4.1
+1857;Stephen;Miller;Gastroenterologist;Millbrae;4.2
+1858;Joseph;Anderson;Cardiologist;San Bruno;4.3
+1859;Alex;Hart;Physiatrist;Millbrae;4.4
+1860;Bella;MacLeod;Plastic Surgeon;San Carlos;4.5
+1861;Lillian;McGrath;Cardiologist;San Carlos;4.6
+1862;Rebecca;Peters;Cardiologist;San Francisco;4.7
+1863;Natalie;Langdon;Physiatrist;San Francisco;1.9
+1864;Una;Buckland;Cardiologist;San Francisco;2
+1865;Anne;Butler;Cardiologist;San Francisco;2.1
+1866;Robert;Smith;Physiatrist;San Francisco;2.2
+1867;Rose;Short;Psychiatrist;San Francisco;2.3
+1868;Kimberly;Howard;Allergist;San Jose;2.4
+1869;Justin;Skinner;Anesthesiologist;San Jose;2.5
+1870;Jacob;Wilson;Cardiologist;San Jose;2.6
+1871;Megan;Ince;Dermatologist;San Jose;2.7
+1872;Evan;Peters;Endocrinologist;San Jose;2.8
+1873;Simon;Carr;Gastroenterologist;San Jose;2.9
+1874;Peter;Alsop;Hematologist;San Jose;3
+1875;Jack;Hill;Nephrologist;San Mateo;3.1
+1876;Angela;Nolan;Obstetrician;San Mateo;3.2
+1877;Boris;Ince;Ophthalmologist;San Mateo;3.3
+1878;Charles;Sanderson;Optometrist;San Mateo;3.4
+1879;Victor;Wilson;Orthopedic Surgeon;Santa Clara;3.5
+1880;Grace;Lawrence;Otolaryngologist;Santa Clara;3.6
+1881;Samantha;Willian;Pediatrician;Santa Clara;3.7
+1882;Lisa;Hudson;Physiatrist;Palo Alto;3.8
+1883;Blake;Tucker;Plastic Surgeon;Santa Rosa;3.9
+1884;Samantha;Martin;Psychiatrist;Saratoga;4
+1885;Sam;Alsop;Psychiatrist;South San Francisco;4.1
+1886;Rose;Skinner;Pediatrician;Sunnyvale;4.2
+1887;Liam;Dyer;Physiatrist;Sunnyvale;4.3
+1888;Brandon;Sanderson;Plastic Surgeon;San Francisco;4.4
+1889;Carol;Fisher;Psychiatrist;San Francisco;4.5
+1890;Anne;Russell;Psychiatrist;San Francisco;4.6
+1891;Cameron;Mathis;Pulmonologist;San Francisco;4.7
+1892;Joan;Coleman;Radiologist;San Jose;4.8
+1893;William;Anderson;Rheumatologist;San Jose;4.9
+1894;Andrew;Glover;Urologist;San Jose;3.3
+1895;Liam;Ross;Orthopedic Surgeon;San Jose;3.4
+1896;Joseph;Dowd;Otolaryngologist;San Jose;3.5
+1897;Sam;Walker;Pediatrician;San Jose;3.6
+1898;Donna;Peters;Physiatrist;San Jose;3.7
+1899;Lillian;Grant;Gastroenterologist;San Mateo;3.8
+1900;Wendy;Chapman;Cardiologist;San Mateo;3.9
+1901;Julian;Parr;Physiatrist;San Mateo;4
+1902;Olivia;White;Plastic Surgeon;San Mateo;4.1
+1903;Lisa;Springer;Cardiologist;Santa Clara;4.2
+1904;Oliver;Smith;Cardiologist;Santa Clara;4.3
+1905;Gordon;Campbell;Physiatrist;Santa Clara;4.4
+1906;Max;Vaughan;Cardiologist;Palo Alto;4.5
+1907;Kylie;Black;Cardiologist;Santa Rosa;4.6
+1908;Angela;Mackay;Physiatrist;Saratoga;4.7
+1909;Evan;Bower;Psychiatrist;South San Francisco;3.3
+1910;Sue;Palmer;Allergist;Sunnyvale;3.4
+1911;Joe;Hughes;Anesthesiologist;Sunnyvale;3.5
+1912;Alex;Stewart;Cardiologist;Menlo Park;3.6
+1913;Joe;Cameron;Dermatologist;Berkeley;3.7
+1914;Cameron;Lawrence;Endocrinologist;Burlingame;3.8
+1915;Dan;Gray;Gastroenterologist;Colma;3.9
+1916;Felicity;Reid;Hematologist;Colma;4
+1917;Anthony;Manning;Nephrologist;Colma;4.1
+1918;Stephen;Ince;Obstetrician;Concord;4.2
+1919;Lean;Chapman;Ophthalmologist;Concord;4.3
+1920;Chloe;Roberts;Optometrist;Cupertino;4.4
+1921;Karen;Hunter;Orthopedic Surgeon;Daly City;4.5
+1922;Phil;Payne;Otolaryngologist;Daly City;4.6
+1923;Nathan;Skinner;Pediatrician;San Jose;4.7
+1924;Joseph;Nolan;Physiatrist;San Mateo;2.4
+1925;Pippa;Hodges;Plastic Surgeon;San Mateo;2.5
+1926;Carolyn;Watson;Pediatrician;Foster City;2.6
+1927;Victor;Edmunds;Physiatrist;Fremont;2.7
+1928;Abigail;Hunter;Plastic Surgeon;Fremont;2.8
+1929;Stewart;Rampling;Psychiatrist;Gilroy;2.9
+1930;Joshua;Powell;Psychiatrist;Half Moon Bay;3
+1931;Nathan;Lewis;Pulmonologist;Hayward;3.1
+1932;David;MacLeod;Radiologist;Hayward;3.2
+1933;Sam;Mathis;Rheumatologist;Hillsborough;3.3
+1934;Dylan;Fraser;Urologist;Los Altos;3.4
+1935;Mary;Ferguson;Allergist;Los Altos;3.5
+1936;Luke;Parr;Anesthesiologist;Los Gatos;3.6
+1937;Joseph;Jones;Cardiologist;Los Gatos;3.7
+1938;Luke;Hudson;Dermatologist;Palo Alto;3.8
+1939;Blake;Wright;Endocrinologist;Los Gatos;3.9
+1940;Katherine;Mathis;Gastroenterologist;Menlo Park;4
+1941;Lauren;Turner;Hematologist;Millbrae;4.1
+1942;Brandon;Springer;Nephrologist;Milpitas;4.2
+1943;Amanda;Murray;Obstetrician;Palo Alto;4.3
+1944;Vanessa;Glover;Ophthalmologist;Milpitas;4.4
+1945;Diana;Newman;Optometrist;Milpitas;4.5
+1946;Virginia;Nash;Orthopedic Surgeon;San Francisco;4.6
+1947;Madeleine;Ogden;Otolaryngologist;Palo Alto;4.7
+1948;Dorothy;Taylor;Pediatrician;Mountain View;4.8
+1949;Maria;Nolan;Physiatrist;Mountain View;4.9
+1950;Lily;Mills;Plastic Surgeon;Oakland;5
+1951;Rebecca;Bell;Psychiatrist;Oakland;2.8
+1952;Una;Stewart;Psychiatrist;Pacifica;2.9
+1953;Joanne;Dowd;Pulmonologist;Palo Alto;3
+1954;Anne;Chapman;Radiologist;Millbray;3.1
+1955;Sophie;King;Rheumatologist;Redwood City;3.2
+1956;Alan;Davies;Urologist;Richmond;3.3
+1957;Christian;Fisher;Orthopedic Surgeon;Richmond;3.4
+1958;Jane;Simpson;Otolaryngologist;San Bruno;3.5
+1959;Virginia;Abraham;Pediatrician;San Bruno;3.6
+1960;Katherine;Mackay;Physiatrist;San Bruno;3.7
+1961;Gordon;Hamilton;Gastroenterologist;Millbrae;3.8
+1962;Edward;Bower;Cardiologist;San Bruno;3.9
+1963;Kimberly;White;Physiatrist;Millbrae;4
+1964;Paul;Scott;Plastic Surgeon;San Carlos;4.1
+1965;Jennifer;Hart;Cardiologist;San Carlos;1.5
+1966;Kylie;Sanderson;Cardiologist;San Francisco;1.6
+1967;Hannah;Hemmings;Physiatrist;San Francisco;1.7
+1968;Jennifer;Grant;Cardiologist;San Francisco;1.8
+1969;Joseph;Pullman;Cardiologist;San Francisco;1.9
+1970;Samantha;Lyman;Physiatrist;San Francisco;2
+1971;Abigail;Welch;Psychiatrist;San Francisco;2.1
+1972;Carolyn;Ball;Allergist;San Jose;2.2
+1973;San;Miller;Anesthesiologist;San Jose;2.3
+1974;Kevin;Bell;Cardiologist;San Jose;2.4
+1975;Sophie;Johnston;Dermatologist;San Jose;2.5
+1976;David;Howard;Endocrinologist;San Jose;2.6
+1977;Joseph;Russell;Gastroenterologist;San Jose;2.7
+1978;Olivia;Jones;Hematologist;San Jose;2.8
+1979;Colin;Clarkson;Nephrologist;San Mateo;2.9
+1980;Joanne;Burgess;Obstetrician;San Mateo;3
+1981;James;Johnston;Ophthalmologist;San Mateo;3.1
+1982;Frank;Stewart;Optometrist;San Mateo;3.2
+1983;Sonia;Lee;Orthopedic Surgeon;Santa Clara;3.3
+1984;Anna;Greene;Otolaryngologist;Santa Clara;3.4
+1985;Paul;Lawrence;Pediatrician;Santa Clara;3.5
+1986;Alan;Hemmings;Physiatrist;Palo Alto;3.6
+1987;Jennifer;Allan;Plastic Surgeon;Santa Rosa;3.7
+1988;Alison;Newman;Psychiatrist;Saratoga;3.8
+1989;Wanda;Kelin;Psychiatrist;South San Francisco;3.9
+1990;Amelia;MacLeod;Pediatrician;Sunnyvale;4
+1991;Gabrielle;Lawrence;Physiatrist;Sunnyvale;4.1
+1992;Jake;Ball;Plastic Surgeon;San Francisco;4.2
+1993;Jacob;Quinn;Psychiatrist;San Francisco;4.3
+1994;Tim;Marshall;Psychiatrist;San Francisco;1.8
+1995;Colin;Marshall;Pulmonologist;San Francisco;1.9
+1996;Robert;Turner;Radiologist;San Jose;2
+1997;Ann;Paterson;Rheumatologist;San Jose;2.1
+1998;Donna;Coleman;Urologist;San Jose;2.2
+1999;Thomas;Campbell;Orthopedic Surgeon;San Jose;2.3
+2000;Connor;Nash;Otolaryngologist;San Jose;2.4
+2001;Vanessa;Baker;Pediatrician;San Jose;2.5
+2002;Bella;Hughes;Physiatrist;San Jose;2.6
+2003;Sonia;Hudson;Gastroenterologist;San Mateo;2.7
+2004;Brian;Suthy;Cardiologist;San Mateo;2.8
+2005;Madeleine;Martin;Physiatrist;San Mateo;2.9
+2006;Benjamin;Welch;Plastic Surgeon;San Mateo;3
+2007;Ella;Poole;Cardiologist;Santa Clara;3.1
+2008;Christian;Vaughan;Cardiologist;Santa Clara;3.2
+2009;Theresa;Arnold;Physiatrist;Santa Clara;2.5
+2010;Amelia;Miller;Cardiologist;Palo Alto;2.6
+2011;Edward;Hughes;Cardiologist;Santa Rosa;2.7
+2012;Anthony;Coleman;Physiatrist;Saratoga;2.8
+2013;Adrian;Dyer;Psychiatrist;South San Francisco;2.9
+2014;Amelia;Johnston;Allergist;Sunnyvale;3
+2015;Dorothy;Lambert;Anesthesiologist;Sunnyvale;3.1
+2016;Penelope;Terry;Cardiologist;Menlo Park;3.2
+2017;Lily;Parsons;Dermatologist;Berkeley;3.3
+2018;Penelope;Bailey;Endocrinologist;Burlingame;3.4
+2019;Rachel;Roberts;Gastroenterologist;Colma;3.5
+2020;Maria;Hunter;Hematologist;Colma;3.6
+2021;William;Mathis;Nephrologist;Colma;3.7
+2022;Adrian;Glover;Obstetrician;Concord;3.8
+2023;Simon;Welch;Ophthalmologist;Concord;3.9
+2024;Ann;Springer;Optometrist;Cupertino;4
+2025;Brian;Poole;Orthopedic Surgeon;Daly City;4.1
+2026;Jan;Cameron;Otolaryngologist;Daly City;4.2
+2027;Trevor;Newman;Pediatrician;San Jose;4.3
+2028;Eric;Oliver;Physiatrist;San Mateo;4.4
+2029;Julian;Morgan;Plastic Surgeon;San Mateo;4.5
+2030;Blake;Hardacre;Pediatrician;Foster City;4.6
+2031;Emma;Blake;Physiatrist;Fremont;4.7
+2032;Virginia;Bond;Plastic Surgeon;Fremont;4.8
+2033;Rose;Slater;Psychiatrist;Gilroy;1.8
+2034;Lauren;Manning;Psychiatrist;Half Moon Bay;1.9
+2035;Ian;Vaughan;Pulmonologist;Hayward;2
+2036;Evan;Suthy;Radiologist;Hayward;2.1
+2037;Boris;Taylor;Rheumatologist;Hillsborough;2.2
+2038;Anna;Bower;Urologist;Los Altos;2.3
+2039;Amanda;Fraser;Allergist;Los Altos;2.4
+2040;Warren;Sanderson;Anesthesiologist;Los Gatos;2.5
+2041;Fiona;Wilkins;Cardiologist;Los Gatos;2.6
+2042;Anthony;Stewart;Dermatologist;Palo Alto;2.7
+2043;Max;Dyer;Endocrinologist;Los Gatos;2.8
+2044;Jack;Turner;Gastroenterologist;Menlo Park;2.9
+2045;Dan;Lyman;Hematologist;Millbrae;3
+2046;Nathan;Peters;Nephrologist;Milpitas;3.1
+2047;Sonia;Jackson;Obstetrician;Palo Alto;2.5
+2048;Dan;Stewart;Ophthalmologist;Milpitas;2.6
+2049;Christian;Cameron;Optometrist;Milpitas;2.7
+2050;Samantha;Randall;Orthopedic Surgeon;San Francisco;2.8
+2051;Carl;Bower;Otolaryngologist;Palo Alto;2.9
+2052;Owen;Wallace;Pediatrician;Mountain View;3
+2053;Gabrielle;Brown;Physiatrist;Mountain View;3.1
+2054;Lisa;Wilkins;Plastic Surgeon;Oakland;3.2
+2055;Stewart;Davies;Psychiatrist;Oakland;3.3
+2056;Amelia;Vaughan;Psychiatrist;Pacifica;3.4
+2057;Katherine;Bailey;Pulmonologist;Palo Alto;2.8
+2058;John;Glover;Radiologist;Millbray;2.9
+2059;Austin;Walker;Rheumatologist;Redwood City;3
+2060;Sarah;Ince;Urologist;Richmond;3.1
+2061;Nathan;Coleman;Orthopedic Surgeon;Richmond;3.2
+2062;Alex;Carr;Otolaryngologist;San Bruno;3.3
+2063;Nicholas;Morrison;Pediatrician;San Bruno;2.5
+2064;Joanne;Peake;Physiatrist;San Bruno;2.6
+2065;Deirdre;King;Gastroenterologist;Millbrae;2.7
+2066;Ruth;McGrath;Cardiologist;San Bruno;2.8
+2067;Alexander;Berry;Physiatrist;Millbrae;2.9
+2068;Audrey;Peters;Plastic Surgeon;San Carlos;3
+2069;Neil;Chapman;Cardiologist;San Carlos;3.1
+2070;Oliver;Payne;Cardiologist;San Francisco;3.2
+2071;Steven;Cameron;Physiatrist;San Francisco;3.3
+2072;Dan;Chapman;Cardiologist;San Francisco;3.4
+2073;Faith;Jackson;Cardiologist;San Francisco;2.6
+2074;Jan;Clarkson;Physiatrist;San Francisco;2.7
+2075;Alison;Morgan;Psychiatrist;San Francisco;2.8
+2076;Nathan;Fisher;Allergist;San Jose;2.9
+2077;Lily;Simpson;Anesthesiologist;San Jose;3
+2078;Samantha;Stewart;Cardiologist;San Jose;3.1
+2079;Joanne;Hunter;Dermatologist;San Jose;2.5
+2080;Dylan;Cornish;Endocrinologist;San Jose;2.6
+2081;Jessica;Piper;Gastroenterologist;San Jose;2.7
+2082;Gordon;Walsh;Hematologist;San Jose;2.8
+2083;Una;Langdon;Nephrologist;San Mateo;2.9
+2084;Nathan;Gibson;Obstetrician;San Mateo;3
+2085;Lucas;Knox;Ophthalmologist;San Mateo;3.1
+2086;Madeleine;Carr;Optometrist;San Mateo;3.2
+2087;Cameron;Edmunds;Orthopedic Surgeon;Santa Clara;2.5
+2088;Nathan;Arnold;Otolaryngologist;Santa Clara;2.6
+2089;Adrian;Ellison;Pediatrician;Santa Clara;2.7
+2090;Neil;Jones;Physiatrist;Palo Alto;2.8
+2091;Jake;Suthy;Plastic Surgeon;Santa Rosa;2.9
+2092;Sarah;Manning;Psychiatrist;Saratoga;3
+2093;Michelle;Hart;Psychiatrist;South San Francisco;3.1
+2094;Kylie;Vance;Pediatrician;Sunnyvale;3.2
+2095;Piers;Henders;Physiatrist;Sunnyvale;3.3
+2096;Abigail;Kelin;Plastic Surgeon;San Francisco;3.4
+2097;Ian;Piper;Psychiatrist;San Francisco;3.1
+2098;Julia;Young;Psychiatrist;San Francisco;3.2
+2099;Felicity;Malkin;Pulmonologist;San Francisco;3.3
+2100;Theresa;Gill;Radiologist;San Jose;3.4
+2101;Joshua;Murray;Rheumatologist;San Jose;1.5
+2102;Joshua;Hardacre;Urologist;San Jose;1.6
+2103;Max;Duncan;Orthopedic Surgeon;San Jose;1.7
+2104;Edward;Arnold;Otolaryngologist;San Jose;1.8
+2105;Kylie;Tucker;Pediatrician;San Jose;1.9
+2106;Joanne;Blake;Physiatrist;San Jose;2
+2107;Wanda;Hunter;Gastroenterologist;San Mateo;2.1
+2108;Kylie;Chapman;Cardiologist;San Mateo;2.2
+2109;Justin;Ince;Physiatrist;San Mateo;2.3
+2110;Liam;Walker;Plastic Surgeon;San Mateo;2.4
+2111;Charles;Sharp;Cardiologist;Santa Clara;2.5
+2112;Stephen;Davidson;Cardiologist;Santa Clara;2.6
+2113;Joanne;Wallace;Physiatrist;Santa Clara;2.7
+2114;Alan;Avery;Cardiologist;Palo Alto;2.8
+2115;Joe;Wallace;Cardiologist;Santa Rosa;2.9
+2116;Tim;Mackay;Physiatrist;Saratoga;3
+2117;Thomas;Hart;Psychiatrist;South San Francisco;3.1
+2118;Carolyn;Kerr;Allergist;Sunnyvale;3.2
+2119;Bella;Walker;Anesthesiologist;Sunnyvale;3.3
+2120;Tim;Oliver;Cardiologist;Menlo Park;3.4
+2121;San;Terry;Dermatologist;Berkeley;3.5
+2122;Justin;Graham;Endocrinologist;Burlingame;3.6
+2123;Theresa;Carr;Gastroenterologist;Colma;3.7
+2124;Liam;Edmunds;Hematologist;Colma;3.8
+2125;Sebastian;Quinn;Nephrologist;Colma;3.9
+2126;Luke;Sharp;Obstetrician;Concord;4
+2127;Sam;Wright;Ophthalmologist;Concord;4.1
+2128;Zoe;Blake;Optometrist;Cupertino;4.2
+2129;Thomas;North;Orthopedic Surgeon;Daly City;4.3
+2130;Hannah;Abraham;Otolaryngologist;Daly City;4.4
+2131;Joanne;Langdon;Pediatrician;San Jose;4.5
+2132;Trevor;Reid;Physiatrist;San Mateo;4.6
+2133;Jennifer;Rampling;Plastic Surgeon;San Mateo;3.3
+2134;Nicola;Cameron;Pediatrician;Foster City;3.4
+2135;Connor;May;Physiatrist;Fremont;3.5
+2136;Melanie;Suthy;Plastic Surgeon;Fremont;3.6
+2137;Carl;Randall;Psychiatrist;Gilroy;3.7
+2138;Trevor;Turner;Psychiatrist;Half Moon Bay;3.8
+2139;Wanda;Anderson;Pulmonologist;Hayward;3.9
+2140;Rachel;Short;Radiologist;Hayward;4
+2141;Emma;Carr;Rheumatologist;Hillsborough;4.1
+2142;Frank;Ball;Urologist;Los Altos;4.2
+2143;Sue;Lewis;Allergist;Los Altos;4.3
+2144;Sam;Buckland;Anesthesiologist;Los Gatos;4.4
+2145;Wanda;Young;Cardiologist;Los Gatos;4.5
+2146;Ian;Davidson;Dermatologist;Palo Alto;4.6
+2147;Dominic;Mitchy;Endocrinologist;Los Gatos;4.7
+2148;Victoria;May;Gastroenterologist;Menlo Park;3.3
+2149;Jake;Gill;Hematologist;Millbrae;3.4
+2150;Victor;Alsop;Nephrologist;Milpitas;3.5
+2151;Ryan;Young;Obstetrician;Palo Alto;3.6
+2152;Julia;Randall;Ophthalmologist;Milpitas;3.7
+2153;Abigail;Carr;Optometrist;Milpitas;3.8
+2154;Blake;Robertson;Orthopedic Surgeon;San Francisco;3.9
+2155;Julian;Gibson;Otolaryngologist;Palo Alto;4
+2156;Vanessa;Jones;Pediatrician;Mountain View;4.1
+2157;Alison;Malkin;Physiatrist;Mountain View;4.2
+2158;Connor;Ogden;Plastic Surgeon;Oakland;4.3
+2159;Oliver;Dowd;Psychiatrist;Oakland;4.4
+2160;Bella;Howard;Psychiatrist;Pacifica;4.5
+2161;Kimberly;Buckland;Pulmonologist;Palo Alto;4.6
+2162;Sally;Lyman;Radiologist;Millbray;4.7
+2163;Matt;Allan;Rheumatologist;Redwood City;1.9
+2164;Joshua;Slater;Urologist;Richmond;2
+2165;Sarah;Gibson;Orthopedic Surgeon;Richmond;2.1
+2166;Hannah;Baker;Otolaryngologist;San Bruno;2.2
+2167;Simon;Bailey;Pediatrician;San Bruno;2.3
+2168;Lillian;Davies;Physiatrist;San Bruno;2.4
+2169;Luke;North;Gastroenterologist;Millbrae;2.5
+2170;Nicholas;Stewart;Cardiologist;San Bruno;2.6
+2171;Faith;Burgess;Physiatrist;Millbrae;2.7
+2172;Angela;Parr;Plastic Surgeon;San Carlos;2.8
+2173;Nicola;Harris;Cardiologist;San Carlos;2.9
+2174;Ava;Mills;Cardiologist;San Francisco;3
+2175;Diane;King;Physiatrist;San Francisco;3.1
+2176;Alan;Lyman;Cardiologist;San Francisco;3.2
+2177;Abigail;Glover;Cardiologist;San Francisco;3.3
+2178;Sally;Newman;Physiatrist;San Francisco;3.4
+2179;Sam;Kerr;Psychiatrist;San Francisco;3.5
+2180;Trevor;Marshall;Allergist;San Jose;3.6
+2181;Nicola;Buckland;Anesthesiologist;San Jose;3.7
+2182;Jan;Buckland;Cardiologist;San Jose;3.8
+2183;Trevor;Suthy;Dermatologist;San Jose;3.9
+2184;Owen;McLean;Endocrinologist;San Jose;4
+2185;Stephen;Quinn;Gastroenterologist;San Jose;4.1
+2186;Maria;Clarkson;Hematologist;San Jose;4.2
+2187;Adam;Berry;Nephrologist;San Mateo;4.3
+2188;Felicity;Dickens;Obstetrician;San Mateo;4.4
+2189;Olivia;Morrison;Ophthalmologist;San Mateo;4.5
+2190;Adam;Skinner;Optometrist;San Mateo;4.6
+2191;Abigail;Dickens;Orthopedic Surgeon;Santa Clara;4.7
+2192;Justin;Rampling;Otolaryngologist;Santa Clara;4.8
+2193;Una;Slater;Pediatrician;Santa Clara;4.9
+2194;Faith;Hemmings;Physiatrist;Palo Alto;3.3
+2195;Claire;Davies;Plastic Surgeon;Santa Rosa;3.4
+2196;Connor;Kelly;Psychiatrist;Saratoga;3.5
+2197;Lucas;Jackson;Psychiatrist;South San Francisco;3.6
+2198;Dominic;Powell;Pediatrician;Sunnyvale;3.7
+2199;Michelle;Slater;Physiatrist;Sunnyvale;3.8
+2200;Amy;Edmunds;Plastic Surgeon;San Francisco;3.9
+2201;Wanda;Short;Psychiatrist;San Francisco;4
+2202;Wendy;Baker;Psychiatrist;San Francisco;4.1
+2203;Phil;MacLeod;Pulmonologist;San Francisco;4.2
+2204;Melanie;Ince;Radiologist;San Jose;4.3
+2205;Edward;Powell;Rheumatologist;San Jose;4.4
+2206;Diana;Greene;Urologist;San Jose;4.5
+2207;Dan;Scott;Orthopedic Surgeon;San Jose;4.6
+2208;Madeleine;Springer;Otolaryngologist;San Jose;4.7
+2209;Sean;Jones;Pediatrician;San Jose;3.3
+2210;Steven;Buckland;Physiatrist;San Jose;3.4
+2211;Joan;Alsop;Gastroenterologist;San Mateo;3.5
+2212;Dan;Ellison;Cardiologist;San Mateo;3.6
+2213;Jasmine;Bond;Physiatrist;San Mateo;3.7
+2214;Rebecca;Gray;Plastic Surgeon;San Mateo;3.8
+2215;Ryan;Lewis;Cardiologist;Santa Clara;3.9
+2216;Anne;Dowd;Cardiologist;Santa Clara;4
+2217;Jennifer;Turner;Physiatrist;Santa Clara;4.1
+2218;Audrey;Graham;Cardiologist;Palo Alto;4.2
+2219;Sean;Kerr;Cardiologist;Santa Rosa;4.3
+2220;Donna;Ince;Physiatrist;Saratoga;4.4
+2221;Faith;Gray;Psychiatrist;South San Francisco;4.5
+2222;Audrey;Lyman;Allergist;Sunnyvale;4.6
+2223;Brandon;Jackson;Anesthesiologist;Sunnyvale;4.7
+2224;Gordon;Dyer;Cardiologist;Menlo Park;2.4
+2225;Bella;Chapman;Dermatologist;Berkeley;2.5
+2226;Andrew;Walsh;Endocrinologist;Burlingame;2.6
+2227;Julian;Scott;Gastroenterologist;Colma;2.7
+2228;Penelope;McLean;Hematologist;Colma;2.8
+2229;Joe;Quinn;Nephrologist;Colma;2.9
+2230;Amy;Watson;Obstetrician;Concord;3
+2231;Simon;Davidson;Ophthalmologist;Concord;3.1
+2232;Victor;Carr;Optometrist;Cupertino;3.2
+2233;Owen;Bell;Orthopedic Surgeon;Daly City;3.3
+2234;Anthony;Allan;Otolaryngologist;Daly City;3.4
+2235;Austin;Cornish;Pediatrician;San Jose;3.5
+2236;San;Powell;Physiatrist;San Mateo;3.6
+2237;Jennifer;Gray;Plastic Surgeon;San Mateo;3.7
+2238;Julia;Ferguson;Allergist;Berkeley;3.8
+2239;Sally;Wallace;Anesthesiologist;Burlingame;3.9
+2240;Neil;May;Cardiologist;Colma;4
+2241;Carl;Lambert;Dermatologist;Colma;4.1
+2242;Adrian;Paige;Endocrinologist;Colma;4.2
+2243;Jessica;Sanderson;Gastroenterologist;Concord;4.3
+2244;Joseph;Murray;Hematologist;Concord;4.4
+2245;Brandon;Coleman;Nephrologist;Cupertino;4.5
+2246;Theresa;Ferguson;Obstetrician;Daly City;4.6
+2247;Leah;Malkin;Ophthalmologist;Daly City;4.7
+2248;Ruth;Palmer;Optometrist;Daly City;4.8
+2249;Maria;Vaughan;Orthopedic Surgeon;Daly City;4.9
+2250;Sonia;Jones;Otolaryngologist;East Palo Alto;5
+2251;Peter;Jones;Pediatrician;Foster City;2.8
+2252;Thomas;Ogden;Physiatrist;Fremont;2.9
+2253;Jake;Oliver;Plastic Surgeon;Fremont;3
+2254;Amy;White;Psychiatrist;Gilroy;3.1
+2255;Nathan;Terry;Psychiatrist;Half Moon Bay;3.2
+2256;Max;Wilkins;Pulmonologist;Hayward;3.3
+2257;Lily;Slater;Radiologist;Hayward;3.4
+2258;Emily;Ball;Rheumatologist;Hillsborough;3.5
+2259;Andrew;Mitchell;Urologist;Los Altos;3.6
+2260;Jacob;Hodges;Allergist;Los Altos;3.7
+2261;Carl;Walker;Anesthesiologist;Los Gatos;3.8
+2262;Evan;Miller;Cardiologist;Los Gatos;3.9
+2263;Simon;Wallace;Dermatologist;Palo Alto;4
+2264;San;Willian;Endocrinologist;Los Gatos;4.1
+2265;Anna;Coleman;Gastroenterologist;Menlo Park;1.5
+2266;Evan;Gray;Hematologist;Millbrae;1.6
+2267;Bella;Black;Nephrologist;Milpitas;1.7
+2268;Sean;Morgan;Obstetrician;Palo Alto;1.8
+2269;Keith;Clarkson;Ophthalmologist;Milpitas;1.9
+2270;Diane;Hughes;Optometrist;Milpitas;2
+2271;Anthony;Tucker;Orthopedic Surgeon;San Francisco;2.1
+2272;Samantha;Kelin;Otolaryngologist;Palo Alto;2.2
+2273;Rachel;Davidson;Pediatrician;Mountain View;2.3
+2274;Yvonne;Suthy;Physiatrist;Mountain View;2.4
+2275;Angela;Mathis;Plastic Surgeon;Oakland;2.5
+2276;Michelle;Turner;Psychiatrist;Oakland;2.6
+2277;Gavin;Piper;Psychiatrist;Pacifica;2.7
+2278;Grace;Bell;Pulmonologist;Palo Alto;2.8
+2279;Dominic;Morgan;Radiologist;Millbray;2.9
+2280;Jason;Knox;Rheumatologist;Redwood City;3
+2281;Kimberly;Morgan;Urologist;Richmond;3.1
+2282;Nathan;Miller;Orthopedic Surgeon;Richmond;3.2
+2283;William;Grant;Otolaryngologist;San Bruno;3.3
+2284;Dylan;Hamilton;Pediatrician;San Bruno;3.4
+2285;Jane;Poole;Physiatrist;San Bruno;3.5
+2286;Kevin;Manning;Gastroenterologist;Millbrae;3.6
+2287;Una;Bell;Psychiatrist;San Carlos;3.7
+2288;Lucas;Lee;Psychiatrist;San Carlos;3.8
+2289;William;Hunter;Gastroenterologist;San Francisco;3.9
+2290;Madeleine;Hemmings;Physiatrist;San Francisco;4
+2291;Faith;Cameron;Gastroenterologist;San Francisco;4.1
+2292;Rose;Lyman;Gastroenterologist;San Francisco;4.2
+2293;Michelle;Abraham;Allergist;San Francisco;4.3
+2294;Karen;Martin;Anesthesiologist;San Francisco;1.8
+2295;Jake;Randall;Cardiologist;San Jose;1.9
+2296;Caroline;Ogden;Physiatrist;San Jose;2
+2297;Anna;Lewis;Endocrinologist;San Jose;2.1
+2298;Michael;Avery;Physiatrist;San Jose;2.2
+2299;Jane;Anderson;Hematologist;San Jose;2.3
+2300;Stewart;Gill;Gastroenterologist;San Jose;2.4
+2301;Jason;Grant;Obstetrician;San Jose;2.5
+2302;Sonia;Nolan;Physiatrist;San Mateo;2.6
+2303;Leonard;Bower;Optometrist;San Mateo;2.7
+2304;Victor;Kelly;Orthopedic Surgeon;San Mateo;2.8
+2305;Katherine;Coleman;Otolaryngologist;San Mateo;2.9
+2306;Katherine;Watson;Cardiologist;Santa Clara;3
+2307;Austin;Welch;Physiatrist;Santa Clara;3.1
+2308;Evan;Carr;Plastic Surgeon;Santa Clara;3.2
+2309;Karen;MacLeod;Cardiologist;Palo Alto;2.5
+2310;Sean;James;Cardiologist;Santa Rosa;2.6
+2311;Lily;Taylor;Physiatrist;Saratoga;2.7
+2312;Samantha;Walsh;Cardiologist;South San Francisco;2.8
+2313;Adam;Hemmings;Cardiologist;Sunnyvale;2.9
+2314;Mary;Ball;Physiatrist;Sunnyvale;3
+2315;Molly;Tucker;Psychiatrist;Menlo Park;3.1
+2316;Anna;Brown;Allergist;Berkeley;3.2
+2317;Charles;Newman;Anesthesiologist;Burlingame;3.3
+2318;Joan;Wright;Allergist;Berkeley;3.4
+2319;Andrew;Hodges;Anesthesiologist;Burlingame;3.5
+2320;Zoe;Thomson;Cardiologist;Colma;3.6
+2321;Harry;Oliver;Dermatologist;Colma;3.7
+2322;Emily;Greene;Endocrinologist;Colma;3.8
+2323;Jake;Bailey;Gastroenterologist;Concord;3.9
+2324;Ava;Walsh;Hematologist;Concord;4
+2325;Lauren;Hardacre;Nephrologist;Cupertino;4.1
+2326;Justin;Payne;Obstetrician;Daly City;4.2
+2327;William;Malkin;Ophthalmologist;Daly City;4.3
+2328;Kylie;Nolan;Optometrist;Daly City;4.4
+2329;Christian;Fraser;Orthopedic Surgeon;Daly City;4.5
+2330;Sonia;Terry;Otolaryngologist;East Palo Alto;4.6
+2331;Joe;Johnston;Pediatrician;Foster City;4.7
+2332;Brian;White;Physiatrist;Fremont;4.8
+2333;Trevor;Lawrence;Plastic Surgeon;Fremont;1.8
+2334;Leah;Wallace;Psychiatrist;Gilroy;1.9
+2335;Oliver;Howard;Psychiatrist;Half Moon Bay;2
+2336;Keith;Gray;Pulmonologist;Hayward;2.1
+2337;Victor;Grant;Radiologist;Hayward;2.2
+2338;Jason;Forsyth;Rheumatologist;Hillsborough;2.3
+2339;Jessica;Paterson;Urologist;Los Altos;2.4
+2340;Hannah;Morgan;Allergist;Los Altos;2.5
+2341;Sarah;Walsh;Anesthesiologist;Los Gatos;2.6
+2342;Felicity;Martin;Cardiologist;Los Gatos;2.7
+2343;Virginia;Bell;Dermatologist;Palo Alto;2.8
+2344;Abigail;Peake;Endocrinologist;Los Gatos;2.9
+2345;Alison;Lawrence;Gastroenterologist;Menlo Park;3
+2346;Brandon;Randall;Hematologist;Millbrae;3.1
+2347;Heather;Palmer;Nephrologist;Milpitas;2.5
+2348;Connor;Vaughan;Obstetrician;Palo Alto;2.6
+2349;Victor;Martin;Ophthalmologist;Milpitas;2.7
+2350;Mary;Gill;Optometrist;Milpitas;2.8
+2351;Brian;Simpson;Orthopedic Surgeon;San Francisco;2.9
+2352;Matt;Edmunds;Otolaryngologist;Palo Alto;3
+2353;Grace;Baker;Pediatrician;Mountain View;3.1
+2354;Faith;Sanderson;Physiatrist;Mountain View;3.2
+2355;Sonia;Kerr;Plastic Surgeon;Oakland;3.3
+2356;Phil;Powell;Psychiatrist;Oakland;3.4
+2357;Warren;Nolan;Psychiatrist;Pacifica;2.8
+2358;Joshua;Hunter;Pulmonologist;Palo Alto;2.9
+2359;Carl;McDonald;Radiologist;Millbray;3
+2360;Chloe;Dowd;Rheumatologist;Redwood City;3.1
+2361;John;Nolan;Urologist;Richmond;3.2
+2362;Ian;Ross;Orthopedic Surgeon;Richmond;3.3
+2363;Piers;Hodges;Otolaryngologist;San Bruno;2.5
+2364;Deirdre;Welch;Pediatrician;San Bruno;2.6
+2365;William;Russell;Physiatrist;San Bruno;2.7
+2366;Sophie;Blake;Gastroenterologist;Millbrae;2.8
+2367;Audrey;Slater;Psychiatrist;San Carlos;2.9
+2368;Kimberly;Burgess;Psychiatrist;San Carlos;3
+2369;Alex;Mitchell;Gastroenterologist;San Francisco;3.1
+2370;Angela;Bower;Physiatrist;San Francisco;3.2
+2371;Benjamin;Taylor;Gastroenterologist;San Francisco;3.3
+2372;Pippa;Payne;Gastroenterologist;San Francisco;3.4
+2373;Andrew;Gray;Allergist;San Francisco;2.6
+2374;Kevin;Suthy;Anesthesiologist;San Francisco;2.7
+2375;Gabrielle;Quinn;Cardiologist;San Jose;2.8
+2376;Diane;Walsh;Physiatrist;San Jose;2.9
+2377;Virginia;Graham;Endocrinologist;San Jose;3
+2378;Diane;Knox;Physiatrist;San Jose;3.1
+2379;Yvonne;Bailey;Hematologist;San Jose;2.5
+2380;Donna;Morgan;Gastroenterologist;San Jose;2.6
+2381;Jane;Clark;Obstetrician;San Jose;2.7
+2382;Audrey;Gill;Physiatrist;San Mateo;2.8
+2383;Hannah;Hart;Optometrist;San Mateo;2.9
+2384;Sam;Simpson;Orthopedic Surgeon;San Mateo;3
+2385;Melanie;Jones;Otolaryngologist;San Mateo;3.1
+2386;Ava;Henders;Cardiologist;Santa Clara;3.2
+2387;Melanie;Paterson;Physiatrist;Santa Clara;2.5
+2388;Ryan;Hardacre;Plastic Surgeon;Santa Clara;2.6
+2389;Una;Gray;Cardiologist;Palo Alto;2.7
+2390;Andrea;Mills;Cardiologist;Santa Rosa;2.8
+2391;Peter;Buckland;Physiatrist;Saratoga;2.9
+2392;Sarah;Newman;Cardiologist;South San Francisco;3
+2393;Nicola;Glover;Cardiologist;Sunnyvale;3.1
+2394;Amanda;Mitchell;Physiatrist;Sunnyvale;3.2
+2395;Simon;Paige;Psychiatrist;Menlo Park;3.3
+2396;Warren;Wallace;Allergist;Berkeley;3.4
+2397;Donna;Slater;Anesthesiologist;Burlingame;3.1
+2398;Ruth;Martin;Allergist;Berkeley;3.2
+2399;Alex;Wilkins;Anesthesiologist;Burlingame;3.3
+2400;Jessica;Coleman;Cardiologist;Colma;3.4
+2401;Sonia;Ince;Dermatologist;Colma;1.5
+2402;Sonia;Coleman;Endocrinologist;Colma;1.6
+2403;Theresa;Slater;Gastroenterologist;Concord;1.7
+2404;John;Payne;Hematologist;Concord;1.8
+2405;Dorothy;Clarkson;Nephrologist;Cupertino;1.9
+2406;Kevin;Turner;Obstetrician;Daly City;2
+2407;Victor;Smith;Ophthalmologist;Daly City;2.1
+2408;Joseph;Scott;Optometrist;Daly City;2.2
+2409;Nathan;Dyer;Orthopedic Surgeon;Daly City;2.3
+2410;Sophie;Cornish;Otolaryngologist;East Palo Alto;2.4
+2411;David;Wright;Pediatrician;Foster City;2.5
+2412;Cameron;Hodges;Physiatrist;Fremont;2.6
+2413;Liam;Nolan;Plastic Surgeon;Fremont;2.7
+2414;Amanda;Coleman;Psychiatrist;Gilroy;2.8
+2415;Caroline;Vance;Psychiatrist;Half Moon Bay;2.9
+2416;Gabrielle;Terry;Pulmonologist;Hayward;3
+2417;Faith;Mathis;Radiologist;Hayward;3.1
+2418;Kevin;Mitchy;Rheumatologist;Hillsborough;3.2
+2419;Madeleine;Fisher;Urologist;Los Altos;3.3
+2420;Evan;Russell;Allergist;Los Altos;3.4
+2421;Lisa;Pullman;Anesthesiologist;Los Gatos;3.5
+2422;Joanne;Paterson;Cardiologist;Los Gatos;3.6
+2423;William;Berry;Dermatologist;Palo Alto;3.7
+2424;Steven;Gill;Endocrinologist;Los Gatos;3.8
+2425;Claire;Paterson;Gastroenterologist;Menlo Park;3.9
+2426;Adam;Quinn;Hematologist;Millbrae;4
+2427;Peter;Burgess;Nephrologist;Milpitas;4.1
+2428;Sophie;Fraser;Obstetrician;Palo Alto;4.2
+2429;Stewart;Robertson;Ophthalmologist;Milpitas;4.3
+2430;Deirdre;Fraser;Optometrist;Milpitas;4.4
+2431;Phil;Davies;Orthopedic Surgeon;San Francisco;4.5
+2432;Sam;Greene;Otolaryngologist;Palo Alto;4.6
+2433;Emily;Berry;Pediatrician;Mountain View;3.3
+2434;Ella;Hardacre;Physiatrist;Mountain View;3.4
+2435;Joshua;Tucker;Plastic Surgeon;Oakland;3.5
+2436;Maria;May;Psychiatrist;Oakland;3.6
+2437;Charles;Paige;Psychiatrist;Pacifica;3.7
+2438;Sue;Pullman;Pulmonologist;Palo Alto;3.8
+2439;Abigail;Parr;Radiologist;Millbray;3.9
+2440;San;Hamilton;Rheumatologist;Redwood City;4
+2441;Charles;Howard;Urologist;Richmond;4.1
+2442;Peter;Taylor;Orthopedic Surgeon;Richmond;4.2
+2443;Angela;Rees;Otolaryngologist;San Bruno;4.3
+2444;Jason;Marshall;Pediatrician;San Bruno;4.4
+2445;Jason;Lewis;Physiatrist;San Bruno;4.5
+2446;Michael;Alsop;Gastroenterologist;Millbrae;4.6
+2447;Lauren;Newman;Psychiatrist;San Carlos;4.7
+2448;Liam;Lewis;Psychiatrist;San Carlos;3.3
+2449;Peter;Harris;Gastroenterologist;San Francisco;3.4
+2450;Melanie;Palmer;Physiatrist;San Francisco;3.5
+2451;Carolyn;Rees;Gastroenterologist;San Francisco;3.6
+2452;Irene;McDonald;Gastroenterologist;San Francisco;3.7
+2453;Amelia;Scott;Allergist;San Francisco;3.8
+2454;Megan;Campbell;Anesthesiologist;San Francisco;3.9
+2455;Virginia;Baker;Cardiologist;San Jose;4
+2456;Victor;Powell;Physiatrist;San Jose;4.1
+2457;Faith;Cornish;Endocrinologist;San Jose;4.2
+2458;Thomas;Lyman;Physiatrist;San Jose;4.3
+2459;Una;Baker;Hematologist;San Jose;4.4
+2460;Zoe;Ball;Gastroenterologist;San Jose;4.5
+2461;Leah;Robertson;Obstetrician;San Jose;4.6
+2462;Cameron;Randall;Physiatrist;San Mateo;4.7
+2463;Leah;Randall;Optometrist;San Mateo;1.9
+2464;Austin;Jackson;Orthopedic Surgeon;San Mateo;2
+2465;Natalie;Fraser;Otolaryngologist;San Mateo;2.1
+2466;Joan;Greene;Cardiologist;Santa Clara;2.2
+2467;Frank;Parr;Physiatrist;Santa Clara;2.3
+2468;Stephen;Suthy;Plastic Surgeon;Santa Clara;2.4
+2469;Simon;Hill;Cardiologist;Palo Alto;2.5
+2470;Ian;Terry;Cardiologist;Santa Rosa;2.6
+2471;Sue;Mitchy;Physiatrist;Saratoga;2.7
+2472;Ann;Stewart;Cardiologist;South San Francisco;2.8
+2473;Adam;Sanderson;Cardiologist;Sunnyvale;2.9
+2474;Irene;Baker;Physiatrist;Sunnyvale;3
+2475;Virginia;Clark;Psychiatrist;Menlo Park;3.1
+2476;Rose;Quinn;Allergist;Berkeley;3.2
+2477;Dorothy;Brown;Anesthesiologist;Burlingame;3.3
+2478;Luke;Hodges;Ophthalmologist;Richmond;3.4
+2479;Paul;Knox;Optometrist;San Bruno;3.5
+2480;Joe;Ferguson;Orthopedic Surgeon;San Bruno;3.6
+2481;Audrey;Carr;Otolaryngologist;San Bruno;3.7
+2482;Katherine;White;Pediatrician;Millbrae;3.8
+2483;Warren;King;Physiatrist;San Carlos;3.9
+2484;Rebecca;Miller;Plastic Surgeon;San Carlos;4
+2485;Molly;Ross;Psychiatrist;San Francisco;4.1
+2486;Richard;Kerr;Psychiatrist;San Francisco;4.2
+2487;Dominic;Harris;Pulmonologist;San Francisco;4.3
+2488;Una;Parr;Radiologist;San Francisco;4.4
+2489;Ruth;Hardacre;Rheumatologist;San Francisco;4.5
+2490;William;Jackson;Urologist;San Francisco;4.6
+2491;Owen;Sanderson;Allergist;San Jose;4.7
+2492;Jake;Welch;Anesthesiologist;San Jose;4.8
+2493;Bella;James;Cardiologist;San Jose;4.9
+2494;Benjamin;Sanderson;Dermatologist;San Jose;3.3
+2495;Diana;Oliver;Endocrinologist;San Jose;3.4
+2496;Diana;Dickens;Gastroenterologist;San Jose;3.5
+2497;Lauren;Hemmings;Hematologist;San Jose;3.6
+2498;Dorothy;Mitchell;Nephrologist;San Mateo;3.7
+2499;Rebecca;Burgess;Obstetrician;San Mateo;3.8
+2500;Theresa;Butler;Ophthalmologist;San Mateo;3.9
+2501;Amy;Peters;Optometrist;San Mateo;4
+2502;Audrey;Robertson;Orthopedic Surgeon;Santa Clara;4.1
+2503;Lauren;Black;Otolaryngologist;Santa Clara;4.2
+2504;Richard;Hardacre;Pediatrician;Santa Clara;4.3
+2505;Neil;Greene;Physiatrist;Palo Alto;4.4
+2506;Stephen;North;Plastic Surgeon;Santa Rosa;4.5
+2507;Lisa;Smith;Psychiatrist;Saratoga;4.6
+2508;Victoria;Campbell;Psychiatrist;South San Francisco;4.7
+2509;Joanne;Forsyth;Pulmonologist;Sunnyvale;3.3
+2510;Gabrielle;Rampling;Radiologist;Sunnyvale;3.4
+2511;Nicola;Fraser;Rheumatologist;Menlo Park;3.5
+2512;Nicholas;Black;Urologist;Richmond;3.6
+2513;Victor;Walsh;Orthopedic Surgeon;San Bruno;3.7
+2514;Alexander;Bell;Otolaryngologist;San Bruno;3.8
+2515;Elizabeth;Terry;Pediatrician;San Bruno;3.9
+2516;Robert;Dowd;Physiatrist;Millbrae;4
+2517;Dylan;May;Gastroenterologist;San Carlos;4.1
+2518;Bella;Harris;Psychiatrist;San Carlos;4.2
+2519;Jasmine;James;Psychiatrist;San Francisco;4.3
+2520;Eric;Cornish;Gastroenterologist;San Francisco;4.4
+2521;Trevor;Lambert;Physiatrist;San Francisco;4.5
+2522;Oliver;Parsons;Gastroenterologist;San Francisco;4.6
+2523;Jane;Chapman;Gastroenterologist;San Francisco;4.7
+2524;Steven;Hunter;Allergist;San Francisco;2.4
+2525;Joanne;Jackson;Anesthesiologist;San Jose;2.5
+2526;Simon;Watson;Cardiologist;San Jose;2.6
+2527;Joseph;Young;Physiatrist;San Jose;2.7
+2528;Colin;MacLeod;Endocrinologist;San Jose;2.8
+2529;Eric;Lewis;Physiatrist;San Jose;2.9
+2530;Kimberly;Chapman;Hematologist;San Jose;3
+2531;Sam;Abraham;Gastroenterologist;San Jose;3.1
+2532;Carol;Lambert;Obstetrician;San Mateo;3.2
+2533;Alan;Black;Physiatrist;San Mateo;3.3
+2534;Sarah;Lyman;Optometrist;San Mateo;3.4
+2535;Kevin;Hudson;Orthopedic Surgeon;San Mateo;3.5
+2536;Amanda;Berry;Otolaryngologist;Santa Clara;3.6
+2537;Eric;Abraham;Cardiologist;Santa Clara;3.7
+2538;Una;Hamilton;Ophthalmologist;Santa Clara;3.8
+2539;Joshua;Graham;Optometrist;Palo Alto;3.9
+2540;Stephen;Hunter;Orthopedic Surgeon;Santa Rosa;4
+2541;Lily;Kelly;Otolaryngologist;Saratoga;4.1
+2542;Piers;Carr;Pediatrician;South San Francisco;4.2
+2543;Alan;Wallace;Physiatrist;Sunnyvale;4.3
+2544;John;Ferguson;Plastic Surgeon;Sunnyvale;4.4
+2545;James;Slater;Cardiologist;Los Gatos;4.5
+2546;Sebastian;Poole;Dermatologist;Palo Alto;4.6
+2547;Edward;Hill;Endocrinologist;Los Gatos;4.7
+2548;Leonard;MacLeod;Gastroenterologist;Menlo Park;4.8
+2549;John;Fraser;Hematologist;Millbrae;4.9
+2550;Elizabeth;Hardacre;Nephrologist;Milpitas;5
+2551;Gordon;Fisher;Obstetrician;Palo Alto;2.8
+2552;Alexander;Morrison;Ophthalmologist;Milpitas;2.9
+2553;Deirdre;Avery;Optometrist;Milpitas;3
+2554;Sarah;Gray;Orthopedic Surgeon;San Francisco;3.1
+2555;Andrew;Burgess;Otolaryngologist;Palo Alto;3.2
+2556;Sonia;Dowd;Pediatrician;Mountain View;3.3
+2557;Trevor;Welch;Physiatrist;Mountain View;3.4
+2558;Amelia;Palmer;Plastic Surgeon;Oakland;3.5
+2559;Lean;Cornish;Psychiatrist;Oakland;3.6
+2560;Jonathan;Lewis;Psychiatrist;Pacifica;3.7
+2561;Joshua;Black;Pulmonologist;Palo Alto;3.8
+2562;Warren;Ross;Radiologist;Millbray;3.9
+2563;Phil;Parr;Rheumatologist;Redwood City;4
+2564;Dominic;Slater;Urologist;Richmond;4.1
+2565;Cameron;Howard;Orthopedic Surgeon;Richmond;1.5
+2566;Kevin;Fisher;Otolaryngologist;San Bruno;1.6
+2567;Justin;Ellison;Pediatrician;San Bruno;1.7
+2568;Michael;Miller;Physiatrist;San Bruno;1.8
+2569;Thomas;McDonald;Gastroenterologist;Millbrae;1.9
+2570;Sarah;Graham;Psychiatrist;San Carlos;2
+2571;John;Hart;Psychiatrist;San Carlos;2.1
+2572;Owen;MacLeod;Gastroenterologist;San Francisco;2.2
+2573;Benjamin;Morgan;Physiatrist;San Francisco;2.3
+2574;Tim;Sharp;Gastroenterologist;San Francisco;2.4
+2575;Faith;Watson;Gastroenterologist;San Francisco;2.5
+2576;Gavin;Scott;Allergist;San Francisco;2.6
+2577;Piers;Mathis;Anesthesiologist;San Francisco;2.7
+2578;Warren;Burgess;Cardiologist;San Jose;2.8
+2579;Julian;Lyman;Physiatrist;San Jose;2.9
+2580;William;Campbell;Endocrinologist;San Jose;3
+2581;Phil;Willian;Physiatrist;San Jose;3.1
+2582;Madeleine;Morrison;Hematologist;San Jose;3.2
+2583;Sarah;Watson;Gastroenterologist;San Jose;3.3
+2584;Madeleine;Wilkins;Obstetrician;San Jose;3.4
+2585;Madeleine;Anderson;Physiatrist;San Mateo;3.5
+2586;Deirdre;Simpson;Optometrist;San Mateo;3.6
+2587;Rose;Hodges;Orthopedic Surgeon;San Mateo;3.7
+2588;Simon;Fraser;Otolaryngologist;San Mateo;3.8
+2589;Mary;Marshall;Cardiologist;Santa Clara;3.9
+2590;Jake;Abraham;Physiatrist;Santa Clara;4
+2591;Diane;Gray;Plastic Surgeon;Santa Clara;4.1
+2592;Jake;Wilkins;Cardiologist;Palo Alto;4.2
+2593;Rachel;Martin;Cardiologist;Santa Rosa;4.3
+2594;Jonathan;Sanderson;Physiatrist;Saratoga;1.8
+2595;Kevin;Tucker;Cardiologist;South San Francisco;1.9
+2596;Lisa;Martin;Cardiologist;Sunnyvale;2
+2597;James;Peake;Physiatrist;Sunnyvale;2.1
+2598;Nathan;Berry;Psychiatrist;Menlo Park;2.2
+2599;Nicholas;Wilson;Allergist;Berkeley;2.3
+2600;Ann;Lee;Anesthesiologist;Burlingame;2.4
+2601;Karen;White;Allergist;Berkeley;2.5
+2602;Dylan;Lewis;Anesthesiologist;Burlingame;2.6
+2603;Karen;Gibson;Cardiologist;Colma;2.7
+2604;Alexander;Mackay;Dermatologist;Colma;2.8
+2605;Samantha;Buckland;Endocrinologist;Colma;2.9
+2606;Melanie;Bower;Gastroenterologist;Concord;3
+2607;Lillian;Nash;Hematologist;Concord;3.1
+2608;Joshua;Morrison;Nephrologist;Cupertino;3.2
+2609;Charles;Cornish;Obstetrician;Daly City;2.5
+2610;Stewart;Davidson;Ophthalmologist;Daly City;2.6
+2611;Paul;Hemmings;Optometrist;Daly City;2.7
+2612;Gordon;Jackson;Orthopedic Surgeon;Daly City;2.8
+2613;Peter;Short;Otolaryngologist;East Palo Alto;2.9
+2614;Pippa;Rampling;Pediatrician;Foster City;3
+2615;Karen;Willian;Physiatrist;Fremont;3.1
+2616;Jonathan;Peters;Plastic Surgeon;Fremont;3.2
+2617;Justin;Kerr;Psychiatrist;Gilroy;3.3
+2618;Jake;Hart;Psychiatrist;Half Moon Bay;3.4
+2619;Dominic;Cornish;Pulmonologist;Hayward;3.5
+2620;Ryan;Hughes;Radiologist;Hayward;3.6
+2621;Lauren;Quinn;Rheumatologist;Hillsborough;3.7
+2622;Robert;Harris;Urologist;Los Altos;3.8
+2623;Anne;Glover;Allergist;Los Altos;3.9
+2624;Carl;Campbell;Anesthesiologist;Los Gatos;4
+2625;Nathan;North;Cardiologist;Los Gatos;4.1
+2626;Virginia;Johnston;Dermatologist;Palo Alto;4.2
+2627;Stephen;Hudson;Endocrinologist;Los Gatos;4.3
+2628;Jane;Mathis;Gastroenterologist;Menlo Park;4.4
+2629;Deirdre;Carr;Hematologist;Millbrae;4.5
+2630;Deirdre;Thomson;Nephrologist;Milpitas;4.6
+2631;Steven;Russell;Obstetrician;Palo Alto;4.7
+2632;Gavin;Suthy;Ophthalmologist;Milpitas;4.8
+2633;Felicity;Rampling;Optometrist;Milpitas;1.8
+2634;Sam;Forsyth;Orthopedic Surgeon;San Francisco;1.9
+2635;Jennifer;Harris;Otolaryngologist;Palo Alto;2
+2636;Evan;Campbell;Pediatrician;Mountain View;2.1
+2637;Warren;Dyer;Physiatrist;Mountain View;2.2
+2638;San;Howard;Plastic Surgeon;Oakland;2.3
+2639;Lily;Welch;Psychiatrist;Oakland;2.4
+2640;Tracey;Davies;Psychiatrist;Pacifica;2.5
+2641;Brandon;Jones;Pulmonologist;Palo Alto;2.6
+2642;Robert;Ferguson;Radiologist;Millbray;2.7
+2643;Jan;Ellison;Rheumatologist;Redwood City;2.8
+2644;Dan;Slater;Urologist;Richmond;2.9
+2645;Paul;Gibson;Orthopedic Surgeon;Richmond;3
+2646;Nicola;Lawrence;Otolaryngologist;San Bruno;3.1
+2647;Joseph;Grant;Pediatrician;San Bruno;2.5
+2648;Molly;Walsh;Physiatrist;San Bruno;2.6
+2649;Carl;Stewart;Gastroenterologist;Millbrae;2.7
+2650;Dorothy;James;Psychiatrist;San Carlos;2.8
+2651;Luke;Graham;Psychiatrist;San Carlos;2.9
+2652;Lucas;Parsons;Gastroenterologist;San Francisco;3
+2653;Sophie;Newman;Physiatrist;San Francisco;3.1
+2654;Jack;McLean;Gastroenterologist;San Francisco;3.2
+2655;Pippa;Morgan;Gastroenterologist;San Francisco;3.3
+2656;Neil;Cameron;Allergist;San Francisco;3.4
+2657;Owen;Lewis;Anesthesiologist;San Francisco;2.8
+2658;Oliver;Robertson;Cardiologist;San Jose;2.9
+2659;Rose;Mitchell;Physiatrist;San Jose;3
+2660;Peter;Miller;Endocrinologist;San Jose;3.1
+2661;Jake;Vaughan;Physiatrist;San Jose;3.2
+2662;Ann;Davidson;Hematologist;San Jose;3.3
+2663;Diane;Brown;Gastroenterologist;San Jose;2.5
+2664;Irene;Cornish;Obstetrician;San Jose;2.6
+2665;Michelle;Walsh;Physiatrist;San Mateo;2.7
+2666;Amanda;Randall;Optometrist;San Mateo;2.8
+2667;Colin;James;Orthopedic Surgeon;San Mateo;2.9
+2668;Grace;Powell;Otolaryngologist;San Mateo;3
+2669;Brian;Robertson;Cardiologist;Santa Clara;3.1
+2670;Brian;Lee;Physiatrist;Santa Clara;3.2
+2671;Brian;Hill;Plastic Surgeon;Santa Clara;3.3
+2672;Charles;Hamilton;Cardiologist;Palo Alto;3.4
+2673;Audrey;Lewis;Cardiologist;Santa Rosa;2.6
+2674;Edward;Slater;Physiatrist;Saratoga;2.7
+2675;Rebecca;MacLeod;Cardiologist;South San Francisco;2.8
+2676;David;Suthy;Cardiologist;Sunnyvale;2.9
+2677;Colin;Paige;Physiatrist;Sunnyvale;3
+2678;Ian;Sharp;Psychiatrist;Menlo Park;3.1
+2679;Stewart;Alsop;Allergist;Berkeley;2.5
+2680;Jessica;Morgan;Anesthesiologist;Burlingame;2.6
+2681;Cameron;Bower;Ophthalmologist;Richmond;2.7
+2682;Andrea;Randall;Optometrist;San Bruno;2.8
+2683;Jessica;Ross;Cardiologist;Los Gatos;2.9
+2684;Neil;Roberts;Dermatologist;Palo Alto;3
+2685;Gordon;Hill;Endocrinologist;Los Gatos;3.1
+2686;Ryan;Sharp;Gastroenterologist;Menlo Park;3.2
+2687;Gavin;Butler;Hematologist;Millbrae;2.5
+2688;David;Greene;Nephrologist;Milpitas;2.6
+2689;Dorothy;Peake;Obstetrician;Palo Alto;2.7
+2690;Nathan;Willian;Ophthalmologist;Milpitas;2.8
+2691;Angela;Turner;Optometrist;Milpitas;2.9
+2692;Brian;Parr;Orthopedic Surgeon;San Francisco;3
+2693;Virginia;Edmunds;Otolaryngologist;Palo Alto;3.1
+2694;Carl;Jones;Pediatrician;Mountain View;3.2
+2695;Matt;Hudson;Physiatrist;Mountain View;3.3
+2696;Stephen;Payne;Plastic Surgeon;Oakland;3.4
+2697;Julian;Sharp;Psychiatrist;Oakland;3.1
+2698;Keith;Ross;Psychiatrist;Pacifica;3.2
+2699;Una;Mitchell;Pulmonologist;Palo Alto;3.3
+2700;Matt;Dowd;Radiologist;Millbray;3.4
+2701;Alex;Campbell;Rheumatologist;Redwood City;1.5
+2702;Yvonne;Johnston;Urologist;Richmond;1.6
+2703;Joseph;Ball;Orthopedic Surgeon;Richmond;1.7
+2704;Paul;Langdon;Otolaryngologist;San Bruno;1.8
+2705;Samantha;Smith;Pediatrician;San Bruno;1.9
+2706;Connor;Taylor;Physiatrist;San Bruno;2
+2707;Charles;Hodges;Gastroenterologist;Millbrae;2.1
+2708;Olivia;Ball;Psychiatrist;San Carlos;2.2
+2709;Jake;Morrison;Psychiatrist;San Carlos;2.3
+2710;Jonathan;Hodges;Gastroenterologist;San Francisco;2.4
+2711;Ann;Avery;Physiatrist;San Francisco;2.5
+2712;Sebastian;Thomson;Physiatrist;San Francisco;2.6
+2713;Lillian;Russell;Gastroenterologist;San Francisco;2.7
+2714;Anthony;Oliver;Allergist;San Francisco;2.8
+2715;Richard;Buckland;Anesthesiologist;San Francisco;2.9
+2716;Victoria;McGrath;Cardiologist;San Jose;3
+2717;Samantha;Hudson;Physiatrist;San Jose;3.1
+2718;Jonathan;Martin;Endocrinologist;San Jose;3.2
+2719;Paul;Ross;Physiatrist;San Jose;3.3
+2720;Samantha;Butler;Hematologist;San Jose;3.4
+2721;Edward;Hudson;Gastroenterologist;San Jose;3.5
+2722;Andrea;Alsop;Obstetrician;San Jose;3.6
+2723;Kevin;Wilson;Physiatrist;San Mateo;3.7
+2724;Fiona;Grant;Optometrist;San Mateo;3.8
+2725;Harry;Hamilton;Orthopedic Surgeon;San Mateo;3.9
+2726;Lean;Stewart;Otolaryngologist;San Mateo;4
+2727;Rose;Hill;Cardiologist;Santa Clara;4.1
+2728;Neil;Newman;Physiatrist;Santa Clara;4.2
+2729;Peter;Carr;Plastic Surgeon;Santa Clara;4.3
+2730;Benjamin;North;Cardiologist;Palo Alto;4.4
+2731;Trevor;Watson;Cardiologist;Santa Rosa;4.5
+2732;Theresa;Paterson;Physiatrist;Saratoga;4.6
+2733;Simon;Chapman;Cardiologist;South San Francisco;3.3
+2734;Jacob;James;Cardiologist;Sunnyvale;3.4
+2735;Angela;Springer;Physiatrist;Sunnyvale;3.5
+2736;Olivia;Langdon;Psychiatrist;Menlo Park;3.6
+2737;Piers;Fraser;Allergist;Berkeley;3.7
+2738;Joan;Forsyth;Anesthesiologist;Burlingame;3.8
+2739;Sonia;Bond;Allergist;Berkeley;3.9
+2740;Joanne;Howard;Anesthesiologist;Burlingame;4
+2741;Jonathan;Suthy;Cardiologist;Colma;4.1
+2742;Diane;Short;Dermatologist;Colma;4.2
+2743;Una;Sharp;Endocrinologist;Colma;4.3
+2744;Paul;Martin;Gastroenterologist;Concord;4.4
+2745;Elizabeth;Wright;Hematologist;Concord;4.5
+2746;Warren;Anderson;Nephrologist;Cupertino;4.6
+2747;Ella;Springer;Obstetrician;Daly City;4.7
+2748;Julian;Simpson;Ophthalmologist;Daly City;3.3
+2749;Leonard;Ince;Optometrist;Daly City;3.4
+2750;Una;Bell;Orthopedic Surgeon;Daly City;3.5
+2751;Irene;Lee;Otolaryngologist;East Palo Alto;3.6
+2752;Natalie;Bell;Pediatrician;Foster City;3.7
+2753;Gordon;Harris;Physiatrist;Fremont;3.8
+2754;Amelia;Carr;Plastic Surgeon;Fremont;3.9
+2755;Molly;Jones;Psychiatrist;Gilroy;4
+2756;Stewart;Edmunds;Psychiatrist;Half Moon Bay;4.1
+2757;Max;Bailey;Pulmonologist;Hayward;4.2
+2758;Maria;Sharp;Radiologist;Hayward;4.3
+2759;Carl;Ball;Rheumatologist;Hillsborough;4.4
+2760;Caroline;Skinner;Urologist;Los Altos;4.5
+2761;Neil;Sanderson;Allergist;Los Altos;4.6
+2762;Yvonne;Rees;Anesthesiologist;Los Gatos;4.7
+2763;Richard;Campbell;Cardiologist;Los Gatos;1.9
+2764;Sarah;Mitchell;Dermatologist;Palo Alto;2
+2765;Keith;Cornish;Endocrinologist;Los Gatos;2.1
+2766;Lauren;Forsyth;Gastroenterologist;Menlo Park;2.2
+2767;James;Davies;Hematologist;Millbrae;2.3
+2768;Joshua;Knox;Nephrologist;Milpitas;2.4
+2769;Edward;Clarkson;Obstetrician;Palo Alto;2.5
+2770;Sue;Watson;Cardiologist;Los Gatos;2.6
+2771;Ian;Dowd;Dermatologist;Palo Alto;2.7
+2772;Irene;Willian;Endocrinologist;Los Gatos;2.8
+2773;Jacob;Peters;Gastroenterologist;Menlo Park;2.9
+2774;Yvonne;Kerr;Hematologist;Millbrae;3
+2775;Kimberly;Marshall;Nephrologist;Milpitas;3.1
+2776;Wanda;Gray;Obstetrician;Palo Alto;3.2
+2777;Hannah;Bell;Ophthalmologist;Milpitas;3.3
+2778;Madeleine;Burgess;Optometrist;Milpitas;3.4
+2779;Lisa;Morrison;Orthopedic Surgeon;San Francisco;3.5
+2780;Diana;Mitchy;Otolaryngologist;Palo Alto;3.6
+2781;Ann;Mills;Pediatrician;Mountain View;3.7
+2782;Zoe;Mitchy;Physiatrist;Mountain View;3.8
+2783;Sean;Smith;Plastic Surgeon;Oakland;3.9
+2784;Audrey;Young;Psychiatrist;Oakland;4
+2785;Luke;Gray;Psychiatrist;Pacifica;4.1
+2786;Claire;Skinner;Pulmonologist;Palo Alto;4.2
+2787;Carl;Vance;Radiologist;Millbray;4.3
+2788;Sue;Lee;Rheumatologist;Redwood City;4.4
+2789;Victoria;Springer;Urologist;Richmond;4.5
+2790;Jack;Lewis;Orthopedic Surgeon;Richmond;4.6
+2791;Christian;Lyman;Otolaryngologist;San Bruno;4.7
+2792;Dorothy;Walsh;Pediatrician;San Bruno;4.8
+2793;Dan;Forsyth;Physiatrist;San Bruno;4.9
+2794;Yvonne;Martin;Gastroenterologist;Millbrae;3.3
+2795;Heather;Walker;Psychiatrist;San Carlos;3.4
+2796;Matt;Johnston;Psychiatrist;San Carlos;3.5
+2797;Felicity;Scott;Gastroenterologist;San Francisco;3.6
+2798;Lucas;Hill;Physiatrist;San Francisco;3.7
+2799;Tracey;Glover;Gastroenterologist;San Francisco;3.8
+2800;Cameron;Abraham;Gastroenterologist;San Francisco;3.9
+2801;Eric;Gill;Allergist;San Francisco;4
+2802;Madeleine;Nolan;Anesthesiologist;San Francisco;4.1
+2803;Anthony;Poole;Cardiologist;San Jose;4.2
+2804;Matt;Reid;Physiatrist;San Jose;4.3
+2805;Kevin;Quinn;Endocrinologist;San Jose;4.4
+2806;Robert;Murray;Physiatrist;San Jose;4.5
+2807;Felicity;Wilkins;Hematologist;San Jose;4.6
+2808;Carolyn;Butler;Gastroenterologist;San Jose;4.7
+2809;Adam;Bower;Obstetrician;San Jose;3.3
+2810;Harry;Langdon;Physiatrist;San Mateo;3.4
+2811;Leah;Bond;Optometrist;San Mateo;3.5
+2812;Jennifer;Parsons;Orthopedic Surgeon;San Mateo;3.6
+2813;Diana;Paige;Otolaryngologist;San Mateo;3.7
+2814;Samantha;Taylor;Cardiologist;Santa Clara;3.8
+2815;Dylan;Robertson;Physiatrist;Santa Clara;3.9
+2816;Melanie;Paige;Plastic Surgeon;Santa Clara;4
+2817;Frank;Terry;Cardiologist;Palo Alto;4.1
+2818;Alexander;Slater;Cardiologist;Santa Rosa;4.2
+2819;Tracey;Graham;Physiatrist;Saratoga;4.3
+2820;Hannah;Lee;Cardiologist;South San Francisco;4.4
+2821;Jennifer;Smith;Cardiologist;Sunnyvale;4.5
+2822;David;Lewis;Physiatrist;Sunnyvale;4.6
+2823;Natalie;MacLeod;Psychiatrist;Menlo Park;4.7
+2824;Peter;Mitchy;Allergist;Berkeley;2.4
+2825;Alan;Mackay;Anesthesiologist;Burlingame;2.5
+2826;Ann;Quinn;Allergist;Berkeley;2.6
+2827;Nicola;Knox;Anesthesiologist;Burlingame;2.7
+2828;Carolyn;Cornish;Cardiologist;Colma;2.8
+2829;Paul;Quinn;Dermatologist;Colma;2.9
+2830;Paul;Buckland;Endocrinologist;Colma;3
+2831;William;Knox;Gastroenterologist;Concord;3.1
+2832;Ann;Burgess;Hematologist;Concord;3.2
+2833;Claire;Mitchell;Nephrologist;Cupertino;3.3
+2834;Simon;Walsh;Obstetrician;Daly City;3.4
+2835;Tracey;Willian;Ophthalmologist;Daly City;3.5
+2836;Brandon;Greene;Optometrist;Daly City;3.6
+2837;Robert;Mathis;Orthopedic Surgeon;Daly City;3.7
+2838;Colin;Terry;Otolaryngologist;East Palo Alto;3.8
+2839;Brandon;Martin;Pediatrician;Foster City;3.9
+2840;Lucas;Greene;Physiatrist;Fremont;4
+2841;Kylie;Hart;Plastic Surgeon;Fremont;4.1
+2842;Connor;Young;Psychiatrist;Gilroy;4.2
+2843;Harry;Knox;Psychiatrist;Half Moon Bay;4.3
+2844;Dylan;Johnston;Pulmonologist;Hayward;4.4
+2845;Dan;McDonald;Radiologist;Hayward;4.5
+2846;Joan;Welch;Rheumatologist;Hillsborough;4.6
+2847;Sonia;Lyman;Urologist;Los Altos;4.7
+2848;Phil;Walsh;Allergist;Los Altos;4.8
+2849;Justin;McGrath;Anesthesiologist;Los Gatos;4.9
+2850;Austin;Young;Cardiologist;Los Gatos;5
+2851;Katherine;Walsh;Dermatologist;Palo Alto;2.8
+2852;Michelle;Malkin;Endocrinologist;Los Gatos;2.9
+2853;Jan;Parsons;Gastroenterologist;Menlo Park;3
+2854;Jan;Black;Hematologist;Millbrae;3.1
+2855;Amy;Taylor;Nephrologist;Milpitas;3.2
+2856;Amelia;Lyman;Obstetrician;Palo Alto;3.3
+2857;Austin;Alsop;Ophthalmologist;Milpitas;3.4
+2858;Leah;Clark;Optometrist;Milpitas;3.5
+2859;Madeleine;Russell;Obstetrician;San Francisco;3.6
+2860;Christian;Walker;Otolaryngologist;Palo Alto;3.7
+2861;Oliver;Turner;Pediatrician;Mountain View;3.8
+2862;Connor;Johnston;Physiatrist;Mountain View;3.9
+2863;John;Hamilton;Plastic Surgeon;Oakland;4
+2864;Lauren;Lyman;Psychiatrist;Oakland;4.1
+2865;Joan;Randall;Psychiatrist;Pacifica;1.5
+2866;Yvonne;Terry;Pulmonologist;Palo Alto;1.6
+2867;Peter;Davidson;Radiologist;Millbray;1.7
+2868;Gabrielle;King;Rheumatologist;Redwood City;1.8
+2869;Adam;Hill;Urologist;Richmond;1.9
+2870;William;Vaughan;Orthopedic Surgeon;Richmond;2
+2871;Lisa;Vaughan;Otolaryngologist;San Bruno;2.1
+2872;Stephen;Tucker;Pediatrician;San Bruno;2.2
+2873;Emily;Hughes;Physiatrist;San Bruno;2.3
+2874;Jasmine;Morgan;Gastroenterologist;Millbrae;2.4
+2875;Molly;Dickens;Psychiatrist;San Carlos;2.5
+2876;Alison;Howard;Psychiatrist;San Carlos;2.6
+2877;Kimberly;Reid;Gastroenterologist;San Francisco;2.7
+2878;Elizabeth;Walsh;Physiatrist;San Francisco;2.8
+2879;Max;Ball;Gastroenterologist;San Francisco;2.9
+2880;John;Terry;Gastroenterologist;San Francisco;3
+2881;Gordon;Wilson;Allergist;San Francisco;3.1
+2882;Tim;Simpson;Anesthesiologist;San Francisco;3.2
+2883;Charles;Terry;Cardiologist;San Jose;3.3
+2884;Donna;Glover;Physiatrist;San Jose;3.4
+2885;Felicity;Oliver;Endocrinologist;San Jose;3.5
+2886;Jan;Reid;Physiatrist;San Jose;3.6
+2887;Emma;Greene;Hematologist;San Jose;3.7
+2888;Luke;Short;Gastroenterologist;San Jose;3.8
+2889;Joan;Roberts;Obstetrician;San Jose;3.9
+2890;William;Coleman;Physiatrist;San Mateo;4
+2891;Rebecca;Tucker;Optometrist;San Mateo;4.1
+2892;James;Turner;Orthopedic Surgeon;San Mateo;4.2
+2893;San;Harris;Otolaryngologist;San Mateo;4.3
+2894;Sophie;Sanderson;Cardiologist;Santa Clara;1.8
+2895;Joan;Miller;Physiatrist;Santa Clara;1.9
+2896;Dan;Reid;Plastic Surgeon;Santa Clara;2
+2897;Justin;Cameron;Cardiologist;Palo Alto;2.1
+2898;Sarah;Hudson;Cardiologist;Santa Rosa;2.2
+2899;Yvonne;Henders;Physiatrist;Saratoga;2.3
+2900;Keith;Bower;Cardiologist;South San Francisco;2.4
+2901;Owen;Dickens;Cardiologist;Sunnyvale;2.5
+2902;Melanie;Nash;Physiatrist;Sunnyvale;2.6
+2903;Warren;Terry;Psychiatrist;Menlo Park;2.7
+2904;Jonathan;Russell;Allergist;Berkeley;2.8
+2905;Jack;Springer;Anesthesiologist;Burlingame;2.9
+2906;Victoria;Gibson;Ophthalmologist;Richmond;3
+2907;Ruth;Ellison;Optometrist;San Bruno;3.1
+2908;Felicity;Hunter;Orthopedic Surgeon;San Bruno;3.2
+2909;Penelope;Mitchy;Otolaryngologist;San Bruno;2.5
+2910;Jonathan;Campbell;Pediatrician;Millbrae;2.6
+2911;Lisa;Bailey;Physiatrist;San Carlos;2.7
+2912;Virginia;King;Cardiologist;Los Gatos;2.8
+2913;Gabrielle;Alsop;Dermatologist;Palo Alto;2.9
+2914;Dan;Willian;Endocrinologist;Los Gatos;3
+2915;Alison;Parsons;Gastroenterologist;Menlo Park;3.1
+2916;Isaac;Nash;Hematologist;Millbrae;3.2
+2917;David;Knox;Nephrologist;Milpitas;3.3
+2918;Carolyn;McLean;Obstetrician;Palo Alto;3.4
+2919;Sally;Forsyth;Ophthalmologist;Milpitas;3.5
+2920;Dominic;Dyer;Optometrist;Milpitas;3.6
+2921;Lily;Wallace;Orthopedic Surgeon;San Francisco;3.7
+2922;Virginia;Sharp;Otolaryngologist;Palo Alto;3.8
+2923;Kevin;Parsons;Pediatrician;Mountain View;3.9
+2924;Michelle;Tucker;Physiatrist;Mountain View;4
+2925;Anthony;Gill;Plastic Surgeon;Oakland;4.1
+2926;Nicola;Taylor;Psychiatrist;Oakland;4.2
+2927;Angela;Terry;Psychiatrist;Pacifica;4.3
+2928;Gabrielle;Henders;Pulmonologist;Palo Alto;4.4
+2929;Brandon;Nash;Radiologist;Millbray;4.5
+2930;Amelia;Slater;Rheumatologist;Redwood City;4.6
+2931;Carolyn;Duncan;Urologist;Richmond;4.7
+2932;Abigail;May;Orthopedic Surgeon;Richmond;4.8
+2933;Lucas;Anderson;Otolaryngologist;San Bruno;1.8
+2934;Wanda;Sharp;Pediatrician;San Bruno;1.9
+2935;Andrew;Mitchy;Physiatrist;San Bruno;2
+2936;Michael;Walker;Gastroenterologist;Millbrae;2.1
+2937;Angela;Graham;Psychiatrist;San Carlos;2.2
+2938;Richard;Lee;Psychiatrist;San Carlos;2.3
+2939;Brian;Ross;Gastroenterologist;San Francisco;2.4
+2940;Stewart;Bailey;Physiatrist;San Francisco;2.5
+2941;Katherine;Blake;Gastroenterologist;San Francisco;2.6
+2942;Connor;Clark;Gastroenterologist;San Francisco;2.7
+2943;Paul;Campbell;Allergist;San Francisco;2.8
+2944;Jake;Johnston;Anesthesiologist;San Francisco;2.9
+2945;Jacob;Clarkson;Cardiologist;San Jose;3
+2946;Molly;Mitchy;Physiatrist;San Jose;3.1
+2947;Zoe;Taylor;Endocrinologist;San Jose;2.5
+2948;Caroline;Mitchy;Physiatrist;San Jose;2.6
+2949;Matt;Martin;Hematologist;San Jose;2.7
+2950;Jonathan;Black;Gastroenterologist;San Jose;2.8
+2951;Colin;Turner;Obstetrician;San Jose;2.9
+2952;Jack;Mathis;Physiatrist;San Mateo;3
+2953;Hannah;Clark;Optometrist;San Mateo;3.1
+2954;Una;Burgess;Orthopedic Surgeon;San Mateo;3.2
+2955;Blake;Black;Otolaryngologist;San Mateo;3.3
+2956;Neil;Piper;Cardiologist;Santa Clara;3.4
+2957;Ian;Chapman;Physiatrist;Santa Clara;2.8
+2958;Kimberly;Ross;Plastic Surgeon;Santa Clara;2.9
+2959;Dylan;Oliver;Cardiologist;Palo Alto;3
+2960;Austin;Stewart;Cardiologist;Santa Rosa;3.1
+2961;Michelle;Edmunds;Physiatrist;Saratoga;3.2
+2962;Kimberly;Kelin;Cardiologist;South San Francisco;3.3
+2963;Molly;Hunter;Cardiologist;Sunnyvale;2.5
+2964;Brandon;Gray;Physiatrist;Sunnyvale;2.6
+2965;Warren;Harris;Psychiatrist;Menlo Park;2.7
+2966;Wanda;Coleman;Allergist;Berkeley;2.8
+2967;Katherine;Fisher;Anesthesiologist;Burlingame;2.9
+2968;Tim;Paige;Allergist;Berkeley;3
+2969;Gabrielle;Vance;Anesthesiologist;Burlingame;3.1
+2970;Emma;Powell;Cardiologist;Colma;3.2
+2971;Evan;McGrath;Dermatologist;Colma;3.3
+2972;Michelle;Ferguson;Endocrinologist;Colma;3.4
+2973;Robert;Bond;Gastroenterologist;Concord;2.6
+2974;Victor;Paige;Hematologist;Concord;2.7
+2975;Audrey;Clarkson;Nephrologist;Cupertino;2.8
+2976;Victor;Sanderson;Obstetrician;Daly City;2.9
+2977;Austin;Buckland;Ophthalmologist;Daly City;3
+2978;Brandon;Paterson;Optometrist;Daly City;3.1
+2979;Emma;Bell;Orthopedic Surgeon;Daly City;2.5
+2980;Jason;Pullman;Otolaryngologist;East Palo Alto;2.6
+2981;Sue;Hughes;Pediatrician;Foster City;2.7
+2982;Irene;Palmer;Physiatrist;Fremont;2.8
+2983;Karen;Wright;Plastic Surgeon;Fremont;2.9
+2984;Owen;White;Psychiatrist;Gilroy;3
+2985;Natalie;Berry;Psychiatrist;Half Moon Bay;3.1
+2986;Caroline;Mills;Pulmonologist;Hayward;3.2
+2987;Karen;Hodges;Radiologist;Hayward;2.5
+2988;Stewart;Morgan;Rheumatologist;Hillsborough;2.6
+2989;Sarah;Ogden;Urologist;Los Altos;2.7
+2990;Connor;Rees;Allergist;Los Altos;2.8
+2991;Rebecca;Ball;Anesthesiologist;Los Gatos;2.9
+2992;Joshua;Bell;Cardiologist;Los Gatos;3
+2993;Emma;Cornish;Dermatologist;Palo Alto;3.1
+2994;Rose;Thomson;Endocrinologist;Los Gatos;3.2
+2995;Evan;Murray;Gastroenterologist;Menlo Park;3.3
+2996;Blake;Ball;Hematologist;Millbrae;3.4
+2997;Leonard;Johnston;Nephrologist;Milpitas;3.1
+2998;Jason;Gibson;Obstetrician;Palo Alto;3.2
+2999;Matt;Nolan;Ophthalmologist;Milpitas;3.3
+3000;Anthony;Henders;Optometrist;Milpitas;3.4
+3001;William;Carr;Orthopedic Surgeon;San Francisco;1.5
+3002;Sean;Coleman;Otolaryngologist;Palo Alto;1.6
+3003;Bella;Arnold;Pediatrician;Mountain View;1.7
+3004;Jason;Peake;Physiatrist;Mountain View;1.8
+3005;Jasmine;Mitchell;Plastic Surgeon;Oakland;1.9
+3006;Kevin;Martin;Psychiatrist;Oakland;2
+3007;Madeleine;Mills;Psychiatrist;Pacifica;2.1
+3008;Dan;Black;Pulmonologist;Palo Alto;2.2
+3009;Julian;Clark;Radiologist;Millbray;2.3
+3010;Sean;Roberts;Rheumatologist;Redwood City;2.4
+3011;Rebecca;Sharp;Urologist;Richmond;2.5
+3012;Ruth;Robertson;Orthopedic Surgeon;Richmond;2.6
+3013;Max;Fraser;Otolaryngologist;San Bruno;2.7
+3014;Adrian;Turner;Pediatrician;San Bruno;2.8
+3015;Brandon;Walker;Physiatrist;San Bruno;2.9
+3016;Peter;Turner;Gastroenterologist;Millbrae;3
+3017;Justin;McDonald;Psychiatrist;San Carlos;3.1
+3018;Keith;Vaughan;Psychiatrist;San Carlos;3.2
+3019;Bella;Coleman;Gastroenterologist;San Francisco;3.3
+3020;Angela;Russell;Physiatrist;San Francisco;3.4
+3021;Adam;Harris;Gastroenterologist;San Francisco;3.5
+3022;Dylan;Hughes;Gastroenterologist;San Francisco;3.6
+3023;Katherine;Hughes;Allergist;San Francisco;3.7
+3024;Claire;Morgan;Anesthesiologist;San Francisco;3.8
+3025;Donna;Walker;Cardiologist;San Jose;3.9
+3026;Penelope;Newman;Physiatrist;San Jose;4
+3027;Alex;Baker;Endocrinologist;San Jose;4.1
+3028;Alan;Wilson;Physiatrist;San Jose;4.2
+3029;Benjamin;Sharp;Hematologist;San Jose;4.3
+3030;Lean;Robertson;Gastroenterologist;San Jose;4.4
+3031;Kylie;Ross;Obstetrician;San Jose;4.5
+3032;Andrea;Morrison;Physiatrist;San Mateo;4.6
+3033;Dylan;Bell;Optometrist;San Mateo;3.3
+3034;Benjamin;Mitchy;Orthopedic Surgeon;San Mateo;3.4
+3035;Wendy;Newman;Otolaryngologist;San Mateo;3.5
+3036;Jane;Wallace;Cardiologist;Santa Clara;3.6
+3037;Sally;Payne;Physiatrist;Santa Clara;3.7
+3038;Alison;Sharp;Plastic Surgeon;Santa Clara;3.8
+3039;Emily;Sanderson;Cardiologist;Palo Alto;3.9
+3040;Penelope;Bell;Cardiologist;Santa Rosa;4
+3041;Lily;Lyman;Physiatrist;Saratoga;4.1
+3042;Anthony;Springer;Cardiologist;South San Francisco;4.2
+3043;Melanie;Carr;Cardiologist;Sunnyvale;4.3
+3044;Jan;Skinner;Physiatrist;Sunnyvale;4.4
+3045;Dylan;Berry;Psychiatrist;Menlo Park;4.5
+3046;Audrey;Berry;Allergist;Berkeley;4.6
+3047;Jennifer;Bell;Anesthesiologist;Burlingame;4.7
+3048;Donna;Nolan;Ophthalmologist;Richmond;3.3
+3049;Sarah;Clark;Optometrist;San Bruno;3.4
+3050;Evan;Alsop;Orthopedic Surgeon;San Bruno;3.5
+3051;Diane;Poole;Otolaryngologist;San Bruno;3.6
+3052;Wendy;Grant;Pediatrician;Millbrae;3.7
+3053;San;Anderson;Physiatrist;San Carlos;3.8
+3054;Justin;Martin;Cardiologist;Los Gatos;3.9
+3055;Gordon;Reid;Dermatologist;Palo Alto;4
+3056;Joe;Lee;Endocrinologist;Los Gatos;4.1
+3057;Wendy;Wilkins;Gastroenterologist;Menlo Park;4.2
+3058;Jennifer;Fisher;Hematologist;Millbrae;4.3
+3059;Michael;Randall;Nephrologist;Milpitas;4.4
+3060;Blake;Henders;Obstetrician;Palo Alto;4.5
+3061;Grace;Slater;Ophthalmologist;Milpitas;4.6
+3062;Theresa;Hemmings;Optometrist;Milpitas;4.7
+3063;Olivia;Davies;Orthopedic Surgeon;San Francisco;1.9
+3064;Anne;Stewart;Otolaryngologist;Palo Alto;2
+3065;Eric;Walsh;Pediatrician;Mountain View;2.1
+3066;Owen;Harris;Physiatrist;Mountain View;2.2
+3067;Una;Simpson;Plastic Surgeon;Oakland;2.3
+3068;Rachel;Randall;Psychiatrist;Oakland;2.4
+3069;Fiona;Baker;Psychiatrist;Pacifica;2.5
+3070;San;Coleman;Pulmonologist;Palo Alto;2.6
+3071;Edward;Palmer;Radiologist;Millbray;2.7
+3072;Boris;Kerr;Rheumatologist;Redwood City;2.8
+3073;Faith;Paterson;Urologist;Richmond;2.9
+3074;Benjamin;Bower;Orthopedic Surgeon;Richmond;3
+3075;Owen;Hardacre;Otolaryngologist;San Bruno;3.1
+3076;Mary;Skinner;Pediatrician;San Bruno;3.2
+3077;Audrey;Ogden;Physiatrist;San Bruno;3.3
+3078;Caroline;Vaughan;Gastroenterologist;Millbrae;3.4
+3079;Michael;Howard;Psychiatrist;San Carlos;3.5
+3080;Jane;Peters;Psychiatrist;San Carlos;3.6
+3081;Ella;Martin;Gastroenterologist;San Francisco;3.7
+3082;Madeleine;Gill;Physiatrist;San Francisco;3.8
+3083;Sean;May;Gastroenterologist;San Francisco;3.9
+3084;Hannah;Ferguson;Gastroenterologist;San Francisco;4
+3085;James;Powell;Allergist;San Francisco;4.1
+3086;Ava;Bond;Anesthesiologist;San Francisco;4.2
+3087;Zoe;Berry;Cardiologist;San Jose;4.3
+3088;Isaac;Howard;Physiatrist;San Jose;4.4
+3089;Nicola;Johnston;Endocrinologist;San Jose;4.5
+3090;Abigail;Scott;Physiatrist;San Jose;4.6
+3091;Hannah;Davies;Hematologist;San Jose;4.7
+3092;Victor;Fisher;Gastroenterologist;San Jose;4.8
+3093;Benjamin;Reid;Obstetrician;San Jose;4.9
+3094;Penelope;Ellison;Physiatrist;San Mateo;3.3
+3095;Piers;Ogden;Optometrist;San Mateo;3.4
+3096;Leah;Glover;Orthopedic Surgeon;San Mateo;3.5
+3097;Evan;Quinn;Otolaryngologist;San Mateo;3.6
+3098;Nicholas;Clark;Cardiologist;Santa Clara;3.7
+3099;Jonathan;Alsop;Physiatrist;Santa Clara;3.8
+3100;Fiona;Bower;Plastic Surgeon;Santa Clara;3.9
+3101;Harry;Kerr;Cardiologist;Palo Alto;4
+3102;Michelle;McLean;Cardiologist;Santa Rosa;4.1
+3103;Boris;Avery;Physiatrist;Saratoga;4.2
+3104;Grace;Sharp;Cardiologist;South San Francisco;4.3
+3105;Jack;Johnston;Cardiologist;Sunnyvale;4.4
+3106;Gavin;Turner;Physiatrist;Sunnyvale;4.5
+3107;Eric;Bailey;Psychiatrist;Menlo Park;4.6
+3108;Phil;Russell;Allergist;Berkeley;4.7
+3109;Angela;Arnold;Anesthesiologist;Burlingame;3.3
+3110;Thomas;Gibson;Allergist;Berkeley;3.4
+3111;Ann;Powell;Anesthesiologist;Burlingame;3.5
+3112;Edward;Johnston;Cardiologist;Colma;3.6
+3113;Ruth;Gibson;Dermatologist;Colma;3.7
+3114;Dominic;Wright;Endocrinologist;Colma;3.8
+3115;Matt;Quinn;Gastroenterologist;Concord;3.9
+3116;Michelle;Jones;Hematologist;Concord;4
+3117;Phil;Vaughan;Nephrologist;Cupertino;4.1
+3118;Jacob;Turner;Obstetrician;Daly City;4.2
+3119;Rebecca;Smith;Ophthalmologist;Daly City;4.3
+3120;Lauren;Gray;Optometrist;Daly City;4.4
+3121;Alison;McLean;Orthopedic Surgeon;Daly City;4.5
+3122;Pippa;Nash;Otolaryngologist;East Palo Alto;4.6
+3123;Harry;Piper;Pediatrician;Foster City;4.7
+3124;Ian;Coleman;Physiatrist;Fremont;2.4
+3125;Karen;Walker;Plastic Surgeon;Fremont;2.5
+3126;Ann;Carr;Psychiatrist;Gilroy;2.6
+3127;Lauren;Skinner;Psychiatrist;Half Moon Bay;2.7
+3128;Irene;Jones;Pulmonologist;Hayward;2.8
+3129;Christian;Knox;Radiologist;Hayward;2.9
+3130;Tim;Howard;Rheumatologist;Hillsborough;3
+3131;Jason;Jones;Urologist;Los Altos;3.1
+3132;Joan;Mills;Allergist;Los Altos;3.2
+3133;Blake;Lewis;Anesthesiologist;Los Gatos;3.3
+3134;Evan;Coleman;Cardiologist;Los Gatos;3.4
+3135;Victor;Pullman;Dermatologist;Palo Alto;3.5
+3136;San;Welch;Endocrinologist;Los Gatos;3.6
+3137;Rose;Vaughan;Gastroenterologist;Menlo Park;3.7
+3138;Dominic;McGrath;Hematologist;Millbrae;3.8
+3139;Michelle;Russell;Nephrologist;Milpitas;3.9
+3140;Audrey;Knox;Obstetrician;Palo Alto;4
+3141;Christian;Graham;Ophthalmologist;Milpitas;4.1
+3142;Ella;Sharp;Optometrist;Milpitas;4.2
+3143;Neil;Arnold;Orthopedic Surgeon;San Francisco;4.3
+3144;Chloe;Rees;Otolaryngologist;Palo Alto;4.4
+3145;Angela;Ross;Pediatrician;Mountain View;4.5
+3146;Sally;Davies;Physiatrist;Mountain View;4.6
+3147;Jane;Davies;Plastic Surgeon;Oakland;4.7
+3148;Hannah;Welch;Psychiatrist;Oakland;4.8
+3149;Michelle;Piper;Psychiatrist;Pacifica;4.9
+3150;Lucas;Palmer;Pulmonologist;Palo Alto;5
+3151;Ryan;Walker;Radiologist;Millbray;2.8
+3152;Max;Murray;Rheumatologist;Redwood City;2.9
+3153;Julia;Vance;Urologist;Richmond;3
+3154;Alan;Roberts;Orthopedic Surgeon;Richmond;3.1
+3155;Madeleine;Ross;Otolaryngologist;San Bruno;3.2
+3156;Alexander;Piper;Pediatrician;San Bruno;3.3
+3157;Tracey;Bell;Physiatrist;San Bruno;3.4
+3158;Rebecca;Ross;Gastroenterologist;Millbrae;3.5
+3159;Dan;Hodges;Psychiatrist;San Carlos;3.6
+3160;Ann;Abraham;Psychiatrist;San Carlos;3.7
+3161;Donna;Simpson;Gastroenterologist;San Francisco;3.8
+3162;Kylie;Walker;Physiatrist;San Francisco;3.9
+3163;Sophie;Sharp;Gastroenterologist;San Francisco;4
+3164;Richard;Ince;Gastroenterologist;San Francisco;4.1
+3165;Claire;Lewis;Allergist;San Francisco;1.5
+3166;Connor;Mathis;Anesthesiologist;San Francisco;1.6
+3167;Adrian;Hemmings;Cardiologist;San Jose;1.7
+3168;Emily;Parr;Physiatrist;San Jose;1.8
+3169;Olivia;Reid;Endocrinologist;San Jose;1.9
+3170;Sophie;Hunter;Physiatrist;San Jose;2
+3171;Megan;Burgess;Hematologist;San Jose;2.1
+3172;Madeleine;Quinn;Gastroenterologist;San Jose;2.2
+3173;Stephen;White;Obstetrician;San Jose;2.3
+3174;Trevor;Paige;Physiatrist;San Mateo;2.4
+3175;Cameron;McGrath;Optometrist;San Mateo;2.5
+3176;Brandon;Rampling;Orthopedic Surgeon;San Mateo;2.6
+3177;Jake;Arnold;Otolaryngologist;San Mateo;2.7
+3178;Ian;Tucker;Cardiologist;Santa Clara;2.8
+3179;Julia;Chapman;Physiatrist;Santa Clara;2.9
+3180;Yvonne;Carr;Plastic Surgeon;Santa Clara;3
+3181;Warren;Lambert;Cardiologist;Palo Alto;3.1
+3182;Lillian;Chapman;Cardiologist;Santa Rosa;3.2
+3183;Ann;Young;Physiatrist;Saratoga;3.3
+3184;Frank;McGrath;Cardiologist;South San Francisco;3.4
+3185;Nicholas;Marshall;Cardiologist;Sunnyvale;3.5
+3186;Deirdre;Johnston;Physiatrist;Sunnyvale;3.6
+3187;Chloe;Nolan;Psychiatrist;Menlo Park;3.7
+3188;Ava;Jones;Allergist;Berkeley;3.8
+3189;Theresa;Bower;Anesthesiologist;Burlingame;3.9
+3190;Carolyn;Alsop;Ophthalmologist;Richmond;4
+3191;Max;Hodges;Optometrist;San Bruno;4.1
+3192;Jake;Harris;Orthopedic Surgeon;San Bruno;4.2
+3193;Sebastian;Skinner;Otolaryngologist;San Bruno;4.3
+3194;Abigail;Parsons;Pediatrician;Millbrae;1.8
+3195;Oliver;Ellison;Physiatrist;San Carlos;1.9
+3196;Jasmine;May;Cardiologist;Los Gatos;2
+3197;Blake;Clarkson;Dermatologist;Palo Alto;2.1
+3198;Dominic;Allan;Endocrinologist;Los Gatos;2.2
+3199;Steven;Sharp;Gastroenterologist;Menlo Park;2.3
+3200;Cameron;Bell;Hematologist;Millbrae;2.4
+3201;Gabrielle;Ball;Nephrologist;Milpitas;2.5
+3202;Liam;Grant;Obstetrician;Palo Alto;2.6
+3203;Sarah;Grant;Ophthalmologist;Milpitas;2.7
+3204;Warren;Avery;Optometrist;Milpitas;2.8
+3205;Tim;White;Orthopedic Surgeon;San Francisco;2.9
+3206;Ann;Morgan;Otolaryngologist;Palo Alto;3
+3207;San;Malkin;Pediatrician;Mountain View;3.1
+3208;John;Mills;Physiatrist;Mountain View;3.2
+3209;Carol;Arnold;Plastic Surgeon;Oakland;2.5
+3210;Sebastian;Bell;Psychiatrist;Oakland;2.6
+3211;Rebecca;Dowd;Psychiatrist;Pacifica;2.7
+3212;Jasmine;Ross;Pulmonologist;Palo Alto;2.8
+3213;Tim;Payne;Radiologist;Millbray;2.9
+3214;Thomas;Hill;Rheumatologist;Redwood City;3
+3215;Phil;Greene;Urologist;Richmond;3.1
+3216;Carl;Hart;Orthopedic Surgeon;Richmond;3.2
+3217;Kylie;Duncan;Otolaryngologist;San Bruno;3.3
+3218;Blake;Hunter;Pediatrician;San Bruno;3.4
+3219;Jasmine;Bailey;Physiatrist;San Bruno;3.5
+3220;Sebastian;Hardacre;Gastroenterologist;Millbrae;3.6
+3221;Edward;Lambert;Psychiatrist;San Carlos;3.7
+3222;Richard;Dowd;Psychiatrist;San Carlos;3.8
+3223;William;Ferguson;Gastroenterologist;San Francisco;3.9
+3224;Warren;Black;Physiatrist;San Francisco;4
+3225;Maria;Parsons;Gastroenterologist;San Francisco;4.1
+3226;Matt;Palmer;Gastroenterologist;San Francisco;4.2
+3227;William;Morgan;Allergist;San Francisco;4.3
+3228;Emily;Chapman;Anesthesiologist;San Francisco;4.4
+3229;Lean;Bond;Cardiologist;San Jose;4.5
+3230;Mary;Hamilton;Physiatrist;San Jose;4.6
+3231;Jennifer;Ellison;Endocrinologist;San Jose;4.7
+3232;Elizabeth;Hart;Physiatrist;San Jose;4.8
+3233;Jane;Gibson;Hematologist;San Jose;1.8
+3234;Sam;Oliver;Gastroenterologist;San Jose;1.9
+3235;Lucas;Fisher;Obstetrician;San Jose;2
+3236;Richard;Manning;Physiatrist;San Mateo;2.1
+3237;Wanda;Glover;Optometrist;San Mateo;2.2
+3238;Grace;McLean;Orthopedic Surgeon;San Mateo;2.3
+3239;Anna;Watson;Otolaryngologist;San Mateo;2.4
+3240;Jonathan;Avery;Cardiologist;Santa Clara;2.5
+3241;Joe;Carr;Physiatrist;Santa Clara;2.6
+3242;William;Sanderson;Plastic Surgeon;Santa Clara;2.7
+3243;Kevin;Sharp;Cardiologist;Palo Alto;2.8
+3244;Isaac;Bond;Cardiologist;Santa Rosa;2.9
+3245;Ella;Parsons;Physiatrist;Saratoga;3
+3246;Frank;Rampling;Cardiologist;South San Francisco;3.1
+3247;Anna;Young;Cardiologist;Sunnyvale;2.5
+3248;Wendy;North;Physiatrist;Sunnyvale;2.6
+3249;Benjamin;Brown;Psychiatrist;Menlo Park;2.7
+3250;Brandon;Ross;Allergist;Berkeley;2.8
+3251;Liam;Piper;Anesthesiologist;Burlingame;2.9
+3252;Grace;Robertson;Allergist;Berkeley;3
+3253;Joe;Welch;Anesthesiologist;Burlingame;3.1
+3254;Eric;Mills;Cardiologist;Colma;3.2
+3255;Irene;Knox;Dermatologist;Colma;3.3
+3256;Virginia;Mathis;Endocrinologist;Colma;3.4
+3257;Virginia;Sanderson;Gastroenterologist;Concord;2.8
+3258;Bella;Bell;Hematologist;Concord;2.9
+3259;Simon;Greene;Nephrologist;Cupertino;3
+3260;Phil;Mills;Obstetrician;Daly City;3.1
+3261;Phil;Knox;Ophthalmologist;Daly City;3.2
+3262;Leah;Springer;Optometrist;Daly City;3.3
+3263;Audrey;Hudson;Orthopedic Surgeon;Daly City;2.5
+3264;Deirdre;Ince;Otolaryngologist;East Palo Alto;2.6
+3265;Michael;Hart;Pediatrician;Foster City;2.7
+3266;Lisa;Baker;Physiatrist;South San Francisco;2.8
+3267;Theresa;May;Plastic Surgeon;Fremont;2.9
+3268;Harry;Mills;Psychiatrist;South San Francisco;3
+3269;Cameron;Ferguson;Psychiatrist;Half Moon Bay;3.1
+3270;Eric;Morgan;Pulmonologist;Hayward;3.2
+3271;Sam;Vaughan;Radiologist;South San Francisco;3.3
+3272;Piers;Simpson;Rheumatologist;Hillsborough;3.4
+3273;Samantha;Hill;Urologist;Los Altos;2.6
+3274;Brian;Marshall;Allergist;Los Altos;2.7
+3275;Jake;James;Anesthesiologist;Los Gatos;2.8
+3276;Maria;Payne;Cardiologist;Los Gatos;2.9
+3277;Benjamin;Blake;Dermatologist;Palo Alto;3
+3278;Jane;Davidson;Endocrinologist;Los Gatos;3.1
+3279;Carol;Cornish;Gastroenterologist;Menlo Park;2.5
+3280;Donna;Grant;Hematologist;Millbrae;2.6
+3281;Jack;North;Nephrologist;Milpitas;2.7
+3282;Neil;Edmunds;Obstetrician;Palo Alto;2.8
+3283;Gavin;Roberts;Ophthalmologist;Milpitas;2.9
+3284;Frank;Johnston;Optometrist;Milpitas;3
+3285;Steven;Mitchy;Orthopedic Surgeon;San Francisco;3.1
+3286;Amelia;Welch;Otolaryngologist;Palo Alto;3.2
+3287;Jessica;Peters;Pediatrician;Mountain View;2.5
+3288;Rebecca;Campbell;Physiatrist;Mountain View;2.6
+3289;Rachel;Morrison;Plastic Surgeon;Oakland;2.7
+3290;Jasmine;Forsyth;Psychiatrist;Oakland;2.8
+3291;Austin;Paterson;Psychiatrist;Pacifica;2.9
+3292;Oliver;Terry;Pulmonologist;Palo Alto;3
+3293;Jacob;Abraham;Radiologist;Millbray;3.1
+3294;Austin;Howard;Rheumatologist;Redwood City;3.2
+3295;Justin;Rees;Urologist;South San Francisco;3.3
+3296;Karen;Nash;Orthopedic Surgeon;Richmond;3.4
+3297;Ella;Fraser;Otolaryngologist;San Bruno;3.1
+3298;Michelle;Ogden;Pediatrician;San Bruno;3.2
+3299;Anne;Sanderson;Physiatrist;San Bruno;3.3
+3300;Adrian;Blake;Gastroenterologist;Millbrae;3.4
+3301;Adam;Stewart;Psychiatrist;San Carlos;1.5
+3302;Melanie;Parr;Psychiatrist;San Carlos;1.6
+3303;Jane;Piper;Gastroenterologist;San Francisco;1.7
+3304;Diane;Avery;Physiatrist;San Francisco;1.8
+3305;Stephen;Hill;Gastroenterologist;San Francisco;1.9
+3306;Diana;Hemmings;Gastroenterologist;San Francisco;2
+3307;Jessica;McLean;Allergist;San Francisco;2.1
+3308;Sarah;Ellison;Anesthesiologist;San Francisco;2.2
+3309;Lauren;Kelly;Cardiologist;San Jose;2.3
+3310;James;Lambert;Physiatrist;San Jose;2.4
+3311;Carl;Newman;Endocrinologist;San Jose;2.5
+3312;Lean;Russell;Physiatrist;San Jose;2.6
+3313;John;Parr;Hematologist;San Jose;2.7
+3314;Paul;White;Gastroenterologist;San Jose;2.8
+3315;Bella;Glover;Obstetrician;San Jose;2.9
+3316;Olivia;Robertson;Physiatrist;San Mateo;3
+3317;Tim;Grant;Optometrist;San Mateo;3.1
+3318;Ella;Young;Orthopedic Surgeon;San Mateo;3.2
+3319;Christian;Wilkins;Otolaryngologist;San Mateo;3.3
+3320;Grace;Miller;Cardiologist;Santa Clara;3.4
+3321;Irene;Newman;Physiatrist;Santa Clara;3.5
+3322;Mary;Russell;Plastic Surgeon;Santa Clara;3.6
+3323;Ava;Lyman;Cardiologist;Palo Alto;3.7
+3324;Michael;Turner;Cardiologist;Santa Rosa;3.8
+3325;Sue;Payne;Physiatrist;Saratoga;3.9
+3326;Katherine;Miller;Cardiologist;South San Francisco;4
+3327;Anthony;Hemmings;Cardiologist;Sunnyvale;4.1
+3328;Leah;Newman;Physiatrist;Sunnyvale;4.2
+3329;Penelope;Anderson;Psychiatrist;Menlo Park;4.3
+3330;Colin;McGrath;Allergist;Berkeley;4.4
+3331;Victoria;Murray;Anesthesiologist;Burlingame;4.5
+3332;Lucas;Peters;Ophthalmologist;Richmond;4.6
+3333;Jane;Grant;Optometrist;San Bruno;3.3
+3334;San;Chapman;Orthopedic Surgeon;San Bruno;3.4
+3335;Irene;Greene;Otolaryngologist;San Bruno;3.5
+3336;Jasmine;Quinn;Pediatrician;Millbrae;3.6
+3337;Jake;Martin;Physiatrist;San Carlos;3.7
+3338;Emily;Lee;Cardiologist;Los Gatos;3.8
+3339;Kylie;Edmunds;Dermatologist;Palo Alto;3.9
+3340;Ella;Anderson;Endocrinologist;Los Gatos;4
+3341;Rachel;Graham;Gastroenterologist;Menlo Park;4.1
+3342;Paul;Edmunds;Hematologist;Millbrae;4.2
+3343;Victor;Randall;Nephrologist;Milpitas;4.3
+3344;Abigail;Reid;Obstetrician;Palo Alto;4.4
+3345;Christian;Hughes;Ophthalmologist;Milpitas;4.5
+3346;Jason;Hughes;Optometrist;Milpitas;4.6
+3347;Sonia;Paterson;Orthopedic Surgeon;San Francisco;4.7
+3348;Irene;Grant;Otolaryngologist;Palo Alto;3.3
+3349;Peter;Wilson;Pediatrician;Mountain View;3.4
+3350;Keith;Kerr;Physiatrist;Mountain View;3.5
+3351;James;Edmunds;Plastic Surgeon;Oakland;3.6
+3352;Matt;Wilkins;Psychiatrist;Oakland;3.7
+3353;Oliver;Stewart;Psychiatrist;Pacifica;3.8
+3354;Benjamin;Roberts;Pulmonologist;Palo Alto;3.9
+3355;Karen;Wallace;Radiologist;Millbray;4
+3356;Max;Gray;Rheumatologist;Redwood City;4.1
+3357;Colin;Hodges;Urologist;Richmond;4.2
+3358;Liam;Dickens;Orthopedic Surgeon;Richmond;4.3
+3359;Zoe;Smith;Otolaryngologist;San Bruno;4.4
+3360;Stephen;Mitchy;Pediatrician;San Bruno;4.5
+3361;David;Rampling;Physiatrist;San Bruno;4.6
+3362;Alex;Wright;Gastroenterologist;Millbrae;4.7
+3363;Lucas;Mills;Psychiatrist;San Carlos;1.9
+3364;Tracey;Forsyth;Psychiatrist;San Carlos;2
+3365;Ava;Morrison;Gastroenterologist;San Francisco;2.1
+3366;Evan;King;Physiatrist;San Francisco;2.2
+3367;Owen;Smith;Gastroenterologist;San Francisco;2.3
+3368;Victor;Skinner;Gastroenterologist;San Francisco;2.4
+3369;Vanessa;Brown;Allergist;San Francisco;2.5
+3370;Olivia;Black;Anesthesiologist;San Francisco;2.6
+3371;Deirdre;Jones;Cardiologist;San Jose;2.7
+3372;Alexander;Vaughan;Physiatrist;San Jose;2.8
+3373;Kimberly;Terry;Endocrinologist;San Jose;2.9
+3374;Cameron;Paige;Physiatrist;San Jose;3
+3375;Harry;Harris;Hematologist;San Jose;3.1
+3376;Lillian;Sanderson;Gastroenterologist;San Jose;3.2
+3377;Sonia;Watson;Obstetrician;San Jose;3.3
+3378;Tim;North;Physiatrist;San Mateo;3.4
+3379;Lauren;Butler;Optometrist;San Mateo;3.5
+3380;Lauren;Johnston;Orthopedic Surgeon;San Mateo;3.6
+3381;Harry;Bell;Otolaryngologist;San Mateo;3.7
+3382;Charles;Mills;Cardiologist;Santa Clara;3.8
+3383;Ava;Alsop;Physiatrist;Santa Clara;3.9
+3384;Yvonne;Forsyth;Plastic Surgeon;Santa Clara;4
+3385;Matt;Brown;Cardiologist;Palo Alto;4.1
+3386;Rebecca;Carr;Cardiologist;Santa Rosa;4.2
+3387;Molly;Arnold;Physiatrist;Saratoga;4.3
+3388;Sophie;Mathis;Cardiologist;South San Francisco;4.4
+3389;Charles;Bell;Cardiologist;Sunnyvale;4.5
+3390;Penelope;Parsons;Physiatrist;Sunnyvale;4.6
+3391;Samantha;Alsop;Psychiatrist;Menlo Park;4.7
+3392;John;Butler;Allergist;Berkeley;4.8
+3393;Amy;Chapman;Anesthesiologist;Burlingame;4.9
+3394;Ann;Lambert;Allergist;South San Francisco;3.3
+3395;Jasmine;Dowd;Anesthesiologist;Burlingame;3.4
+3396;Paul;Stewart;Cardiologist;Colma;3.5
+3397;Piers;Hamilton;Dermatologist;Colma;3.6
+3398;Jason;Hudson;Endocrinologist;Colma;3.7
+3399;Amy;Jackson;Gastroenterologist;Concord;3.8
+3400;Heather;Chapman;Hematologist;Concord;3.9
+3401;Diane;Carr;Nephrologist;Cupertino;4
+3402;San;Rampling;Obstetrician;Daly City;4.1
+3403;Jasmine;Glover;Ophthalmologist;Daly City;4.2
+3404;Sally;Springer;Optometrist;Daly City;4.3
+3405;Piers;Murray;Orthopedic Surgeon;Daly City;4.4
+3406;Anthony;Russell;Otolaryngologist;East Palo Alto;4.5
+3407;Sue;Greene;Pediatrician;Foster City;4.6
+3408;Dominic;Poole;Physiatrist;Fremont;4.7
+3409;Gordon;Blake;Plastic Surgeon;Fremont;3.3
+3410;Oliver;Mills;Psychiatrist;Gilroy;3.4
+3411;Michael;Scott;Psychiatrist;Half Moon Bay;3.5
+3412;Julia;North;Pulmonologist;Hayward;3.6
+3413;Edward;Lewis;Radiologist;Hayward;3.7
+3414;Lauren;Avery;Rheumatologist;Hillsborough;3.8
+3415;Michelle;Peake;Urologist;Los Altos;3.9
+3416;Neil;Wilson;Allergist;South San Francisco;4
+3417;Victoria;Walker;Anesthesiologist;Los Gatos;4.1
+3418;Ava;Rampling;Cardiologist;Los Gatos;4.2
+3419;Sophie;Piper;Dermatologist;Palo Alto;4.3
+3420;Mary;Roberts;Endocrinologist;Los Gatos;4.4
+3421;Melanie;Manning;Gastroenterologist;Menlo Park;4.5
+3422;Gabrielle;McLean;Hematologist;Millbrae;4.6
+3423;Amy;Grant;Nephrologist;Milpitas;4.7
+3424;Sebastian;Clark;Obstetrician;Palo Alto;2.4
+3425;Katherine;Sanderson;Ophthalmologist;Milpitas;2.5
+3426;Amy;Hill;Optometrist;Milpitas;2.6
+3427;Nathan;Hughes;Orthopedic Surgeon;San Francisco;2.7
+3428;Brian;Stewart;Otolaryngologist;Palo Alto;2.8
+3429;Carolyn;Nolan;Pediatrician;Mountain View;2.9
+3430;Jessica;Simpson;Physiatrist;Mountain View;3
+3431;Stewart;Short;Plastic Surgeon;Oakland;3.1
+3432;Liam;Powell;Psychiatrist;Oakland;3.2
+3433;Chloe;Johnston;Psychiatrist;Pacifica;3.3
+3434;Emily;McLean;Pulmonologist;Palo Alto;3.4
+3435;Pippa;Hill;Radiologist;South San Francisco;3.5
+3436;Sonia;Glover;Rheumatologist;Redwood City;3.6
+3437;Andrew;Brown;Urologist;Richmond;3.7
+3438;Kevin;Vance;Orthopedic Surgeon;Richmond;3.8
+3439;Carolyn;Sanderson;Otolaryngologist;San Bruno;3.9
+3440;Una;Chapman;Pediatrician;San Bruno;4
+3441;Liam;Berry;Physiatrist;San Bruno;4.1
+3442;Nicholas;Watson;Gastroenterologist;Millbrae;4.2
+3443;Tracey;Smith;Psychiatrist;San Carlos;4.3
+3444;Ella;Rampling;Psychiatrist;San Carlos;4.4
+3445;Jason;Mitchy;Gastroenterologist;San Francisco;4.5
+3446;Lillian;Ince;Physiatrist;San Francisco;4.6
+3447;Simon;Berry;Gastroenterologist;San Francisco;4.7
+3448;Diana;Lyman;Gastroenterologist;San Francisco;4.8
+3449;Emma;Baker;Allergist;San Francisco;4.9
+3450;Katherine;Lewis;Anesthesiologist;San Francisco;5
+3451;Victoria;Miller;Cardiologist;San Jose;2.8
+3452;Colin;Hughes;Physiatrist;San Jose;2.9
+3453;Vanessa;Dyer;Endocrinologist;San Jose;3
+3454;Faith;Fraser;Physiatrist;San Jose;3.1
+3455;Faith;Campbell;Hematologist;San Jose;3.2
+3456;Angela;Sharp;Gastroenterologist;San Jose;3.3
+3457;Lucas;Lyman;Obstetrician;San Jose;3.4
+3458;Joanne;Arnold;Physiatrist;San Mateo;3.5
+3459;Max;Ferguson;Optometrist;San Mateo;3.6
+3460;Lean;Reid;Orthopedic Surgeon;San Mateo;3.7
+3461;Fiona;Robertson;Otolaryngologist;San Mateo;3.8
+3462;Frank;Willian;Cardiologist;Santa Clara;3.9
+3463;Tracey;Ogden;Physiatrist;Santa Clara;4
+3464;Adrian;Hughes;Plastic Surgeon;Santa Clara;4.1
+3465;Alan;Hart;Cardiologist;Palo Alto;1.5
+3466;Cameron;Hughes;Cardiologist;Santa Rosa;1.6
+3467;Pippa;Slater;Physiatrist;Saratoga;1.7
+3468;Robert;Duncan;Cardiologist;South San Francisco;1.8
+3469;Leah;Kelly;Cardiologist;Sunnyvale;1.9
+3470;Mary;Fraser;Physiatrist;Sunnyvale;2
+3471;Chloe;Tucker;Psychiatrist;Menlo Park;2.1
+3472;Sophie;Powell;Allergist;Berkeley;2.2
+3473;Anne;Ellison;Anesthesiologist;Burlingame;2.3
+3474;Kylie;Peters;Ophthalmologist;Richmond;2.4
+3475;Jessica;Lawrence;Optometrist;San Bruno;2.5
+3476;Sophie;Wilson;Orthopedic Surgeon;San Bruno;2.6
+3477;Liam;Dowd;Otolaryngologist;San Bruno;2.7
+3478;Bella;Cornish;Pediatrician;Millbrae;2.8
+3479;Michael;Chapman;Physiatrist;San Carlos;2.9
+3480;Megan;Oliver;Cardiologist;Los Gatos;3
+3481;Sally;Mills;Dermatologist;Palo Alto;3.1
+3482;Una;Greene;Endocrinologist;Los Gatos;3.2
+3483;Emma;Ferguson;Gastroenterologist;Menlo Park;3.3
+3484;Andrea;Mathis;Hematologist;Millbrae;3.4
+3485;Victor;Wallace;Nephrologist;Milpitas;3.5
+3486;Carl;Payne;Obstetrician;Palo Alto;3.6
+3487;Sally;Duncan;Ophthalmologist;Milpitas;3.7
+3488;Brandon;Parr;Optometrist;Milpitas;3.8
+3489;Penelope;Chapman;Ophthalmologist;San Francisco;3.9
+3490;Amanda;Butler;Otolaryngologist;Palo Alto;4
+3491;Megan;Murray;Pediatrician;Mountain View;4.1
+3492;Faith;Newman;Physiatrist;Mountain View;4.2
+3493;Virginia;May;Plastic Surgeon;Oakland;4.3
+3494;Colin;Suthy;Psychiatrist;Oakland;1.8
+3495;Ella;Hamilton;Psychiatrist;Pacifica;1.9
+3496;Faith;Slater;Pulmonologist;Palo Alto;2
+3497;Diane;Bailey;Radiologist;Millbray;2.1
+3498;Alexander;Turner;Rheumatologist;Redwood City;2.2
+3499;Lauren;Allan;Urologist;Richmond;2.3
+3500;Jennifer;Dickens;Orthopedic Surgeon;Richmond;2.4
+3501;Nicola;Randall;Otolaryngologist;San Bruno;2.5
+3502;Sebastian;Cameron;Pediatrician;San Bruno;2.6
+3503;Megan;Fraser;Physiatrist;San Bruno;2.7
+3504;Ryan;Skinner;Gastroenterologist;Millbrae;2.8
+3505;Claire;Fraser;Psychiatrist;San Carlos;2.9
+3506;Ruth;Bailey;Psychiatrist;San Carlos;3
+3507;Sally;Watson;Gastroenterologist;San Francisco;3.1
+3508;Audrey;Willian;Physiatrist;San Francisco;3.2
+3509;Leah;Butler;Gastroenterologist;San Francisco;2.5
+3510;Jessica;Graham;Gastroenterologist;San Francisco;2.6
+3511;Thomas;Parr;Allergist;South San Francisco;2.7
+3512;Jonathan;Langdon;Anesthesiologist;San Francisco;2.8
+3513;Karen;Russell;Cardiologist;San Jose;2.9
+3514;Adrian;Lewis;Physiatrist;San Jose;3
+3515;Wendy;Langdon;Endocrinologist;San Jose;3.1
+3516;Adrian;Hudson;Physiatrist;San Jose;3.2
+3517;Gordon;Lawrence;Hematologist;San Jose;3.3
+3518;Warren;Stewart;Gastroenterologist;San Jose;3.4
+3519;Pippa;Thomson;Obstetrician;San Jose;3.5
+3520;Joe;Gray;Physiatrist;San Mateo;3.6
+3521;Alan;Sharp;Optometrist;San Mateo;3.7
+3522;Michelle;Willian;Orthopedic Surgeon;San Mateo;3.8
+3523;Anna;Dyer;Otolaryngologist;San Mateo;3.9
+3524;Jennifer;Alsop;Cardiologist;Santa Clara;4
+3525;Vanessa;Quinn;Physiatrist;Santa Clara;4.1
+3526;Carol;Berry;Plastic Surgeon;Santa Clara;4.2
+3527;Frank;Bower;Cardiologist;Palo Alto;4.3
+3528;Madeleine;Malkin;Cardiologist;Santa Rosa;4.4
+3529;Harry;Welch;Physiatrist;Saratoga;4.5
+3530;Lily;Peake;Cardiologist;South San Francisco;4.6
+3531;Dominic;Watson;Cardiologist;Sunnyvale;4.7
+3532;Theresa;Howard;Physiatrist;Sunnyvale;4.8
+3533;Jessica;Russell;Psychiatrist;Menlo Park;1.8
+3534;Jasmine;Hamilton;Allergist;Berkeley;1.9
+3535;Austin;MacLeod;Anesthesiologist;Burlingame;2
+3536;Paul;MacLeod;Allergist;Berkeley;2.1
+3537;Donna;Ball;Anesthesiologist;Burlingame;2.2
+3538;Dominic;Dowd;Cardiologist;South San Francisco;2.3
+3539;Karen;Lewis;Dermatologist;South San Francisco;2.4
+3540;Lily;Nolan;Endocrinologist;Colma;2.5
+3541;Joanne;Scott;Gastroenterologist;Concord;2.6
+3542;Grace;Paterson;Hematologist;Concord;2.7
+3543;Abigail;Wilson;Nephrologist;Cupertino;2.8
+3544;Nicola;Edmunds;Obstetrician;Daly City;2.9
+3545;Owen;Hart;Ophthalmologist;Daly City;3
+3546;Amy;Hamilton;Optometrist;Daly City;3.1
+3547;Cameron;Watson;Orthopedic Surgeon;Daly City;2.5
+3548;Robert;Pullman;Otolaryngologist;East Palo Alto;2.6
+3549;Ava;Hart;Pediatrician;Foster City;2.7
+3550;Elizabeth;Rampling;Physiatrist;Fremont;2.8
+3551;Emily;Morgan;Plastic Surgeon;Fremont;2.9
+3552;Ava;Payne;Psychiatrist;Gilroy;3
+3553;Diane;Ferguson;Psychiatrist;Half Moon Bay;3.1
+3554;John;Gibson;Pulmonologist;Hayward;3.2
+3555;Sonia;Oliver;Radiologist;Hayward;3.3
+3556;Amelia;Young;Rheumatologist;Hillsborough;3.4
+3557;Cameron;Miller;Urologist;Los Altos;2.8
+3558;Jason;Scott;Allergist;Los Altos;2.9
+3559;Gabrielle;Lewis;Anesthesiologist;Los Gatos;3
+3560;Ava;Forsyth;Cardiologist;Los Gatos;3.1
+3561;Oliver;Bell;Dermatologist;Palo Alto;3.2
+3562;Joe;Duncan;Endocrinologist;Los Gatos;3.3
+3563;Abigail;Watson;Gastroenterologist;Menlo Park;2.5
+3564;Nicola;Skinner;Hematologist;Millbrae;2.6
+3565;John;McDonald;Nephrologist;Milpitas;2.7
+3566;Blake;Morgan;Obstetrician;Palo Alto;2.8
+3567;Steven;Ellison;Ophthalmologist;Milpitas;2.9
+3568;Sarah;Mathis;Optometrist;Milpitas;3
+3569;Sonia;Hardacre;Orthopedic Surgeon;San Francisco;3.1
+3570;Penelope;Fraser;Otolaryngologist;Palo Alto;3.2
+3571;Nicola;Anderson;Pediatrician;Mountain View;3.3
+3572;Amelia;Morgan;Physiatrist;Mountain View;3.4
+3573;Ella;Lyman;Plastic Surgeon;Oakland;2.6
+3574;Justin;Avery;Psychiatrist;Oakland;2.7
+3575;Theresa;Peters;Psychiatrist;Pacifica;2.8
+3576;Isaac;Short;Pulmonologist;Palo Alto;2.9
+3577;Diana;Quinn;Radiologist;South San Francisco;3
+3578;Una;Cornish;Rheumatologist;Redwood City;3.1
+3579;Melanie;Davidson;Urologist;Richmond;2.5
+3580;Paul;Young;Orthopedic Surgeon;Richmond;2.6
+3581;Peter;Knox;Otolaryngologist;San Bruno;2.7
+3582;William;Simpson;Pediatrician;San Bruno;2.8
+3583;Diana;Slater;Physiatrist;San Bruno;2.9
+3584;Hannah;Anderson;Gastroenterologist;Millbrae;3
+3585;Rose;Hudson;Psychiatrist;San Carlos;3.1
+3586;Evan;Newman;Psychiatrist;San Carlos;3.2
+3587;Piers;Wilson;Gastroenterologist;San Francisco;2.5
+3588;Michelle;Jackson;Physiatrist;San Francisco;2.6
+3589;Harry;Gill;Gastroenterologist;San Francisco;2.7
+3590;Oliver;Wilkins;Gastroenterologist;San Francisco;2.8
+3591;Colin;Poole;Allergist;San Francisco;2.9
+3592;Una;Ross;Anesthesiologist;San Francisco;3
+3593;Oliver;Lawrence;Cardiologist;San Jose;3.1
+3594;Jan;Mills;Physiatrist;San Jose;3.2
+3595;Anna;Russell;Endocrinologist;San Jose;3.3
+3596;Edward;Campbell;Physiatrist;San Jose;3.4
+3597;Sally;Hunter;Hematologist;San Jose;3.1
+3598;Gabrielle;Gray;Gastroenterologist;San Jose;3.2
+3599;Jacob;Avery;Obstetrician;San Jose;3.3
+3600;Maria;Bell;Physiatrist;San Mateo;3.4
+3601;Connor;Terry;Optometrist;San Mateo;1.5
+3602;Jason;Martin;Orthopedic Surgeon;San Mateo;1.6
+3603;Faith;King;Otolaryngologist;San Mateo;1.7
+3604;Lillian;Henders;Cardiologist;Santa Clara;1.8
+3605;San;Oliver;Physiatrist;Santa Clara;1.9
+3606;Felicity;Morgan;Plastic Surgeon;Santa Clara;2
+3607;Eric;Tucker;Cardiologist;Palo Alto;2.1
+3608;Alison;White;Cardiologist;Santa Rosa;2.2
+3609;Audrey;Forsyth;Physiatrist;Saratoga;2.3
+3610;Wanda;Martin;Cardiologist;South San Francisco;2.4
+3611;Victor;Vance;Cardiologist;Sunnyvale;2.5
+3612;Hannah;Marshall;Physiatrist;Sunnyvale;2.6
+3613;Nathan;Wilson;Psychiatrist;Menlo Park;2.7
+3614;Joe;Marshall;Allergist;Berkeley;2.8
+3615;Brandon;Scott;Anesthesiologist;Burlingame;2.9
+3616;Oliver;Ball;Ophthalmologist;Richmond;3
+3617;Colin;Fisher;Optometrist;San Bruno;3.1
+3618;Harry;Coleman;Orthopedic Surgeon;San Bruno;3.2
+3619;Lily;Arnold;Otolaryngologist;San Bruno;3.3
+3620;Alison;Gill;Pediatrician;Millbrae;3.4
+3621;Jake;North;Physiatrist;San Carlos;3.5
+3622;Lauren;Hughes;Cardiologist;Los Gatos;3.6
+3623;Sally;Gibson;Dermatologist;Palo Alto;3.7
+3624;Lillian;Springer;Endocrinologist;Los Gatos;3.8
+3625;Caroline;Short;Gastroenterologist;Menlo Park;3.9
+3626;Isaac;Ince;Hematologist;South San Francisco;4
+3627;Adrian;Bell;Nephrologist;Milpitas;4.1
+3628;Andrea;Skinner;Obstetrician;Palo Alto;4.2
+3629;Ruth;McDonald;Ophthalmologist;Milpitas;4.3
+3630;William;Walsh;Optometrist;Milpitas;4.4
+3631;Diane;Turner;Orthopedic Surgeon;San Francisco;4.5
+3632;Amanda;Abraham;Otolaryngologist;Palo Alto;4.6
+3633;Evan;Poole;Pediatrician;Mountain View;3.3
+3634;Hannah;Hodges;Physiatrist;Mountain View;3.4
+3635;Edward;Knox;Plastic Surgeon;Oakland;3.5
+3636;Jonathan;Harris;Psychiatrist;Oakland;3.6
+3637;John;Gray;Psychiatrist;South San Francisco;3.7
+3638;Colin;Miller;Pulmonologist;Palo Alto;3.8
+3639;Angela;Cameron;Radiologist;Millbray;3.9
+3640;Joan;Campbell;Rheumatologist;Redwood City;4
+3641;Carol;Miller;Urologist;Richmond;4.1
+3642;Victor;Dyer;Orthopedic Surgeon;Richmond;4.2
+3643;Rachel;Murray;Otolaryngologist;San Bruno;4.3
+3644;Katherine;Malkin;Pediatrician;San Bruno;4.4
+3645;Charles;Allan;Physiatrist;San Bruno;4.5
+3646;Ava;Cornish;Gastroenterologist;Millbrae;4.6
+3647;Sarah;Edmunds;Psychiatrist;San Carlos;4.7
+3648;Karen;Grant;Psychiatrist;San Carlos;3.3
+3649;Karen;Ferguson;Gastroenterologist;San Francisco;3.4
+3650;Nicholas;Sharp;Physiatrist;San Francisco;3.5
+3651;Owen;Mitchy;Gastroenterologist;San Francisco;3.6
+3652;Carolyn;Buckland;Gastroenterologist;San Francisco;3.7
+3653;Joe;Springer;Allergist;San Francisco;3.8
+3654;Ruth;Rampling;Anesthesiologist;San Francisco;3.9
+3655;Ian;Martin;Cardiologist;South San Francisco;4
+3656;Pippa;Willian;Physiatrist;San Jose;4.1
+3657;Virginia;Kerr;Endocrinologist;San Jose;4.2
+3658;Nathan;Allan;Physiatrist;San Jose;4.3
+3659;Yvonne;Roberts;Hematologist;San Jose;4.4
+3660;Kylie;Young;Gastroenterologist;San Jose;4.5
+3661;Alan;Forsyth;Obstetrician;San Jose;4.6
+3662;Ella;Watson;Physiatrist;San Mateo;4.7
+3663;Connor;Vance;Optometrist;San Mateo;1.9
+3664;Rebecca;Hamilton;Orthopedic Surgeon;San Mateo;2
+3665;Ruth;Alsop;Otolaryngologist;San Mateo;2.1
+3666;Jason;Oliver;Cardiologist;Santa Clara;2.2
+3667;Jane;Quinn;Physiatrist;Santa Clara;2.3
+3668;Diane;Gill;Plastic Surgeon;Santa Clara;2.4
+3669;Rebecca;Vaughan;Cardiologist;Palo Alto;2.5
+3670;Molly;Berry;Cardiologist;Santa Rosa;2.6
+3671;Amanda;Sharp;Physiatrist;Saratoga;2.7
+3672;Oliver;Slater;Cardiologist;South San Francisco;2.8
+3673;Jennifer;Piper;Cardiologist;Sunnyvale;2.9
+3674;Tim;Arnold;Physiatrist;South San Francisco;3
+3675;James;Ellison;Psychiatrist;Menlo Park;3.1
+3676;Dan;Jones;Allergist;Berkeley;3.2
+3677;Kimberly;Wilson;Anesthesiologist;Burlingame;3.3
+3678;Bella;Cameron;Allergist;Berkeley;3.4
+3679;Adam;Parsons;Anesthesiologist;Burlingame;3.5
+3680;Colin;North;Cardiologist;Colma;3.6
+3681;Felicity;Wright;Dermatologist;Colma;3.7
+3682;Edward;Welch;Endocrinologist;Colma;3.8
+3683;Maria;Watson;Gastroenterologist;Concord;3.9
+3684;Faith;Bower;Hematologist;Concord;4
+3685;Samantha;Peake;Nephrologist;Cupertino;4.1
+3686;Gabrielle;Campbell;Obstetrician;Daly City;4.2
+3687;Emma;Russell;Ophthalmologist;Daly City;4.3
+3688;Peter;Smith;Optometrist;Daly City;4.4
+3689;Jake;Davidson;Orthopedic Surgeon;Daly City;4.5
+3690;Yvonne;McLean;Otolaryngologist;East Palo Alto;4.6
+3691;Joanne;Berry;Pediatrician;Foster City;4.7
+3692;Steven;Scott;Physiatrist;Fremont;4.8
+3693;Michelle;Alsop;Plastic Surgeon;Fremont;4.9
+3694;Tracey;Buckland;Psychiatrist;Gilroy;3.3
+3695;Piers;Parsons;Psychiatrist;Half Moon Bay;3.4
+3696;Madeleine;Thomson;Pulmonologist;Hayward;3.5
+3697;Simon;Ball;Radiologist;South San Francisco;3.6
+3698;Carolyn;Sharp;Rheumatologist;Hillsborough;3.7
+3699;Matt;Young;Urologist;Los Altos;3.8
+3700;Joseph;Howard;Allergist;Los Altos;3.9
+3701;Lauren;Dickens;Anesthesiologist;Los Gatos;4
+3702;Mary;Hughes;Cardiologist;Los Gatos;4.1
+3703;David;Newman;Dermatologist;Palo Alto;4.2
+3704;Victoria;Scott;Endocrinologist;Los Gatos;4.3
+3705;Una;Gill;Gastroenterologist;Menlo Park;4.4
+3706;Bella;Kelin;Hematologist;Millbrae;4.5
+3707;Richard;Slater;Nephrologist;Milpitas;4.6
+3708;Benjamin;Davies;Obstetrician;Palo Alto;4.7
+3709;Leonard;Stewart;Ophthalmologist;Milpitas;3.3
+3710;Adrian;Reid;Optometrist;Milpitas;3.4
+3711;Nathan;Powell;Orthopedic Surgeon;San Francisco;3.5
+3712;Victoria;Peters;Otolaryngologist;Palo Alto;3.6
+3713;Matt;Parr;Pediatrician;Mountain View;3.7
+3714;William;Gill;Physiatrist;Mountain View;3.8
+3715;James;Oliver;Plastic Surgeon;Oakland;3.9
+3716;Rose;Paterson;Psychiatrist;South San Francisco;4
+3717;Joe;Murray;Psychiatrist;South San Francisco;4.1
+3718;Dominic;Ince;Pulmonologist;Palo Alto;4.2
+3719;Nicola;Payne;Radiologist;Millbray;4.3
+3720;Carol;Skinner;Rheumatologist;Redwood City;4.4
+3721;Mary;Nolan;Urologist;South San Francisco;4.5
+3722;Rebecca;Abraham;Orthopedic Surgeon;Richmond;4.6
+3723;Blake;Palmer;Otolaryngologist;San Bruno;4.7
+3724;Boris;Scott;Pediatrician;San Bruno;2.4
+3725;Cameron;Butler;Physiatrist;San Bruno;2.5
+3726;Sally;Turner;Gastroenterologist;Millbrae;2.6
+3727;Natalie;Vaughan;Psychiatrist;San Carlos;2.7
+3728;Claire;Clark;Psychiatrist;San Carlos;2.8
+3729;Simon;May;Gastroenterologist;San Francisco;2.9
+3730;Lisa;Robertson;Physiatrist;San Francisco;3
+3731;Abigail;Sanders;Gastroenterologist;San Francisco;3.1
+3732;Amelia;Campbell;Gastroenterologist;San Francisco;3.2
+3733;Isaac;Watson;Allergist;San Francisco;3.3
+3734;Ruth;Buckland;Anesthesiologist;San Francisco;3.4
+3735;Adrian;Clark;Cardiologist;San Jose;3.5
+3736;Cameron;Ball;Physiatrist;San Jose;3.6
+3737;Keith;Mitchell;Endocrinologist;San Jose;3.7
+3738;Yvonne;Skinner;Physiatrist;San Jose;3.8
+3739;Colin;Berry;Hematologist;San Jose;3.9
+3740;Lauren;Piper;Gastroenterologist;San Jose;4
+3741;Elizabeth;Miller;Obstetrician;San Jose;4.1
+3742;Blake;Gray;Physiatrist;South San Francisco;4.2
+3743;Andrew;Morgan;Optometrist;San Mateo;4.3
+3744;Wanda;Howard;Orthopedic Surgeon;San Mateo;4.4
+3745;Lauren;Watson;Otolaryngologist;San Mateo;4.5
+3746;Alan;Davidson;Cardiologist;Santa Clara;4.6
+3747;Lean;May;Physiatrist;Santa Clara;4.7
+3748;Anne;Mitchy;Plastic Surgeon;Santa Clara;4.8
+3749;Claire;Malkin;Cardiologist;Palo Alto;4.9
+3750;Brian;Alsop;Cardiologist;Santa Rosa;5
+3751;Carl;Grant;Physiatrist;Saratoga;2.8
+3752;Julian;Grand;Cardiologist;South San Francisco;2.9
+3753;Maria;Smith;Cardiologist;South San Francisco;3
+3754;Brian;Smith;Physiatrist;Sunnyvale;3.1
+3755;Blake;Anderson;Psychiatrist;Menlo Park;3.2
+3756;Jennifer;Greene;Allergist;Berkeley;3.3
+3757;Wanda;Ogden;Anesthesiologist;Burlingame;3.4
+3758;Anne;Harris;Ophthalmologist;Richmond;3.5
+3759;Connor;Burgess;Optometrist;San Bruno;3.6
+3760;Tracey;Peters;Orthopedic Surgeon;San Bruno;3.7
+3761;Jake;Ellison;Otolaryngologist;San Bruno;3.8
+3762;Sam;Kelin;Pediatrician;Millbrae;3.9
+3763;Simon;Arnold;Physiatrist;San Carlos;4
+3764;Gordon;Suthy;Cardiologist;Los Gatos;4.1
+3765;Ava;Suthy;Dermatologist;Palo Alto;1.5
+3766;Donna;Nash;Endocrinologist;Los Gatos;1.6
+3767;Connor;Mills;Gastroenterologist;Menlo Park;1.7
+3768;Blake;Baker;Hematologist;Millbrae;1.8
+3769;Heather;McLean;Nephrologist;Milpitas;1.9
+3770;Steven;Welch;Obstetrician;South San Francisco;2
+3771;Piers;Ellison;Ophthalmologist;Milpitas;2.1
+3772;Ava;Sanderson;Optometrist;Milpitas;2.2
+3773;Doriel;Roberts;Orthopedic Surgeon;San Francisco;2.3
+3774;Elizabeth;James;Otolaryngologist;Palo Alto;2.4
+3775;Jan;Randall;Pediatrician;Mountain View;2.5
+3776;Jessica;Duncan;Physiatrist;Mountain View;2.6
+3777;Diana;Henders;Plastic Surgeon;Oakland;2.7
+3778;Gordon;Hardacre;Psychiatrist;Oakland;2.8
+3779;Michelle;Bell;Psychiatrist;Pacifica;2.9
+3780;Charles;Kelly;Pulmonologist;Palo Alto;3
+3781;Benjamin;Grant;Radiologist;Millbray;3.1
+3782;Piers;McGrath;Rheumatologist;Redwood City;3.2
+3783;Chloe;Fraser;Urologist;Richmond;3.3
+3784;Amelia;Chapman;Orthopedic Surgeon;Richmond;3.4
+3785;Leonard;Duncan;Otolaryngologist;San Bruno;3.5
+3786;Olivia;Ferguson;Pediatrician;San Bruno;3.6
+3787;Yvonne;Cornish;Physiatrist;San Bruno;3.7
+3788;San;Short;Gastroenterologist;Millbrae;3.8
+3789;Warren;Bell;Psychiatrist;San Carlos;3.9
+3790;Anna;Kerr;Psychiatrist;San Carlos;4
+3791;Sue;Anderson;Gastroenterologist;San Francisco;4.1
+3792;Ryan;Morgan;Physiatrist;San Francisco;4.2
+3793;Joe;Jones;Gastroenterologist;San Francisco;4.3
+3794;Anna;Short;Gastroenterologist;San Francisco;1.8
+3795;Audrey;Wallace;Allergist;San Francisco;1.9
+3796;Owen;Bell;Anesthesiologist;San Francisco;2
+3797;Liam;Vance;Cardiologist;San Jose;2.1
+3798;Melanie;Campbell;Physiatrist;San Jose;2.2
+3799;Sean;Ross;Endocrinologist;San Jose;2.3
+3800;Stephen;Parsons;Physiatrist;San Jose;2.4
+3801;Heather;Paterson;Hematologist;San Jose;2.5
+3802;Lauren;Howard;Gastroenterologist;San Jose;2.6
+3803;Amanda;Henders;Obstetrician;San Jose;2.7
+3804;Anna;Paige;Physiatrist;South San Francisco;2.8
+3805;Cameron;Payne;Optometrist;San Mateo;2.9
+3806;Bella;Graham;Orthopedic Surgeon;San Mateo;3
+3807;Rachel;Malkin;Otolaryngologist;San Mateo;3.1
+3808;Lauren;Brown;Cardiologist;Santa Clara;3.2
+3809;Carl;Manning;Physiatrist;Santa Clara;2.5
+3810;Wendy;Parsons;Plastic Surgeon;Santa Clara;2.6
+3811;Neil;Thomson;Cardiologist;Palo Alto;2.7
+3812;Theresa;Walsh;Cardiologist;Santa Rosa;2.8
+3813;Fiona;Ince;Physiatrist;Saratoga;2.9
+3814;Sally;Reid;Cardiologist;South San Francisco;3
+3815;Luke;Edmunds;Cardiologist;Sunnyvale;3.1
+3816;Diana;Lewis;Physiatrist;Sunnyvale;3.2
+3817;Sonia;Fisher;Psychiatrist;Menlo Park;3.3
+3818;Connor;Gill;Allergist;Berkeley;3.4
+3819;Lillian;North;Anesthesiologist;Burlingame;3.5
+3820;Zoe;Ellison;Allergist;Berkeley;3.6
+3821;Adrian;Hamilton;Anesthesiologist;Burlingame;3.7
+3822;Sue;Miller;Cardiologist;South San Francisco;3.8
+3823;Jake;Ross;Dermatologist;South San Francisco;3.9
+3824;Natalie;Hunter;Endocrinologist;Colma;4
+3825;Robert;Davidson;Gastroenterologist;Concord;4.1
+3826;Caroline;Forsyth;Hematologist;Concord;4.2
+3827;Diana;King;Nephrologist;Cupertino;4.3
+3828;Virginia;Dyer;Obstetrician;Daly City;4.4
+3829;Anna;Buckland;Ophthalmologist;Daly City;4.5
+3830;Kylie;Blake;Optometrist;Daly City;4.6
+3831;Sonia;Short;Orthopedic Surgeon;Daly City;4.7
+3832;Isaac;Mitchy;Otolaryngologist;East Palo Alto;4.8
+3833;Tim;Wright;Pediatrician;Foster City;1.8
+3834;Nicola;Bell;Physiatrist;Fremont;1.9
+3835;Una;Palmer;Plastic Surgeon;Fremont;2
+3836;Christian;Morgan;Psychiatrist;Gilroy;2.1
+3837;Nicholas;Young;Psychiatrist;Half Moon Bay;2.2
+3838;Felicity;Lyman;Pulmonologist;Hayward;2.3
+3839;Elizabeth;Mathis;Radiologist;Hayward;2.4
+3840;Nathan;Slater;Rheumatologist;Hillsborough;2.5
+3841;Jessica;Mathis;Urologist;Los Altos;2.6
+3842;Vanessa;Randall;Allergist;Los Altos;2.7
+3843;Jasmine;Slater;Anesthesiologist;Los Gatos;2.8
+3844;Lauren;Ball;Cardiologist;Los Gatos;2.9
+3845;Victoria;Peake;Dermatologist;Palo Alto;3
+3846;Charles;May;Endocrinologist;Los Gatos;3.1
+3847;Katherine;Palmer;Physiatrist;Menlo Park;2.5
+3848;Anthony;Gibson;Hematologist;Millbrae;2.6
+3849;Claire;White;Nephrologist;Milpitas;2.7
+3850;Faith;Russell;Obstetrician;Palo Alto;2.8
+3851;Vanessa;Poole;Ophthalmologist;Milpitas;2.9
+3852;Carolyn;Parsons;Optometrist;Milpitas;3
+3853;Isaac;Mathis;Orthopedic Surgeon;San Francisco;3.1
+3854;Carl;Graham;Otolaryngologist;Palo Alto;3.2
+3855;Brandon;Parsons;Pediatrician;Mountain View;3.3
+3856;Joseph;Forsyth;Physiatrist;Mountain View;3.4
+3857;Jasmine;Abraham;Plastic Surgeon;Oakland;2.8
+3858;Alan;Hunter;Psychiatrist;Oakland;2.9
+3859;Rebecca;Lawrence;Psychiatrist;Pacifica;3
+3860;Justin;Young;Pulmonologist;Palo Alto;3.1
+3861;Mary;Nash;Radiologist;Millbray;3.2
+3862;Boris;Abraham;Rheumatologist;Redwood City;3.3
+3863;Emma;Smith;Urologist;South San Francisco;2.5
+3864;Victor;Langdon;Orthopedic Surgeon;Richmond;2.6
+3865;Angela;Langdon;Otolaryngologist;San Bruno;2.7
+3866;Sue;Gill;Pediatrician;San Bruno;2.8
+3867;Colin;Carr;Physiatrist;San Bruno;2.9
+3868;Leah;Arnold;Gastroenterologist;Millbrae;3
+3869;Hannah;Slater;Psychiatrist;San Carlos;3.1
+3870;Jacob;Hudson;Psychiatrist;San Carlos;3.2
+3871;Trevor;Mills;Gastroenterologist;San Francisco;3.3
+3872;Adam;Duncan;Physiatrist;San Francisco;3.4
+3873;Joan;Baker;Gastroenterologist;San Francisco;2.6
+3874;Joseph;King;Gastroenterologist;San Francisco;2.7
+3875;Virginia;Grant;Allergist;San Francisco;2.8
+3876;John;Newman;Anesthesiologist;San Francisco;2.9
+3877;Dorothy;Henders;Cardiologist;San Jose;3
+3878;Amelia;Ferguson;Physiatrist;San Jose;3.1
+3879;Cameron;Murray;Endocrinologist;San Jose;2.5
+3880;Gavin;Henders;Physiatrist;San Jose;2.6
+3881;Andrew;McLean;Hematologist;San Jose;2.7
+3882;Anthony;Cornish;Gastroenterologist;San Jose;2.8
+3883;Joanne;Thomson;Obstetrician;San Jose;2.9
+3884;Ella;Chapman;Physiatrist;San Mateo;3
+3885;Piers;May;Optometrist;San Mateo;3.1
+3886;Gabrielle;Kerr;Orthopedic Surgeon;San Mateo;3.2
+3887;Fiona;Taylor;Otolaryngologist;San Mateo;2.5
+3888;Harry;May;Cardiologist;Santa Clara;2.6
+3889;Phil;Rees;Physiatrist;Santa Clara;2.7
+3890;Richard;Hunter;Plastic Surgeon;Santa Clara;2.8
+3891;Austin;Davidson;Cardiologist;Palo Alto;2.9
+3892;Joshua;Langdon;Cardiologist;Santa Rosa;3
+3893;Mary;Gibson;Physiatrist;Saratoga;3.1
+3894;Joshua;Burgess;Cardiologist;South San Francisco;3.2
+3895;Nicholas;Abraham;Cardiologist;Sunnyvale;3.3
+3896;Caroline;Mathis;Physiatrist;Sunnyvale;3.4
+3897;Gabrielle;Knox;Psychiatrist;Menlo Park;3.1
+3898;Pippa;Arnold;Allergist;Berkeley;3.2
+3899;Gavin;Nolan;Anesthesiologist;Burlingame;3.3
+3900;Audrey;Newman;Ophthalmologist;Richmond;3.4
+3901;Lucas;Pullman;Optometrist;San Bruno;1.5
+3902;Elizabeth;Pelling;Orthopedic Surgeon;San Bruno;1.6
+3903;Edward;Dyer;Otolaryngologist;San Bruno;1.7
+3904;Liam;Lawrence;Pediatrician;Millbrae;1.8
+3905;Jane;Forsyth;Physiatrist;San Carlos;1.9
+3906;Colin;Welch;Cardiologist;Los Gatos;2
+3907;Diane;Wright;Dermatologist;Palo Alto;2.1
+3908;Dominic;Bond;Endocrinologist;Los Gatos;2.2
+3909;Hannah;Reid;Gastroenterologist;Menlo Park;2.3
+3910;Deirdre;Burgess;Hematologist;Millbrae;2.4
+3911;William;Peake;Nephrologist;Milpitas;2.5
+3912;Elizabeth;Young;Obstetrician;Palo Alto;2.6
+3913;Anne;Powell;Ophthalmologist;Milpitas;2.7
+3914;Ian;Forsyth;Optometrist;Milpitas;2.8
+3915;Phil;Pullman;Orthopedic Surgeon;San Francisco;2.9
+3916;Luke;Mitchell;Otolaryngologist;Palo Alto;3
+3917;Rose;Morrison;Pediatrician;Mountain View;3.1
+3918;Lillian;Murray;Physiatrist;Mountain View;3.2
+3919;Joseph;Malkin;Plastic Surgeon;Oakland;3.3
+3920;Ann;Berry;Psychiatrist;Oakland;3.4
+3921;Jacob;Glover;Psychiatrist;Pacifica;3.5
+3922;Victor;Turner;Pulmonologist;Palo Alto;3.6
+3923;Sophie;Peake;Radiologist;Millbray;3.7
+3924;Lauren;Knox;Rheumatologist;Redwood City;3.8
+3925;Liam;Mathis;Urologist;Richmond;3.9
+3926;Carl;Marshall;Orthopedic Surgeon;Richmond;4
+3927;Liam;Wallace;Otolaryngologist;San Bruno;4.1
+3928;Ella;Ellison;Pediatrician;San Bruno;4.2
+3929;Lillian;Walsh;Physiatrist;San Bruno;4.3
+3930;Ryan;Brown;Gastroenterologist;Millbrae;4.4
+3931;Cameron;Nolan;Psychiatrist;San Carlos;4.5
+3932;Richard;Stewart;Psychiatrist;San Carlos;4.6
+3933;Carl;Ross;Gastroenterologist;San Francisco;3.3
+3934;Stewart;James;Physiatrist;San Francisco;3.4
+3935;Alex;Skinner;Gastroenterologist;San Francisco;3.5
+3936;Olivia;Bailey;Gastroenterologist;San Francisco;3.6
+3937;Chloe;Knox;Allergist;San Francisco;3.7
+3938;Penelope;Kelin;Anesthesiologist;San Francisco;3.8
+3939;Nicholas;Coleman;Cardiologist;San Jose;3.9
+3940;Adrian;Brown;Physiatrist;San Jose;4
+3941;Ryan;May;Endocrinologist;San Jose;4.1
+3942;Diane;Parsons;Physiatrist;San Jose;4.2
+3943;Virginia;Arnold;Hematologist;San Jose;4.3
+3944;Jessica;Black;Gastroenterologist;San Jose;4.4
+3945;Matt;Buckland;Obstetrician;San Jose;4.5
+3946;Abigail;Hill;Physiatrist;San Mateo;4.6
+3947;Leonard;Cornish;Optometrist;San Mateo;4.7
+3948;Paul;Black;Orthopedic Surgeon;San Mateo;3.3
+3949;Caroline;Smith;Otolaryngologist;San Mateo;3.4
+3950;Tracey;Edmunds;Cardiologist;Santa Clara;3.5
+3951;Andrea;McDonald;Physiatrist;Santa Clara;3.6
+3952;Megan;Lee;Plastic Surgeon;Santa Clara;3.7
+3953;Phil;Thomson;Cardiologist;Palo Alto;3.8
+3954;Leonard;Terry;Cardiologist;Santa Rosa;3.9
+3955;Alexander;Wright;Physiatrist;Saratoga;4
+3956;Michelle;Johnston;Allergist;South San Francisco;4.1
+3957;Stephen;Ogden;Cardiologist;Sunnyvale;4.2
+3958;Caroline;Robertson;Physiatrist;Sunnyvale;4.3
+3959;Chloe;Hamilton;Psychiatrist;Menlo Park;4.4
+3960;Sonia;Mathis;Allergist;Berkeley;4.5
+3961;Justin;Grant;Anesthesiologist;Burlingame;4.6
+3962;Matt;Langdon;Allergist;Berkeley;4.7
+3963;William;Clark;Anesthesiologist;Burlingame;1.9
+3964;Olivia;Short;Cardiologist;Colma;2
+3965;Neil;Fisher;Dermatologist;Colma;2.1
+3966;Stewart;Springer;Endocrinologist;Colma;2.2
+3967;Liam;Pullman;Gastroenterologist;Concord;2.3
+3968;Caroline;Piper;Hematologist;Concord;2.4
+3969;Gordon;Lee;Nephrologist;Cupertino;2.5
+3970;Michael;Lewis;Obstetrician;Daly City;2.6
+3971;Jasmine;Coleman;Ophthalmologist;Daly City;2.7
+3972;Charles;Miller;Optometrist;Daly City;2.8
+3973;Julia;Hunter;Orthopedic Surgeon;Daly City;2.9
+3974;Donna;Reid;Otolaryngologist;East Palo Alto;3
+3975;Carolyn;Hunter;Pediatrician;Foster City;3.1
+3976;Karen;Ince;Physiatrist;Fremont;3.2
+3977;Molly;Welch;Plastic Surgeon;Fremont;3.3
+3978;Colin;Greene;Psychiatrist;Gilroy;3.4
+3979;Austin;Malkin;Psychiatrist;Half Moon Bay;3.5
+3980;Jason;Bond;Pulmonologist;Hayward;3.6
+3981;Chloe;Parr;Radiologist;Hayward;3.7
+3982;Lean;Hardacre;Rheumatologist;Hillsborough;3.8
+3983;Melanie;Butler;Urologist;Los Altos;3.9
+3984;Bella;Jackson;Allergist;Los Altos;4
+3985;Pippa;Hamilton;Anesthesiologist;Los Gatos;4.1
+3986;Claire;North;Cardiologist;Los Gatos;4.2
+3987;Katherine;Wilson;Dermatologist;Palo Alto;4.3
+3988;Amanda;Thomson;Endocrinologist;Los Gatos;4.4
+3989;Alison;Carr;Gastroenterologist;Menlo Park;4.5
+3990;Justin;MacLeod;Hematologist;Millbrae;4.6
+3991;Victoria;Kerr;Nephrologist;Milpitas;4.7
+3992;Sarah;Scott;Obstetrician;Palo Alto;4.8
+3993;Maria;Dowd;Ophthalmologist;Milpitas;4.9
+3994;Michael;Sharp;Optometrist;Milpitas;3.3
+3995;William;Scott;Orthopedic Surgeon;South San Francisco;3.4
+3996;Carolyn;Mitchell;Otolaryngologist;Palo Alto;3.5
+3997;Paul;Alsop;Pediatrician;Mountain View;3.6
+3998;Madeleine;Black;Physiatrist;Mountain View;3.7
+3999;Julia;Mitchell;Plastic Surgeon;Oakland;3.8
+4000;Keith;Slater;Psychiatrist;Oakland;3.9
