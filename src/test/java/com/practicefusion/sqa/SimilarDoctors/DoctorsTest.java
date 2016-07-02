@@ -13,7 +13,6 @@ import org.testng.annotations.Test;
 public class DoctorsTest {
 	private Doctors doctors;
 	
-	
 	@BeforeMethod
 	public void createInstanceOfDoctorsClass() {
 		doctors = new Doctors();
@@ -25,9 +24,7 @@ public class DoctorsTest {
 		try {
 			doctorsList = doctors.getSimilarDoctors(-1);
 			Assert.assertTrue(doctorsList.isEmpty());
-		} catch (SQLException e) {
-			e.printStackTrace();
-		}
+		} catch (SQLException e) {}
 	}
 	
 	@Test(enabled = true, groups="DoctorsTests")
@@ -37,13 +34,9 @@ public class DoctorsTest {
 		try {
 			doctorsList = doctors.getSimilarDoctors(100000);
 			Assert.assertTrue(doctorsList.isEmpty());
-		
-		} catch (SQLException e) {
-			e.printStackTrace();
-		}
+		} catch (SQLException e) {}
 	}
 
-	
 	@Test(enabled = true, groups="DoctorsTests")
 	public void doctorIdCorrect() {
 		ArrayList<String> doctorsList;

@@ -1,37 +1,4 @@
-/**
-
-Similar Doctors
-
-Problem Statement
-A site contains a listing of doctors. Users can browse for doctors given a specific specialty, 
-area, review score etc. 
-Write a class which when given a doctor, provides a list of similar doctors, in 
-a prioritized order. 
-You define what similar means and the result ordering, but clearly document any 
-assumptions in your code. 
-Please, include unit tests. 
-You can assume the entire directory of doctors fits into memory, and write in whatever 
-language you are most comfortable with. 
-
- *
- */
-
-/*
- * ---------- SOLUTION -------------------
-* Creating data base with fields:
-	id,	fName,	lName,	specialty,	city,	reviewScore
-* Populating data base using csv file
-* Choosing doctor by id and printing out doctor's info
-* Finding similar doctors using 4 rulers:
-* 	1. getting all doctors within specified city, of specified specialty and same or better rating
-* 	2. getting all doctors of specified specialty and same or better rating but not in the specified city
-* 	3. getting all doctors of specified specialty and in the same city but worse rating
-* 	4. getting all doctors of specified specialty but not in the same city and with the worse rating
-* All chosen doctors putting in list no longer than 100 doctors and printing out
-*/
-
 package com.practicefusion.sqa.SimilarDoctors;
-
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -45,10 +12,33 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-
 /**
- * Doctors: create and populate data base, finding and print out similar doctors
+ * Doctors class will read and populate a SQL database, and based on the users input, 
+ * return a listing of the particular doctors information, and other doctors similar in skill, location, or rating
+ * <p>
+ *	sv - temporary array for populate data base
+ *	doctors - result: similar doctors list
+ *	vsSplitBy -defining delimiter using in csv file
+ *	chosenDoctorId - chosen doctor's id 
+ *	maxDoctorId - current qty doctors in data base
+ * <p>
+ * Creating data base with fields:
+ *	id,	fName,	lName,	specialty,	city,	reviewScore
+ * Populating data base using csv file
+ * Choosing doctor by id and printing out doctor's info
+ * Finding similar doctors using 4 rulers:
+ * 	1. getting all doctors within specified city, of specified specialty and same or better rating
+ * 	2. getting all doctors of specified specialty and same or better rating but not in the specified city
+ * 	3. getting all doctors of specified specialty and in the same city but worse rating
+ * 	4. getting all doctors of specified specialty but not in the same city and with the worse rating
+ * All chosen doctors putting in list no longer than 100 doctors and printing out
+ * 
+ * @author      Tony 
+ * @version     1.0.0
+ * @since       1.0
+ *
  */
+
 public class Doctors {
 	
 	private static String[] csv;	//temporary array for populate data base
@@ -64,7 +54,6 @@ public class Doctors {
 	  doctors.printChoosenDoctor();
 	  doctors.printDoctors(doctors.getSimilarDoctors(chosenDoctorId));
   }//main
-  
   
  /**
    * choosing doctor by id
@@ -339,8 +328,7 @@ public class Doctors {
 	    	    Float.parseFloat(rs.getString("reviewScore")),
 	    	    '\n');
 		
-		connection.close();
-	
+		connection.close();	
 	}//printChoosenDoctor
 	
 }//class
