@@ -1,6 +1,5 @@
 package com.practicefusion.sqa.SimilarDoctors;
 
-import java.sql.SQLException;
 import java.util.ArrayList;
 
 import org.testng.Assert;
@@ -21,60 +20,46 @@ public class DoctorsTest {
 	@Test(enabled = true, groups="DoctorsTests")
 	public void doctorIdInvalid() {
 		ArrayList<String> doctorsList;
-		try {
-			doctorsList = doctors.getSimilarDoctors(-1);
-			Assert.assertTrue(doctorsList.isEmpty());
-		} catch (SQLException e) {}
+		doctorsList = doctors.getSimilarDoctors(-1);
+		Assert.assertTrue(doctorsList.isEmpty());
 	}
 	
 	@Test(enabled = true, groups="DoctorsTests")
 	public void doctorIdDoesNotExist() {
 		Doctors doctors = new Doctors();
 		ArrayList<String> doctorsList;
-		try {
-			doctorsList = doctors.getSimilarDoctors(100000);
-			Assert.assertTrue(doctorsList.isEmpty());
-		} catch (SQLException e) {}
+		doctorsList = doctors.getSimilarDoctors(100000);
+		Assert.assertTrue(doctorsList.isEmpty());
 	}
 
 	@Test(enabled = true, groups="DoctorsTests")
 	public void doctorIdCorrect() {
 		ArrayList<String> doctorsList;
-		try {
-			doctorsList = doctors.getSimilarDoctors(1);
-			Assert.assertTrue(!doctorsList.isEmpty());
-		} catch (SQLException e) {
-			e.printStackTrace();
-		}
-
+		doctorsList = doctors.getSimilarDoctors(1);
+		Assert.assertTrue(!doctorsList.isEmpty());
 	}
 	
 	@Test(enabled = true, groups="DoctorsTests")
 	public void noMoreThan100Doctors() {
 		ArrayList<String> doctorsList;
-		try {
-			doctorsList = doctors.getSimilarDoctors(1);
-			int number = doctorsList.size();
-			Assert.assertTrue(doctorsList.size() <= 100);
-		} catch (SQLException e) {
-			e.printStackTrace();
-		}
+		doctorsList = doctors.getSimilarDoctors(1);
+		int number = doctorsList.size();
+		Assert.assertTrue(doctorsList.size() <= 100);
 	}
 	
 	@Test(enabled = true, groups="DoctorsTests")
-		public void checkSpeciality() throws SQLException {
+		public void checkSpeciality() {
 		//doctor with id = 3 is Cardiologist
 		ArrayList<String> doctorsList;
 		doctorsList = doctors.getSimilarDoctors(3);
 		Boolean flag = true;
-		for(int i = 0; i < doctorsList.size(); i++){
+		for(int i = 0; i < doctorsList.size(); i++) {
 			if(!doctorsList.get(i).split(";")[3].equals("Cardiologist")) {
 				flag = false;
 				break;
 			}
 		}
-		Assert.assertTrue(flag);
+		Assert.assertTrue(flag); 
 	} 
-	
 
 }

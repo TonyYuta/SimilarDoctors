@@ -164,102 +164,111 @@ public class Doctors {
 	 * @return ArrayList with similar doctors
 	 * @throws SQLException 
 	 */
-	public ArrayList<String> getSimilarDoctors(int doctorId) throws SQLException  {
+	public ArrayList<String> getSimilarDoctors(int doctorId) {
 		ArrayList<String> result = new ArrayList<String>();
 		Connection connection = null;
 	    
-			connection = DriverManager.getConnection("jdbc:sqlite:doctors.db");
+			try {
+				connection = DriverManager.getConnection("jdbc:sqlite:doctors.db");
+			} catch (SQLException e1) {
+				//e1.printStackTrace();
+			}
 			
-	    	Statement statement = connection.createStatement();
-	    	statement.setQueryTimeout(40);  // set timeout to 40 sec.      
-	    	
-	    	ResultSet rs = statement.executeQuery("select * from person where id == "+doctorId);
-	    	String specialty = rs.getString("specialty");
-	    	String city = rs.getString("city");
-	    	float score = rs.getFloat("reviewScore");
-	    	
-	    	// ------------- RULE 1 ------------------
-	    	//getting all doctors within specified city, of specified specialty and same or better rating
-	    	rs = statement.executeQuery("select * from person where "
-	      		+ "specialty == '"+specialty+"' AND "
-	      		+ "city == '"+city+"' AND "
-	      		+ "reviewScore >= "+score+" ORDER BY reviewScore DESC LIMIT 100");
-	      
-	    	//adding all found doctors to the resulting list
-	    	while(rs.next()) {
-	    	  result.add(rs.getInt("id") + ";" +
-	 	        	 (rs.getString("fName") + ";"+ 
-	 	        	rs.getString("lName")) + ";" +
-	 	         	rs.getString("specialty") + ";" +
-	 	         	rs.getString("city") + ";" +
-	 	         	rs.getFloat("reviewScore"));
-	    	}
-	    	
-	    	// ------------- RULE 2 ------------------
-	    	//getting all doctors of specified specialty and same or better rating but not in the specified city
-	    	if(result.size() < 100) {
-	    	  rs = statement.executeQuery("select * from person where "
-	          		+ "specialty == '"+specialty+"' AND "
-	          		+ "city != '"+city+"' AND "
-	          		+ "reviewScore >= "+score+" ORDER BY reviewScore DESC LIMIT 100");
-	    	  //adding all found doctors to the resulting list (unless the list has reached 100)
-	    	  while(rs.next()){
-	        	  result.add(rs.getInt("id")+";"+
-	     	        	 (rs.getString("fName") +";"+ 
-	     	        	rs.getString("lName")) +";"+
-	     	         	rs.getString("specialty") +";"+
-	     	         	rs.getString("city") +";"+
-	     	         	rs.getFloat("reviewScore"));
-	        	  if(result.size() >= 100) {
-	        		  break;
-	        	  }
-	          }
-	      }	      
-	      
-	    // ------------- RULE 3 ------------------
-	    //getting all doctors of specified specialty and in the same city but worse rating
-	      if(result.size() < 100) {
-	    	  rs = statement.executeQuery("select * from person where "
-	      		+ "specialty == '"+specialty+"' AND "
-	      		+ "city == '"+city+"' AND "
-	      		+ "reviewScore < "+score+" ORDER BY reviewScore DESC LIMIT 100");
-	     
-			     //adding all found doctors to the resulting list (unless the list has reached 100)
-			     while(rs.next()){
-			   	  result.add(rs.getInt("id")+";"+
-				        	 (rs.getString("fName") +";"+ 
-				        	rs.getString("lName")) +";"+
-				         	rs.getString("specialty") +";"+
-				         	rs.getString("city") +";"+
-				         	rs.getFloat("reviewScore"));
-				   	if(result.size() >= 100) {
-				   		break;
-					}
-			    }
-	      }      
-	   
-	      // ------------- RULE 4 ------------------
-	      //getting all doctors of specified specialty but not in the same city and with the worse rating
-	      if(result.size() < 100) {
-		      rs = statement.executeQuery("select * from person where "
-		        		+ "specialty == '"+specialty+"' AND "
-		        		+ "city != '"+city+"' AND "
-		        		+ "reviewScore < "+score+" ORDER BY reviewScore DESC LIMIT 100");
-		    //adding all found doctors to the resulting list (unless the list has reached 100)
-		      while(rs.next()) {
+	    	Statement statement;
+			try {
+				statement = connection.createStatement();
+		
+		    	statement.setQueryTimeout(40);  // set timeout to 40 sec.      
+		    	
+		    	ResultSet rs = statement.executeQuery("select * from person where id == "+doctorId);
+		    	String specialty = rs.getString("specialty");
+		    	String city = rs.getString("city");
+		    	float score = rs.getFloat("reviewScore");
+		    	
+		    	// ------------- RULE 1 ------------------
+		    	//getting all doctors within specified city, of specified specialty and same or better rating
+		    	rs = statement.executeQuery("select * from person where "
+		      		+ "specialty == '"+specialty+"' AND "
+		      		+ "city == '"+city+"' AND "
+		      		+ "reviewScore >= "+score+" ORDER BY reviewScore DESC LIMIT 100");
+		      
+		    	//adding all found doctors to the resulting list
+		    	while(rs.next()) {
 		    	  result.add(rs.getInt("id") + ";" +
-		 	        	 (rs.getString("fName") + ";" + 
+		 	        	 (rs.getString("fName") + ";"+ 
 		 	        	rs.getString("lName")) + ";" +
 		 	         	rs.getString("specialty") + ";" +
 		 	         	rs.getString("city") + ";" +
 		 	         	rs.getFloat("reviewScore"));
-		    	  if(result.size() >= 100) {
-		    		  break;
-		    	  }
-		      }//while
-	      }//if
-		  connection.close();
-	      return result;
+		    	}
+		    	
+		    	// ------------- RULE 2 ------------------
+		    	//getting all doctors of specified specialty and same or better rating but not in the specified city
+		    	if(result.size() < 100) {
+		    		rs = statement.executeQuery("select * from person where "
+		          		+ "specialty == '"+specialty+"' AND "
+		          		+ "city != '"+city+"' AND "
+		          		+ "reviewScore >= "+score+" ORDER BY reviewScore DESC LIMIT 100");
+		    		//adding all found doctors to the resulting list (unless the list has reached 100)
+		    		while(rs.next()) {
+		        	  result.add(rs.getInt("id")+";"+
+		     	        	 (rs.getString("fName") +";"+ 
+		     	        	rs.getString("lName")) +";"+
+		     	         	rs.getString("specialty") +";"+
+		     	         	rs.getString("city") +";"+
+		     	         	rs.getFloat("reviewScore"));
+		        	  if(result.size() >= 100) {
+		        		  break;
+		        	  }
+		        	}
+		    	}	      
+		      
+		    	// ------------- RULE 3 ------------------
+		    	//getting all doctors of specified specialty and in the same city but worse rating
+		    	if(result.size() < 100) {
+		    		rs = statement.executeQuery("select * from person where "
+		    		+ "specialty == '"+specialty+"' AND "
+		      		+ "city == '"+city+"' AND "
+		      		+ "reviewScore < "+score+" ORDER BY reviewScore DESC LIMIT 100");
+		     
+		    		//adding all found doctors to the resulting list (unless the list has reached 100)
+				    while(rs.next()) {
+				    	result.add(
+				    		rs.getInt("id")+";"+
+				    		(rs.getString("fName") +";"+ 
+					        rs.getString("lName")) +";"+
+					        rs.getString("specialty") +";"+
+					        rs.getString("city") +";"+
+					        rs.getFloat("reviewScore"));
+					   	if(result.size() >= 100) {
+					   		break;
+						}
+				    }
+		    	}      
+		   
+		    	// ------------- RULE 4 ------------------
+		    	//getting all doctors of specified specialty but not in the same city and with the worse rating
+		    	if(result.size() < 100) {
+		    		rs = statement.executeQuery("select * from person where "
+			        		+ "specialty == '"+specialty+"' AND "
+			        		+ "city != '"+city+"' AND "
+			        		+ "reviewScore < "+score+" ORDER BY reviewScore DESC LIMIT 100");
+			    //adding all found doctors to the resulting list (unless the list has reached 100)
+			    while(rs.next()) {
+			    	result.add(rs.getInt("id") + ";" +
+			 	        	 (rs.getString("fName") + ";" + 
+			 	        	rs.getString("lName")) + ";" +
+			 	         	rs.getString("specialty") + ";" +
+			 	         	rs.getString("city") + ";" +
+			 	         	rs.getFloat("reviewScore"));
+			    	 if(result.size() >= 100) {
+			    		 break;
+			    	 }
+			    }//while
+		    	}//if
+		    	connection.close();  
+			} catch (SQLException e) {}
+			return result;
 	}//getSimilarDoctors
 	
 	/**
@@ -295,7 +304,6 @@ public class Doctors {
 		try {
 			connection = DriverManager.getConnection("jdbc:sqlite:doctors.db");
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
